@@ -76,3 +76,7 @@ These titles have a version marked **Ready for Distribution** in App Store Conne
 ## Maintenance
 
 Update this file from the developer's store dashboards when new versions first reach production/distribution. Do not treat a submitted build, TestFlight/internal test, or a rejected version as a published release.
+
+## External Austrian / EU app legal references
+
+See **[references/eu-app-legal/](references/eu-app-legal/)** for verified Austrian and other EU mobile-app store listings, original EULAs/terms/privacy policies, and a robots-aware change-fingerprint tracker. The weekly monitoring workflow lives in the public [Playground](https://github.com/Persie0/Playground/blob/main/.github/workflows/eu-app-legal-reference-monitor.yml) repository and proposes changes via pull request.
