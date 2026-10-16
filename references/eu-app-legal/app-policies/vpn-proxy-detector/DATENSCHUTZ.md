@@ -14,7 +14,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 
 | Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
 | --- | --- | --- | --- |
-| Verbindung prüfen | Netzwerkschnittstellen, mögliche VPN-/Proxy-Konfiguration und Ergebnisse | Bereitstellung der von Ihnen gestarteten Netzwerkprüfung | Ergebnisse, soweit gespeichert, bis zur Löschung der App-Daten |
+| Netzwerkprüfung | Netzwerkschnittstellen, VPN-/Proxy-Konfiguration und Prüfergebnisse | Bereitstellung der von Ihnen gestarteten Netzwerkprüfung | Im App-Speicher bis zur Löschung durch Sie, soweit Ergebnisse gespeichert werden |
 
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
@@ -26,9 +26,11 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 5. An wen werden Daten übermittelt?
 
+**Noch nicht verifiziert:** Der Quellcode des konkreten im Store veröffentlichten Pakets konnte nicht festgestellt werden. Daher werden an dieser Stelle keine mutmaßlichen Werbe-, Server- oder Zahlungsanbieter als tatsächliche Empfänger behauptet. **Dieser Entwurf darf nicht veröffentlicht werden.**
+
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 

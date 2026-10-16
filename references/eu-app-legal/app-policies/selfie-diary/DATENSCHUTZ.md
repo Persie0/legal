@@ -14,7 +14,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 
 | Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
 | --- | --- | --- | --- |
-| Aufbewahrung eigener Foto-Tagebucheinträge | Fotos, persönliche Notizen und Datumsangaben | Bereitstellung der von Ihnen gewählten Tagebuchfunktion | Speicherung im App-Speicher bis zur Löschung durch Sie |
+| Foto-Tagebuch führen | Von Ihnen ausgewählte Fotos, Notizen und Datumsangaben | Bereitstellung der gewählten Tagebuchfunktion | Im App-Speicher bis zur Löschung durch Sie |
 
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
@@ -28,7 +28,7 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 

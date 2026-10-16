@@ -27,11 +27,11 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 5. An wen werden Daten übermittelt?
 
-Für die Kernfunktion werden keine externen Werbe-, Analyse- oder Kaufdienste eingesetzt. Bei einer selbst gestarteten externen Website beziehungsweise einem Betriebssystem-Dialog können trotzdem eigene Datennutzungen des Zielanbieters stattfinden.
+Für die Kernfunktion werden keine externen Werbe-, Diagnose- oder Kaufdienste verwendet. Bei einer selbst gestarteten externen Website beziehungsweise einem Betriebssystem-Dialog können trotzdem eigene Datennutzungen des Zielanbieters stattfinden.
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 

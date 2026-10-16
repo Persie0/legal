@@ -15,7 +15,8 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 | Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
 | --- | --- | --- | --- |
 | Lokale Appfunktion | Hochschul- und Sitzungsinformationen; Termine; Erinnerungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | Aufbewahrung nur so lange wie für den betreffenden Zweck erforderlich |
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | Gemäß der jeweils vereinbarten Frist des Diagnosedienstes |
+
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
 Für die von Ihnen gestarteten Vorgänge werden insbesondere Hochschul- und Sitzungsinformationen, Termine, Erinnerungen verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
@@ -32,11 +33,11 @@ Technische Absturzberichte können Informationen über das Gerät, die App und d
 
 ### Hochschul- und Kalenderdienste
 
-Bei der Nutzung werden selbst gewählte Hochschul-Anmeldungen, Sitzungstoken, Lehrveranstaltungs-/Kalenderdaten und Termine über die betreffenden TU-Wien-Endpunkte geladen. Daten werden nur beim Öffnen oder Verbinden der jeweiligen Hochschul- und Kalenderfunktionen an die gewählten Dienste übertragen. 
+Bei der Nutzung werden selbst gewählte Hochschul-Anmeldungen, Sitzungstoken, Lehrveranstaltungs-/Kalenderdaten und Termine über die betreffenden TU-Wien-Endpunkte geladen. Wenn Sie eine Microsoft- oder Hochschulverbindung verwenden, werden Daten an den jeweiligen gewählten Dienst übertragen. 
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
