@@ -29,7 +29,7 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ### Diagnosedienst – Sentry.io
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte Konfiguration verweist auf den externen Dienst Sentry.io. 
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Fehlerberichte werden an den Diagnosedienst Sentry.io übermittelt. 
 
 ### Hochschul- und Kalenderdienste
 

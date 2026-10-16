@@ -30,7 +30,7 @@ Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt kei
 Für die Kernfunktion wird kein eigener Online-Konto-, Zahlungs- oder Werbedienst verwendet.
 ### Fehlerberichte (Build-abhängiges Sentry-SDK)
 
-Für die Fehlerbehebung kann ein technischer Bericht an die im Store-Build konfigurierte Sentry-kompatible Adresse gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören. 
+Für die Fehlerbehebung können technische Berichte mit Informationen zur App- und Systemversion, Fehlerbeschreibungen und Stacktraces an den für die Anwendung eingerichteten Diagnosedienst übertragen werden. 
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 

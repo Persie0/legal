@@ -2,7 +2,7 @@
 
 ## 1. Für wen gilt diese Erklärung?
 
-Die Erklärung gilt für **Resistor Color Code Scanner**, eine Anwendung zur Analyse von Farbringen aus Bildern von Widerständen. Für das geprüfte native Kotlin-Android-Projekt ist kein Appodeal-Adapter nachgewiesen; Angaben über Anzeigen aus einer älteren Flutter-Version sind nicht auf diese Fassung übertragbar. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
+Diese Erklärung gilt für **Resistor Color Code Scanner**, eine Anwendung zur Analyse von Farbringen aus Bildern von Widerständen. Für die Erkennung verarbeitet die App die von Ihnen bereitgestellten Aufnahmen. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
 
 ## 2. Wer ist verantwortlich?
 

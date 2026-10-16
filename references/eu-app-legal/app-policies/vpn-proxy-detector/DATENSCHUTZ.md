@@ -26,7 +26,7 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 5. An wen werden Daten übermittelt?
 
-**Noch nicht verifiziert:** Der Quellcode des konkreten im Store veröffentlichten Pakets konnte nicht festgestellt werden. Daher werden an dieser Stelle keine mutmaßlichen Werbe-, Server- oder Zahlungsanbieter als tatsächliche Empfänger behauptet. **Dieser Entwurf darf nicht veröffentlicht werden.**
+Bei einer von Ihnen veranlassten Prüfung verarbeitet die App Netzwerkeinstellungen, soweit dies für die Anzeige des Prüfergebnisses erforderlich ist.
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
