@@ -1,40 +1,29 @@
 # Nutzungsbedingungen – MoWa: Language Learning
 
-**Entwurf vom 16. Oktober 2026 – noch nicht als Vertragsbedingungen freigegeben**
+**Entwurf zur rechtlichen Prüfung vom 16. Oktober 2026**
 
-## 1. Anbieter und Geltung
+## Anbieter
 
-Anbieter ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich, E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die rechtlichen Anbieterinformationen finden Sie im [Impressum](https://persie0.github.io/impressum.html). Diese Nutzungsbedingungen gelten für die hier bezeichnete Anwendung **MoWa: Language Learning** und ergänzen, soweit wirksam einbezogen, die Regelungen des jeweiligen Stores. Soweit auf der Apple-Plattform Apples Standard-EULA gilt, bleibt diese Lizenzvereinbarung unberührt; ein gesonderter Softwarelizenzvertrag soll nicht durch unklare Zusatzklauseln fingiert werden.
+Verantwortlicher App-Anbieter ist Marvin Perzi (Persie0), Österreich. Kontakt: [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die vom jeweiligen Store angebotenen Lizenz- und Kaufbedingungen gelten daneben; bei Apple kann die Standard-EULA ausreichen.
 
-## 2. Leistungsgegenstand
+## Produkt
 
-Die App erleichtert Vokabeltraining und kann Übersetzungen über externe Dienste abrufen.
+Die App **MoWa: Language Learning** dient dazu, Vokabeln lernen und auf Wunsch online übersetzen. Automatische Übersetzungen können falsch sein. Maßgeblich sind die bei Erwerb vereinbarten und im Store oder der App ersichtlichen Merkmale.
 
-Der konkrete Leistungsumfang richtet sich nach der im Store beschriebenen und auf Ihrem Gerät installierten Version. Wir bemühen uns um die Funktionsfähigkeit der beschriebenen Merkmale, schulden jedoch keine nicht ausdrücklich vereinbarte technische Eigenschaft oder künftige kostenlose Erweiterung. Gesetzliche Ansprüche bei einer vereinbarten, aber nicht vertragsgemäß bereitgestellten digitalen Leistung bleiben unberührt.
+## Nutzungsrecht
 
-## 3. Nutzungsrecht und eigene Inhalte
+Die App darf im gesetzlich und vertraglich zulässigen Rahmen auf unterstützten Geräten verwendet werden. Rechte an Ihren eigenen Texten, Fotos und anderen Inhalten bleiben bei den Berechtigten. Für fremde Inhalte benötigen Sie die entsprechenden Nutzungsrechte. Zwingende Verbraucherrechte werden durch diese Regeln nicht eingeschränkt.
 
-Sie dürfen die App im Rahmen des rechtmäßig über den betreffenden Store erworbenen beziehungsweise bereitgestellten Nutzungsrechts und der technischen Plattformbedingungen verwenden. Eine Weitergabe entgegen anwendbaren Lizenzbedingungen oder rechtswidrige Eingriffe in App-Dienste sind nicht erlaubt. Die Rechte an Ihren eigenen Fotos, Texten, Videos, Lernkarten oder anderen Inhalten verbleiben bei Ihnen beziehungsweise den berechtigten Rechteinhabern. Sie müssen über die erforderlichen Rechte verfügen, wenn Sie fremde Inhalte importieren, verbreiten oder teilen.
+## Drittanbieter und Inhalte
 
-## Qualität, Grenzen und wichtige Hinweise
+Soweit freiwillige Cloud-, Übersetzungs- oder externe Inhaltsdienste verwendet werden, sind die dortigen Bedingungen ergänzend zu beachten. Eine App-Lizenz ersetzt keine Lizenz für urheberrechtlich geschütztes fremdes Material.
 
-Automatische Übersetzungen können fehlerhaft sein. Vertrauliche Texte sollten nicht ohne eigene Abwägung an externe Übersetzungsserver gesendet werden.
+## Änderungen, Gewährleistung und Support
 
-Eine Softwarefunktion kann durch Gerätewechsel, veränderte Betriebssystemrechte, externe Schnittstellen oder Netzwerkstörungen zeitweilig eingeschränkt sein. Wir werden zwingende Verbraucherrechte bei mangelnder Vertragsmäßigkeit und Sicherheitsupdates achten; pauschale Haftungsausschlüsse für gesetzlich zwingende Ansprüche gelten nicht.
+Sicherheits- und Kompatibilitätsupdates können nötig sein. Soweit eine Funktion Vertragsinhalt ist, bleiben Ihre gesetzlichen Ansprüche auf vertragsgemäße digitale Leistungen und die vorgesehenen Abhilfen bestehen. Eine allgemeine Freizeichnung für gesetzlich zwingende Haftung ist nicht vereinbart.
 
-## Datenschutz, Fehler und Support
-
-Die Verarbeitung personenbezogener Daten, etwa zur App-Funktion, für optionale externe Dienste und zur technischen Fehlerbehebung, wird in der zugehörigen [Datenschutzerklärung](DATENSCHUTZ.md) erläutert. Diese Bedingungen ersetzen weder Datenschutzinformationen noch nötige gesonderte Einwilligungen. Bei Funktionsfehlern können Sie sich mit einer Problembeschreibung an [persie0@protonmail.com](mailto:persie0@protonmail.com) wenden. Senden Sie dabei keine Passwörter oder vertraulichen Inhalte mit, sofern dies zur Bearbeitung nicht notwendig ist.
-
-## Gesetzliche Verbraucherrechte und Schlussbestimmungen
-
-Zwingende österreichische und europäische Verbraucherrechte bleiben uneingeschränkt bestehen, insbesondere gesetzliche Gewährleistung, wirksame Rücktrittsrechte und die zwingenden Regelungen des Staats Ihres gewöhnlichen Aufenthalts, soweit diese anwendbar sind. Allgemeine Hinweise in der App oder diesen Bedingungen führen nicht zu einem Verzicht auf solche Rechte. Bei Änderungen, die Verbraucherrechte berühren, informieren wir im rechtlich notwendigen Umfang; eine bloße Fortbenutzung ersetzt keine gesetzlich nötige Zustimmung zu nachteiligen Vertragsänderungen.
+Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
 
 ---
 
-### Interne Freigabehinweise – vor öffentlicher Veröffentlichung entfernen
-
-- Diese zusätzliche AGB ist **nicht für jede App gesetzlich vorgeschrieben**. Bei rein lokalen Spielen oder Tools genügt regelmäßig ein sauberer Datenschutzhinweis plus gegebenenfalls die Plattformstandardlizenz. Vor Aufnahme dieser Nutzungsbedingungen prüfen, ob eine wirksame vertragliche Einbeziehung erforderlich und sachgerecht ist.
-- **MoWa: Language Learning:** Produktfunktion, vorhandene kostenpflichtige Angebote und Klauseln anhand des tatsächlich ausgelieferten Builds und der Store-Produktseite bestätigen.
-- Keine nicht vorhandenen Werbe-, Kauf- oder Kontoobliegenheiten hinzufügen.
-- Eigene Formulierungen auf Basis des Projekts; vergleichbare [EU/Austrian-Referenzen](../README.md) dienen nur zur strukturellen Orientierung. Kein Text fremder AGB wurde kopiert.
+**Redaktionell:** Vor Veröffentlichung den tatsächlich verkauften Funktionsumfang, Preise, Store-Bedingungen und gegebenenfalls Rücktrittsweg prüfen. Bei einfachen Apps können gesonderte Nutzungsbedingungen entbehrlich sein.
