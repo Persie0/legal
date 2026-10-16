@@ -261,6 +261,166 @@
           "notes": "Platform reference, not an Austrian or EU app publisher."
         }
       ]
+    },
+    {
+      "id": "cryptomator",
+      "publisher": "Skymatic GmbH",
+      "country": "DE",
+      "app": "Cryptomator",
+      "topics": [
+        "encrypted-local-storage",
+        "cloud-sync",
+        "google-drive",
+        "file-access",
+        "privacy-by-design",
+        "native-purchases"
+      ],
+      "google_play": "https://play.google.com/store/apps/details?id=org.cryptomator.freemium",
+      "app_store": null,
+      "documents": [
+        {
+          "id": "cryptomator-privacy",
+          "type": "privacy",
+          "url": "https://cryptomator.org/privacy/",
+          "version_seen": "April 2025",
+          "notes": "Privacy page explicitly discusses native Android/iOS cloud-storage access, local processing and optional diagnostics; not proof that user's apps encrypt content."
+        }
+      ]
+    },
+    {
+      "id": "nextcloud",
+      "publisher": "Nextcloud GmbH",
+      "country": "DE",
+      "app": "Nextcloud Files",
+      "topics": [
+        "account",
+        "cloud-sync",
+        "backup",
+        "photo-storage",
+        "oauth",
+        "self-hosted"
+      ],
+      "google_play": "https://play.google.com/store/apps/details?id=com.nextcloud.client",
+      "app_store": null,
+      "documents": [
+        {
+          "id": "nextcloud-privacy",
+          "type": "privacy",
+          "url": "https://nextcloud.com/privacy/",
+          "version_seen": null,
+          "notes": "Nextcloud's website/service privacy statement; each independent self-hosted server may have its own controller and disclosures."
+        },
+        {
+          "id": "nextcloud-imprint",
+          "type": "imprint",
+          "url": "https://nextcloud.com/de/impressum/",
+          "version_seen": null
+        }
+      ]
+    },
+    {
+      "id": "inoreader",
+      "publisher": "Innologica Ltd",
+      "country": "BG",
+      "app": "Inoreader: News & RSS Reader",
+      "topics": [
+        "rss",
+        "web-content",
+        "external-links",
+        "user-account",
+        "subscriptions",
+        "analytics",
+        "device-id"
+      ],
+      "google_play": "https://play.google.com/store/apps/details?id=com.innologica.inoreader",
+      "app_store": "https://apps.apple.com/at/app/inoreader-news-rss-reader/id892355414",
+      "documents": [
+        {
+          "id": "inoreader-privacy",
+          "type": "privacy",
+          "url": "https://www.inoreader.com/privacy_policy",
+          "version_seen": null,
+          "notes": "Document's introduction focuses on website processing; verify mobile app behavior from store disclosure separately."
+        },
+        {
+          "id": "inoreader-terms",
+          "type": "terms",
+          "url": "https://www.inoreader.com/tos",
+          "version_seen": null
+        }
+      ]
+    },
+    {
+      "id": "windy",
+      "publisher": "Windyty, SE",
+      "country": "CZ",
+      "app": "Windy.com - Weather Forecast",
+      "topics": [
+        "weather",
+        "location",
+        "mapping",
+        "map-tiles",
+        "subscriptions",
+        "ip-address",
+        "account"
+      ],
+      "google_play": "https://play.google.com/store/apps/details?id=com.windyty.android",
+      "app_store": null,
+      "documents": [
+        {
+          "id": "windy-privacy",
+          "type": "privacy",
+          "url": "https://account.windy.com/agreements/privacy-policy",
+          "version_seen": null,
+          "notes": "Explicitly addresses the mobile app, account vs no-account data, maps, privacy rights, retention and transfers."
+        },
+        {
+          "id": "windy-terms",
+          "type": "terms",
+          "url": "https://account.windy.com/agreements/windy-general-terms-of-use",
+          "version_seen": null
+        }
+      ]
+    },
+    {
+      "id": "yuka",
+      "publisher": "Yuca SAS",
+      "country": "FR",
+      "app": "Yuka - Product Scanner",
+      "topics": [
+        "camera",
+        "scanning",
+        "barcode",
+        "remote-catalog",
+        "offline",
+        "account",
+        "subscriptions",
+        "consent",
+        "sdk-disclosures"
+      ],
+      "google_play": "https://play.google.com/store/apps/details?id=io.yuka.android",
+      "app_store": null,
+      "documents": [
+        {
+          "id": "yuka-privacy",
+          "type": "privacy",
+          "url": "https://help.yuka.io/l/en/article/jcejovibd3",
+          "version_seen": "July 2026 (German notice)",
+          "notes": "App-specific notice with device, location, social-login, third-party and deletion topics."
+        },
+        {
+          "id": "yuka-terms",
+          "type": "terms",
+          "url": "https://help.yuka.io/l/en/article/nui6tegnjw-terms-conditions-ue-uk",
+          "version_seen": null
+        },
+        {
+          "id": "yuka-imprint",
+          "type": "imprint",
+          "url": "https://help.yuka.io/l/en/article/nlsu1ptphw-legal-notice",
+          "version_seen": null
+        }
+      ]
     }
   ]
 }
