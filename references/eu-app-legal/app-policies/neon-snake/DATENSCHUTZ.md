@@ -1,77 +1,54 @@
-# Datenschutzerklärung – Neon Snake
+# Datenschutzerklärung für Neon Snake
 
-**Stand des Entwurfs:** 16. Oktober 2026 · **Geltungsbereich:** Neon Snake (Quellcode: [Persie0/neon_snake_matrix](https://github.com/Persie0/neon_snake_matrix)) · **Redaktioneller Entwurf, noch nicht öffentlich freigegeben**
+*Redaktionelle Fassung: 16. Oktober 2026 · Zur Endprüfung, nicht für die unveränderte Veröffentlichung.*
 
-> **Veröffentlichungshinweis (nicht Bestandteil der Endfassung):** Dieser Text ist eine aus dem bekannten Codezustand verfasste Datenschutzerklärung, kein bloßer Maßnahmenkatalog. Die mit **[VOR VERÖFFENTLICHUNG]** markierten Tatsachen sind vor Nutzung in einer Store-Website zu klären. 
+## 1. Geltungsbereich
 
-## 1. Verantwortlicher und Kontakt
+Diese Datenschutzerklärung betrifft **Neon Snake** und beschreibt die Verarbeitung im Zusammenhang mit lokale Spielstände und Audioeinstellungen. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die genannten Grunddaten dienen der von Ihnen ausgelösten Funktion.
 
-Verantwortlich für die hier beschriebene Verarbeitung ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. Sie erreichen uns für Datenschutzanfragen unter **[persie0@protonmail.com](mailto:persie0@protonmail.com)**. Weitere Angaben zum Diensteanbieter (einschließlich UID, Kontakt und Gewerbe) enthält unser [Impressum](https://persie0.github.io/impressum.html).
+## 2. Verantwortlicher
 
-Diese Erklärung erläutert die Nutzung der Anwendung **Neon Snake**. Verweist die App auf externe Websites oder Dienste, gelten für deren eigenständige Verarbeitung auch die Datenschutzinformationen dieser Anbieter.
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-## 2. Welche Daten die App verarbeitet und wofür
+## 3. Datenarten, Zwecke, Grundlagen und Speicherung
 
-Highscore und Tonoptionen werden für die Spielfunktion lokal gespeichert. Die Musik ist Teil der lokalen App-Ausführung.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich vom Benutzer lokal ausgeführten Berechnungen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-Auf dem Gerät können für Ihre gewählten Funktionen insbesondere folgende Informationen anfallen:
+| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium |
+| --- | --- | --- | --- |
+| Verwendung der App auf Ihrem Gerät | Spielstände und Highscores; Lautstärke und Spieleinstellungen | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
 
-- lokaler Spielstand und Highscore.
-- Lautstärke und Gestaltungseinstellungen.
+## 4. Lokale Inhalte und Geräteberechtigungen
 
-Diese Angaben werden für die Nutzung der App, das Wiederherstellen Ihrer Einstellungen und das Erstellen der von Ihnen gewünschten Ergebnisse verwendet. Soweit es sich um eine personenbezogene Verarbeitung durch uns handelt, kommen insbesondere Art. 6 Abs. 1 lit. b DSGVO (Bereitstellung einer angeforderten vertraglichen Funktion) und bei technisch notwendigen Betriebsdaten Art. 6 Abs. 1 lit. f DSGVO in Betracht. Daten, die ausschließlich auf Ihrem eigenen Gerät verarbeitet werden und auf die wir keinen Zugriff haben, sind davon zu unterscheiden.
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: Spielstände und Highscores, Lautstärke und Spieleinstellungen. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
+
+Die genaue Systemberechtigung hängt von den tatsächlich verwendeten Funktionen ab. Die App verlangt keine pauschale Freigabe sämtlicher Dateien oder Sensoren.
+
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
+
+## 5. Dienstleister und weitere Empfänger
+
+Nach dem untersuchten Quellcode ist für die Kernfunktion kein regelmäßig genutzter Online-Konto-, Zahlungs- oder Werbedienst belegt.
+
+
+## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
+
+Eine nicht erforderliche Werbeeinwilligung wird für diese Kernfunktion nicht allein durch die Annahme der Nutzungsbedingungen fingiert.
 
 
 
-## 3. Zugriffe auf Gerätefunktionen
+## 7. Datenweitergabe, Drittländer und Dauer
 
-Bei Nutzung der entsprechenden Funktionen können folgende Berechtigungen verlangt werden:
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien. **[ZU PRÜFEN: tatsächlich betroffene Länder, Übermittlungsgrundlagen und Auftragsverarbeitungsverträge.]** Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Soweit eine tatsächliche Aufbewahrungsdauer fehlt, muss sie vor Veröffentlichung ergänzt werden.
 
-Die Kernfunktion benötigt nach dem geprüften Manifest keine zusätzliche Berechtigung für Kamera, Mikrofon oder Standort. Systemberechtigungen für Dateiauswahl oder weitere Funktionen bleiben von der jeweiligen Betriebssystemversion abhängig.
+## 8. Betroffenenrechte und Löschung
 
-Berechtigungen werden über das Betriebssystem gesteuert. Sie können sie dort entziehen; die zugehörige Funktion ist anschließend unter Umständen nicht mehr nutzbar. Eine erteilte Betriebssystemberechtigung ersetzt keine gegebenenfalls zusätzlich erforderliche datenschutzrechtliche Einwilligung.
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Beachten Sie, dass die Deinstallation nicht automatisch Ihre separat gespeicherten Exporte, Cloud-Kopien oder laufende Abonnements beendet.
 
-## 4. Externe Dienste, Diagnosen und Datenempfänger
+## 9. Sicherheit und Aktualisierung
 
-Daten werden nicht allein deshalb an sämtliche nachstehend genannten Unternehmen übertragen, weil diese unter Umständen als Abhängigkeit im Projekt enthalten sind. Beschrieben werden die für die Anwendung identifizierten oder ausdrücklich bedingten Datenwege; welche Anbieter in einer veröffentlichten App-Version tatsächlich aktiv sind, muss mit deren finaler Konfiguration abgeglichen werden.
-
-Für die beschriebenen Kernfunktionen sind in den überprüften Quellen keine regelmäßig verwendeten externen Analyse-, Anzeigen- oder Kaufempfänger nachgewiesen. Von Ihnen gestartete Links, Betriebssystemfreigaben und Store-Vorgänge bleiben davon unabhängig.
-
-## 5. Dauer der Speicherung und Löschung
-
-Daten im lokalen App-Speicher bleiben grundsätzlich bis zu Ihrer eigenen Löschung, bis zum Zurücksetzen der App-Daten oder bis zur Deinstallation vorhanden. Von Ihnen exportierte Dateien können außerhalb des App-Speichers weiter bestehen und müssen gegebenenfalls separat gelöscht werden. Daten in einem freiwillig verbundenen Cloudkonto oder bei einem externen Dienst unterliegen zusätzlich den dortigen Lösch- und Aufbewahrungsabläufen.
-
-Für technische Server-, Absturz-, Kauf- und Werbedaten gelten gesonderte Fristen und Löschkriterien der jeweils verantwortlichen Stelle; diese sind in Abschnitt 4 sowie in den verlinkten Anbieterinformationen beschrieben. **[VOR VERÖFFENTLICHUNG: konkrete Entwickler-Hosting- und GlitchTip-Logfristen, Supportanfragen, Abrechnungsfristen und gegebenenfalls Löschung von Backups ergänzen; pauschales „sofort“ nicht behaupten.]**
-
-Anfragen zur Berichtigung, Auskunft oder Löschung von Daten in unserem Verantwortungsbereich richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com). Eine Deinstallation beendet nicht automatisch Store-Abonnements.
-
-## 6. Rechtsgrundlagen, internationale Übermittlung und Einwilligung
-
-Für die Verarbeitung zur Erfüllung einer angeforderten Funktion kommt – soweit die DSGVO anwendbar ist – Art. 6 Abs. 1 lit. b DSGVO in Betracht; die Verarbeitung technisch notwendiger Fehler- und Sicherheitsdaten kann auf Art. 6 Abs. 1 lit. f DSGVO beruhen. Wird eine Einwilligung benötigt, beruht die betreffende Verarbeitung auf Art. 6 Abs. 1 lit. a DSGVO und, bei Informationen auf Endgeräten, auf den dafür einschlägigen Bestimmungen des § 165 TKG 2021. Eine erforderliche Einwilligung kann für die Zukunft widerrufen werden. Für besondere Datenkategorien ist zusätzlich Art. 9 DSGVO zu prüfen.
-
-Manche in Abschnitt 4 genannten Unternehmen können Daten außerhalb des Europäischen Wirtschaftsraums verarbeiten oder auf Daten von dort zugreifen. Bei solchen Übermittlungen werden – sofern erforderlich – Angemessenheitsbeschlüsse, Standarddatenschutzklauseln und geeignete weitere Garantien herangezogen. **[VOR VERÖFFENTLICHUNG: tatsächliche betroffene Länder und je Anbieter geltende Übermittlungsgrundlage prüfen; eine bloße Verlinkung der Anbieterpolitik reicht nicht als Nachweis.]**
-
-## 7. Ihre Rechte
-
-Unter den gesetzlichen Voraussetzungen haben Sie Rechte auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Soweit wir uns auf Einwilligung stützen, können Sie diese mit Wirkung für die Zukunft widerrufen. Einzelfälle und gesetzliche Aufbewahrungspflichten können die Ausübung bestimmter Rechte einschränken. Wir beantworten entsprechende Anfragen über die oben genannte Kontaktadresse und können eine angemessene Identitätsprüfung verlangen.
-
-Sie können sich außerdem bei einer Datenschutzaufsichtsbehörde beschweren, in Österreich insbesondere bei der **[Österreichischen Datenschutzbehörde](https://dsb.gv.at/)**. Datenschutzfragen können Sie auch unmittelbar an uns richten.
-
-## 8. Sicherheit, Minderjährige und Änderungen
-
-Wir verwenden nach Maßgabe der tatsächlichen Verarbeitung geeignete technische und organisatorische Schutzmaßnahmen. Keine Software und keine Internetübertragung kann eine absolute Sicherheit garantieren. Für Kinder angebotene Funktionen oder eine auf Kinder ausgerichtete Verbreitung erfordern gesonderte Prüfung der Alters- und Einwilligungsregeln. Ändern sich wesentliche Zwecke oder Empfänger, passen wir diese Datenschutzerklärung an und informieren, soweit rechtlich erforderlich, gesondert.
-
-## 9. Weitere Informationen
-
-- [Impressum Persie0](https://persie0.github.io/impressum.html)
-- [Allgemeine Datenschutzinformationen Persie0](https://persie0.github.io/datenschutz.html)
-- [Kontakt](mailto:persie0@protonmail.com)
-- [Rechtsgrundlagen: Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen. Für Minderjährige gelten die einschlägigen Schutzvorschriften.
 
 ---
 
-### Interner Freigabevermerk – vor öffentlicher Nutzung entfernen
-
-- Abgleich mit den installierten SDKs und dem zuletzt an Nutzer ausgelieferten Android-/Apple-Build erforderlich.
-- Speicherdauern, Hostingland, tatsächlich aktive Mediation/Endpunkte, internationale Übermittlungen, Rechtsgrundlagen und sämtliche markierten Angaben vor rechtlicher Freigabe überprüfen.
-- **Vorliegendes Markdown ist nicht die bereits live geschaltete App-Datenschutzerklärung.** Als redaktionelle Ausgangsbasis dient der eigene Code und die eigene App-Dateninventur; vergleichbare externe Beispiele: [Auphonic](https://eu1.auphonic.com/privacy), [ÖAMTC](https://www.oeamtc.at/mitgliedschaft/leistungen/datenschutzerklaerung-oeamtc-app-28493389), [Photoroom](https://www.photoroom.com/legal/privacy). Ihre Texte wurden nicht übernommen.
+**Interne Freigabenotiz – nicht auf einer öffentlichen Datenschutzseite anzeigen.** Die mit **[ZU PRÜFEN]** bezeichneten Tatsachen sind noch durch Store-Build, SDK-Laufzeittest und Serverkonfiguration zu bestätigen. Die Gliederung ist eigenständig formuliert und an der Detailtiefe realer österreichischer/EU-App-Hinweise (ÖAMTC, Auphonic, Photoroom) orientiert, nicht an ihrem Wortlaut.

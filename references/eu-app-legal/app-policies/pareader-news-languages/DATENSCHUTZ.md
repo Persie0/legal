@@ -1,115 +1,110 @@
-# Datenschutzerklärung – Pareader
+# Datenschutzerklärung für Pareader
 
-**Stand des Entwurfs:** 16. Oktober 2026 · **Geltungsbereich:** Pareader (Quellcode: [Persie0/pareader](https://github.com/Persie0/pareader)) · **Redaktioneller Entwurf, noch nicht öffentlich freigegeben**
+*Redaktionelle Fassung: 16. Oktober 2026 · Zur Endprüfung, nicht für die unveränderte Veröffentlichung.*
 
-> **Veröffentlichungshinweis (nicht Bestandteil der Endfassung):** Dieser Text ist eine aus dem bekannten Codezustand verfasste Datenschutzerklärung, kein bloßer Maßnahmenkatalog. Die mit **[VOR VERÖFFENTLICHUNG]** markierten Tatsachen sind vor Nutzung in einer Store-Website zu klären. 
+## 1. Geltungsbereich
 
-## 1. Verantwortlicher und Kontakt
+Diese Datenschutzerklärung betrifft **Pareader** und beschreibt die Verarbeitung im Zusammenhang mit E-Books, RSS-Quellen, Vokabeln und angeforderte KI-Funktionen. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die genannten Grunddaten dienen der von Ihnen ausgelösten Funktion.
 
-Verantwortlich für die hier beschriebene Verarbeitung ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. Sie erreichen uns für Datenschutzanfragen unter **[persie0@protonmail.com](mailto:persie0@protonmail.com)**. Weitere Angaben zum Diensteanbieter (einschließlich UID, Kontakt und Gewerbe) enthält unser [Impressum](https://persie0.github.io/impressum.html).
+## 2. Verantwortlicher
 
-Diese Erklärung erläutert die Nutzung der Anwendung **Pareader**. Verweist die App auf externe Websites oder Dienste, gelten für deren eigenständige Verarbeitung auch die Datenschutzinformationen dieser Anbieter.
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-## 2. Welche Daten die App verarbeitet und wofür
+## 3. Datenarten, Zwecke, Grundlagen und Speicherung
 
-Importierte Bücher, ausgewählte RSS-Quellen, gespeicherte Wörter und Sprachübungen dienen der Lese- und Lernfunktion. Über das Netzwerk werden nur angeforderte Webinhalte und separat gestartete KI-Aufgaben an die jeweiligen externen Anbieter gesendet.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich vom Benutzer lokal ausgeführten Berechnungen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-Auf dem Gerät können für Ihre gewählten Funktionen insbesondere folgende Informationen anfallen:
+| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium |
+| --- | --- | --- | --- |
+| Verwendung der App auf Ihrem Gerät | Bücher, EPUBs, gespeicherte Artikel, RSS-Quellen, Lesezeichen und Leseverlauf; Vokabeln, Übungen, Lernfortschritt und Anki-Synchronisierungsstatus; private Shadowing-Aufnahmen; Google-AI- und NVIDIA-API-Schlüssel im sicheren Betriebssystemspeicher | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
+| Die von Ihnen ausdrücklich gestartete KI-Funktion bereitstellen. | Google-AI-API-Schlüssel sowie die für die Funktion ausgewählten Wörter, Sätze, Artikel- oder Buchtexte, Transkripte, Eingaben und erzeugten Inhalte. Übersetzungen verwenden Google AI. Der API-Schlüssel liegt im sicheren Betriebssystemspeicher und wird nicht an Persie0 gesendet. | Art. 6 Abs. 1 lit. a/b DSGVO. Optional; Google handelt nach Ihrem API-Konto/-Vertrag. | Persie0 speichert lokal nur von Ihnen gespeicherte Ausgaben. Googles Aufbewahrung/Training hängt von bezahltem Dienst/Kontoeinstellungen ab; prüfen Sie vor personenbezogenen Daten die aktuellen Bedingungen. |
+| Die von Ihnen ausdrücklich gestartete KI-Funktion bereitstellen. | NVIDIA-API-Schlüssel sowie ausgewählte Texte, Eingaben und erzeugte Ausgaben für andere KI-Aktionen als Übersetzungen, wenn NVIDIA ausgewählt ist. Der API-Schlüssel liegt im sicheren Betriebssystemspeicher und wird nicht an Persie0 gesendet. | Art. 6 Abs. 1 lit. a/b DSGVO; optional und durch Ihr NVIDIA-API-Konto geregelt. | Persie0 speichert lokal nur von Ihnen gespeicherte Ausgaben. Für Anfrageprotokolle/Inhalte gelten NVIDIAs Konto-/API-Fristen. |
+| Von Ihnen gewünschte Inhalte öffnen oder abrufen. | IP, User-Agent, Anfragezeit, angeforderte URL/Inhalte und vom externen Dienst gesteuerte Cookies/Anmeldedaten. In Pareader können angeforderte Seiten-/Artikeltexte lokal verarbeitet werden; ausgewählter Text geht nur bei von Ihnen gestarteter KI-Aktion an KI. | Art. 6 Abs. 1 lit. b DSGVO für Ihre gewünschte Aktion. Der externe Dienst ist eigenständig Verantwortlicher. | Nach Datenschutz-/Cookieeinstellungen des Ziels. Persie0 speichert nur lokal von Ihnen gesicherten Verlauf/Lesezeichen. |
+| Lernmaterial auf Ihre Anforderung importieren/exportieren oder synchronisieren. | Von der Funktion gewählte Stapel-/Karteninhalte, Vokabel-/Lernfelder, Tags und Sync-Status; lokale Netzwerkadresse bei Suche nach AnkiConnect. Die Daten laufen nicht über Persie0s Server. | Art. 6 Abs. 1 lit. b DSGVO. Lokaler Geräte-/Netzwerkzugriff nur für die von Ihnen gewünschte Funktion. | Nach den Stapeln/Daten Ihrer Anki-Installation; lokaler App-Sync-Status bis Reset/Deinstallation. |
+| Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren. | Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren. | Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr. | Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht. |
+| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | [ZU PRÜFEN: konkrete Diagnose- und HTTP-Logfristen] |
 
-- Bücher, EPUBs, gespeicherte Artikel, RSS-Quellen, Lesezeichen und Leseverlauf.
-- Vokabeln, Übungen, Lernfortschritt und Anki-Synchronisierungsstatus.
-- private Shadowing-Aufnahmen.
-- Google-AI- und NVIDIA-API-Schlüssel im sicheren Betriebssystemspeicher.
+## 4. Lokale Inhalte und Geräteberechtigungen
 
-Diese Angaben werden für die Nutzung der App, das Wiederherstellen Ihrer Einstellungen und das Erstellen der von Ihnen gewünschten Ergebnisse verwendet. Soweit es sich um eine personenbezogene Verarbeitung durch uns handelt, kommen insbesondere Art. 6 Abs. 1 lit. b DSGVO (Bereitstellung einer angeforderten vertraglichen Funktion) und bei technisch notwendigen Betriebsdaten Art. 6 Abs. 1 lit. f DSGVO in Betracht. Daten, die ausschließlich auf Ihrem eigenen Gerät verarbeitet werden und auf die wir keinen Zugriff haben, sind davon zu unterscheiden.
-
-Aufnahmen, Audio- und Videodateien werden nur zur von Ihnen ausgelösten Funktion ausgewählt, bearbeitet oder gespeichert. Eine automatische Übermittlung der Originaldateien an Werbe- oder Kaufanbieter ist für diese Funktionen nicht vorgesehen; technische SDK-Anfragen sind hiervon getrennt.
-
-Bei einer ausdrücklich gestarteten KI-Funktion werden die dafür ausgewählten Texte, Anweisungen oder Anlagen an den eingestellten KI-Anbieter gesendet. Die Anbieter sehen dabei Verbindungsdaten und erhalten den von Ihnen gewählten Inhalt. Ein selbst bereitgestellter API-Schlüssel ändert nichts an deren eigenen Datenschutzbedingungen.
-
-KI-Aufgaben werden nur nach ausdrücklicher Funktionswahl gestartet. Selbst bereitgestellte API-Schlüssel sind unabhängig von den von den KI-Anbietern selbst gespeicherten Anfragedaten zu betrachten.
-
-Übersetzungen verwenden Google AI, auch wenn NVIDIA für andere Aufgaben ausgewählt ist. API-Schlüssel liegen im sicheren Betriebssystemspeicher und werden nicht an Persie0 gesendet. Gemini-Funktionen stehen nur Personen ab 18 Jahren zur Verfügung und setzen im EWR einen kostenpflichtigen Gemini-Dienst voraus.
-
-## 3. Zugriffe auf Gerätefunktionen
-
-Bei Nutzung der entsprechenden Funktionen können folgende Berechtigungen verlangt werden:
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: Bücher, EPUBs, gespeicherte Artikel, RSS-Quellen, Lesezeichen und Leseverlauf, Vokabeln, Übungen, Lernfortschritt und Anki-Synchronisierungsstatus, private Shadowing-Aufnahmen, Google-AI- und NVIDIA-API-Schlüssel im sicheren Betriebssystemspeicher. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
 - Mikrofon: private Shadowing-Übungen.
 - Dateien/Medien: Bücher importieren und Daten exportieren.
 - AnkiDroid-Datenbank: optionale lokale Anki-Synchronisierung.
 - Netzwerk: Websites/RSS, Diagnose und optionale KI-Anfragen.
 
-Berechtigungen werden über das Betriebssystem gesteuert. Sie können sie dort entziehen; die zugehörige Funktion ist anschließend unter Umständen nicht mehr nutzbar. Eine erteilte Betriebssystemberechtigung ersetzt keine gegebenenfalls zusätzlich erforderliche datenschutzrechtliche Einwilligung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
 
-## 4. Externe Dienste, Diagnosen und Datenempfänger
-
-Daten werden nicht allein deshalb an sämtliche nachstehend genannten Unternehmen übertragen, weil diese unter Umständen als Abhängigkeit im Projekt enthalten sind. Beschrieben werden die für die Anwendung identifizierten oder ausdrücklich bedingten Datenwege; welche Anbieter in einer veröffentlichten App-Version tatsächlich aktiv sind, muss mit deren finaler Konfiguration abgeglichen werden.
+## 5. Dienstleister und weitere Empfänger
 
 ### Optional Google AI language features (bring your own key)
 
-Zur Bereitstellung von Die von Ihnen ausdrücklich gestartete KI-Funktion bereitstellen können Google-AI-API-Schlüssel sowie die für die Funktion ausgewählten Wörter, Sätze, Artikel- oder Buchtexte, Transkripte, Eingaben und erzeugten Inhalte. Übersetzungen verwenden Google AI. Der API-Schlüssel liegt im sicheren Betriebssystemspeicher und wird nicht an Persie0 gesendet verarbeitet werden. Empfänger: **Google AI.**. Art. 6 Abs. 1 lit. a/b DSGVO. Optional; Google handelt nach Ihrem API-Konto/-Vertrag. Hinsichtlich der Aufbewahrung gilt: Persie0 speichert lokal nur von Ihnen gespeicherte Ausgaben. Googles Aufbewahrung/Training hängt von bezahltem Dienst/Kontoeinstellungen ab; prüfen Sie vor personenbezogenen Daten die aktuellen Bedingungen. [Datenschutzhinweise des Dienstes](https://ai.google.dev/gemini-api/terms).
+**Dienst und Empfänger:** Google AI.  
+**Zweck:** Die von Ihnen ausdrücklich gestartete KI-Funktion bereitstellen.  
+**Daten:** Google-AI-API-Schlüssel sowie die für die Funktion ausgewählten Wörter, Sätze, Artikel- oder Buchtexte, Transkripte, Eingaben und erzeugten Inhalte. Übersetzungen verwenden Google AI. Der API-Schlüssel liegt im sicheren Betriebssystemspeicher und wird nicht an Persie0 gesendet.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a/b DSGVO. Optional; Google handelt nach Ihrem API-Konto/-Vertrag.  
+**Dauer:** Persie0 speichert lokal nur von Ihnen gespeicherte Ausgaben. Googles Aufbewahrung/Training hängt von bezahltem Dienst/Kontoeinstellungen ab; prüfen Sie vor personenbezogenen Daten die aktuellen Bedingungen.  
+**Informationen:** [Datenschutz des Anbieters](https://ai.google.dev/gemini-api/terms)
 
 ### Optional NVIDIA NIM language features (bring your own key)
 
-Zur Bereitstellung von Die von Ihnen ausdrücklich gestartete KI-Funktion bereitstellen können NVIDIA-API-Schlüssel sowie ausgewählte Texte, Eingaben und erzeugte Ausgaben für andere KI-Aktionen als Übersetzungen, wenn NVIDIA ausgewählt ist. Der API-Schlüssel liegt im sicheren Betriebssystemspeicher und wird nicht an Persie0 gesendet verarbeitet werden. Empfänger: **NVIDIA.**. Art. 6 Abs. 1 lit. a/b DSGVO; optional und durch Ihr NVIDIA-API-Konto geregelt. Hinsichtlich der Aufbewahrung gilt: Persie0 speichert lokal nur von Ihnen gespeicherte Ausgaben. Für Anfrageprotokolle/Inhalte gelten NVIDIAs Konto-/API-Fristen. [Datenschutzhinweise des Dienstes](https://www.nvidia.com/en-us/about-nvidia/privacy-policy/).
+**Dienst und Empfänger:** NVIDIA.  
+**Zweck:** Die von Ihnen ausdrücklich gestartete KI-Funktion bereitstellen.  
+**Daten:** NVIDIA-API-Schlüssel sowie ausgewählte Texte, Eingaben und erzeugte Ausgaben für andere KI-Aktionen als Übersetzungen, wenn NVIDIA ausgewählt ist. Der API-Schlüssel liegt im sicheren Betriebssystemspeicher und wird nicht an Persie0 gesendet.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a/b DSGVO; optional und durch Ihr NVIDIA-API-Konto geregelt.  
+**Dauer:** Persie0 speichert lokal nur von Ihnen gespeicherte Ausgaben. Für Anfrageprotokolle/Inhalte gelten NVIDIAs Konto-/API-Fristen.  
+**Informationen:** [Datenschutz des Anbieters](https://www.nvidia.com/en-us/about-nvidia/privacy-policy/)
 
 ### Links, scanned URLs, websites and RSS chosen by you
 
-Zur Bereitstellung von Von Ihnen gewünschte Inhalte öffnen oder abrufen können IP, User-Agent, Anfragezeit, angeforderte URL/Inhalte und vom externen Dienst gesteuerte Cookies/Anmeldedaten. In Pareader können angeforderte Seiten-/Artikeltexte lokal verarbeitet werden; ausgewählter Text geht nur bei von Ihnen gestarteter KI-Aktion an KI verarbeitet werden. Empfänger: **Die Zielwebsite/-App.**. Art. 6 Abs. 1 lit. b DSGVO für Ihre gewünschte Aktion. Der externe Dienst ist eigenständig Verantwortlicher. Hinsichtlich der Aufbewahrung gilt: Nach Datenschutz-/Cookieeinstellungen des Ziels. Persie0 speichert nur lokal von Ihnen gesicherten Verlauf/Lesezeichen. [Datenschutzhinweise des Dienstes](https://commission.europa.eu/resources-partners/europa-web-guide/design-content-and-development/privacy-security-and-legal-notices/cookies-and-similar-technologies_en).
+**Dienst und Empfänger:** Die Zielwebsite/-App.  
+**Zweck:** Von Ihnen gewünschte Inhalte öffnen oder abrufen.  
+**Daten:** IP, User-Agent, Anfragezeit, angeforderte URL/Inhalte und vom externen Dienst gesteuerte Cookies/Anmeldedaten. In Pareader können angeforderte Seiten-/Artikeltexte lokal verarbeitet werden; ausgewählter Text geht nur bei von Ihnen gestarteter KI-Aktion an KI.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO für Ihre gewünschte Aktion. Der externe Dienst ist eigenständig Verantwortlicher.  
+**Dauer:** Nach Datenschutz-/Cookieeinstellungen des Ziels. Persie0 speichert nur lokal von Ihnen gesicherten Verlauf/Lesezeichen.  
+**Informationen:** [Datenschutz des Anbieters](https://commission.europa.eu/resources-partners/europa-web-guide/design-content-and-development/privacy-security-and-legal-notices/cookies-and-similar-technologies_en)
 
 ### Optional Anki integration
 
-Zur Bereitstellung von Lernmaterial auf Ihre Anforderung importieren/exportieren oder synchronisieren können Von der Funktion gewählte Stapel-/Karteninhalte, Vokabel-/Lernfelder, Tags und Sync-Status; lokale Netzwerkadresse bei Suche nach AnkiConnect. Die Daten laufen nicht über Persie0s Server verarbeitet werden. Empfänger: **Ihre AnkiDroid-/AnkiConnect-Installation; weitere AnkiWeb-Synchronisierung steuern Sie und Anki.**. Art. 6 Abs. 1 lit. b DSGVO. Lokaler Geräte-/Netzwerkzugriff nur für die von Ihnen gewünschte Funktion. Hinsichtlich der Aufbewahrung gilt: Nach den Stapeln/Daten Ihrer Anki-Installation; lokaler App-Sync-Status bis Reset/Deinstallation. [Datenschutzhinweise des Dienstes](https://docs.ankidroid.org/privacy_policy.html).
+**Dienst und Empfänger:** Ihre AnkiDroid-/AnkiConnect-Installation; weitere AnkiWeb-Synchronisierung steuern Sie und Anki.  
+**Zweck:** Lernmaterial auf Ihre Anforderung importieren/exportieren oder synchronisieren.  
+**Daten:** Von der Funktion gewählte Stapel-/Karteninhalte, Vokabel-/Lernfelder, Tags und Sync-Status; lokale Netzwerkadresse bei Suche nach AnkiConnect. Die Daten laufen nicht über Persie0s Server.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO. Lokaler Geräte-/Netzwerkzugriff nur für die von Ihnen gewünschte Funktion.  
+**Dauer:** Nach den Stapeln/Daten Ihrer Anki-Installation; lokaler App-Sync-Status bis Reset/Deinstallation.  
+**Informationen:** [Datenschutz des Anbieters](https://docs.ankidroid.org/privacy_policy.html)
 
 ### Optional support email
 
-Zur Bereitstellung von Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren können Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren verarbeitet werden. Empfänger: **E-Mail-Transportanbieter und Proton.**. Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr. Hinsichtlich der Aufbewahrung gilt: Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht. [Datenschutzhinweise des Dienstes](https://proton.me/legal/privacy).
+**Dienst und Empfänger:** E-Mail-Transportanbieter und Proton.  
+**Zweck:** Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren.  
+**Daten:** Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr.  
+**Dauer:** Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht.  
+**Informationen:** [Datenschutz des Anbieters](https://proton.me/legal/privacy)
 
-### Bedingte Fehlerdiagnose
+### Fehlerberichte (Build-abhängiges Sentry-SDK)
 
-Je nach veröffentlichtem App-Build kann eine technische Fehlerübermittlung über einen Sentry-kompatiblen SDK-Endpunkt aktiviert sein. Ohne entsprechende Build-Konfiguration findet diese Übermittlung nicht statt. [VOR VERÖFFENTLICHUNG: tatsächlichen `SENTRY_DSN` der Store-Version prüfen. Wenn aktiv, Anbieter, Empfänger, Kategorie, Rechtsgrundlage, Serverstandort und Löschfrist hier verbindlich ausführen; andernfalls diesen Abschnitt entfernen.]
-
-### Angeforderte Übersetzungen
-
-Wenn Sie eine Onlineübersetzung starten, werden die eingegebenen Wörter oder Texte sowie Ausgangs- und Zielsprache an den ausgewählten Übersetzungs-Endpunkt übermittelt. Abhängig von der Instanz werden Lingva oder SimplyTranslate sowie nachgelagerte Übersetzungsdienste verwendet. Der Empfänger erhält zwangsläufig technische Verbindungsdaten wie die IP-Adresse. [VOR VERÖFFENTLICHUNG: aktive Instanz-/Domainnamen, Weiterleitungsanbieter und deren Richtlinien ausdrücklich angeben.]
+Für die Fehlerbehebung kann ein technischer Bericht an die im Store-Build konfigurierte Sentry-kompatible Adresse gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören. **[ZU PRÜFEN: finale Empfängeradresse, mögliche personenbezogene Inhalte in Diagnosetexten, Hostingland, konkrete Aufbewahrung und Übermittlungsgrundlagen.]**
 
 
-## 5. Dauer der Speicherung und Löschung
+## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
-Daten im lokalen App-Speicher bleiben grundsätzlich bis zu Ihrer eigenen Löschung, bis zum Zurücksetzen der App-Daten oder bis zur Deinstallation vorhanden. Von Ihnen exportierte Dateien können außerhalb des App-Speichers weiter bestehen und müssen gegebenenfalls separat gelöscht werden. Daten in einem freiwillig verbundenen Cloudkonto oder bei einem externen Dienst unterliegen zusätzlich den dortigen Lösch- und Aufbewahrungsabläufen.
+Eine nicht erforderliche Werbeeinwilligung wird für diese Kernfunktion nicht allein durch die Annahme der Nutzungsbedingungen fingiert.
 
-Für technische Server-, Absturz-, Kauf- und Werbedaten gelten gesonderte Fristen und Löschkriterien der jeweils verantwortlichen Stelle; diese sind in Abschnitt 4 sowie in den verlinkten Anbieterinformationen beschrieben. **[VOR VERÖFFENTLICHUNG: konkrete Entwickler-Hosting- und GlitchTip-Logfristen, Supportanfragen, Abrechnungsfristen und gegebenenfalls Löschung von Backups ergänzen; pauschales „sofort“ nicht behaupten.]**
 
-Anfragen zur Berichtigung, Auskunft oder Löschung von Daten in unserem Verantwortungsbereich richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com). Eine Deinstallation beendet nicht automatisch Store-Abonnements.
 
-## 6. Rechtsgrundlagen, internationale Übermittlung und Einwilligung
+## 7. Datenweitergabe, Drittländer und Dauer
 
-Für die Verarbeitung zur Erfüllung einer angeforderten Funktion kommt – soweit die DSGVO anwendbar ist – Art. 6 Abs. 1 lit. b DSGVO in Betracht; die Verarbeitung technisch notwendiger Fehler- und Sicherheitsdaten kann auf Art. 6 Abs. 1 lit. f DSGVO beruhen. Wird eine Einwilligung benötigt, beruht die betreffende Verarbeitung auf Art. 6 Abs. 1 lit. a DSGVO und, bei Informationen auf Endgeräten, auf den dafür einschlägigen Bestimmungen des § 165 TKG 2021. Eine erforderliche Einwilligung kann für die Zukunft widerrufen werden. Für besondere Datenkategorien ist zusätzlich Art. 9 DSGVO zu prüfen.
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien. **[ZU PRÜFEN: tatsächlich betroffene Länder, Übermittlungsgrundlagen und Auftragsverarbeitungsverträge.]** Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Soweit eine tatsächliche Aufbewahrungsdauer fehlt, muss sie vor Veröffentlichung ergänzt werden.
 
-Manche in Abschnitt 4 genannten Unternehmen können Daten außerhalb des Europäischen Wirtschaftsraums verarbeiten oder auf Daten von dort zugreifen. Bei solchen Übermittlungen werden – sofern erforderlich – Angemessenheitsbeschlüsse, Standarddatenschutzklauseln und geeignete weitere Garantien herangezogen. **[VOR VERÖFFENTLICHUNG: tatsächliche betroffene Länder und je Anbieter geltende Übermittlungsgrundlage prüfen; eine bloße Verlinkung der Anbieterpolitik reicht nicht als Nachweis.]**
+## 8. Betroffenenrechte und Löschung
 
-## 7. Ihre Rechte
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Beachten Sie, dass die Deinstallation nicht automatisch Ihre separat gespeicherten Exporte, Cloud-Kopien oder laufende Abonnements beendet.
 
-Unter den gesetzlichen Voraussetzungen haben Sie Rechte auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Soweit wir uns auf Einwilligung stützen, können Sie diese mit Wirkung für die Zukunft widerrufen. Einzelfälle und gesetzliche Aufbewahrungspflichten können die Ausübung bestimmter Rechte einschränken. Wir beantworten entsprechende Anfragen über die oben genannte Kontaktadresse und können eine angemessene Identitätsprüfung verlangen.
+## 9. Sicherheit und Aktualisierung
 
-Sie können sich außerdem bei einer Datenschutzaufsichtsbehörde beschweren, in Österreich insbesondere bei der **[Österreichischen Datenschutzbehörde](https://dsb.gv.at/)**. Datenschutzfragen können Sie auch unmittelbar an uns richten.
-
-## 8. Sicherheit, Minderjährige und Änderungen
-
-Wir verwenden nach Maßgabe der tatsächlichen Verarbeitung geeignete technische und organisatorische Schutzmaßnahmen. Keine Software und keine Internetübertragung kann eine absolute Sicherheit garantieren. Für Kinder angebotene Funktionen oder eine auf Kinder ausgerichtete Verbreitung erfordern gesonderte Prüfung der Alters- und Einwilligungsregeln. Ändern sich wesentliche Zwecke oder Empfänger, passen wir diese Datenschutzerklärung an und informieren, soweit rechtlich erforderlich, gesondert.
-
-## 9. Weitere Informationen
-
-- [Impressum Persie0](https://persie0.github.io/impressum.html)
-- [Allgemeine Datenschutzinformationen Persie0](https://persie0.github.io/datenschutz.html)
-- [Kontakt](mailto:persie0@protonmail.com)
-- [Rechtsgrundlagen: Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen. Für Minderjährige gelten die einschlägigen Schutzvorschriften.
 
 ---
 
-### Interner Freigabevermerk – vor öffentlicher Nutzung entfernen
-
-- Abgleich mit den installierten SDKs und dem zuletzt an Nutzer ausgelieferten Android-/Apple-Build erforderlich.
-- Speicherdauern, Hostingland, tatsächlich aktive Mediation/Endpunkte, internationale Übermittlungen, Rechtsgrundlagen und sämtliche markierten Angaben vor rechtlicher Freigabe überprüfen.
-- **Vorliegendes Markdown ist nicht die bereits live geschaltete App-Datenschutzerklärung.** Als redaktionelle Ausgangsbasis dient der eigene Code und die eigene App-Dateninventur; vergleichbare externe Beispiele: [Auphonic](https://eu1.auphonic.com/privacy), [ÖAMTC](https://www.oeamtc.at/mitgliedschaft/leistungen/datenschutzerklaerung-oeamtc-app-28493389), [Photoroom](https://www.photoroom.com/legal/privacy). Ihre Texte wurden nicht übernommen.
+**Interne Freigabenotiz – nicht auf einer öffentlichen Datenschutzseite anzeigen.** Die mit **[ZU PRÜFEN]** bezeichneten Tatsachen sind noch durch Store-Build, SDK-Laufzeittest und Serverkonfiguration zu bestätigen. Die Gliederung ist eigenständig formuliert und an der Detailtiefe realer österreichischer/EU-App-Hinweise (ÖAMTC, Auphonic, Photoroom) orientiert, nicht an ihrem Wortlaut.

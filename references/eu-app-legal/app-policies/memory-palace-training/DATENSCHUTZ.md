@@ -1,118 +1,130 @@
-# Datenschutzerklärung – Memory Palace Training
+# Datenschutzerklärung für Memory Palace Training
 
-**Stand des Entwurfs:** 16. Oktober 2026 · **Geltungsbereich:** Memory Palace Training (Quellcode: [Persie0/Memory_Palace_Builder](https://github.com/Persie0/Memory_Palace_Builder)) · **Redaktioneller Entwurf, noch nicht öffentlich freigegeben**
+*Redaktionelle Fassung: 16. Oktober 2026 · Zur Endprüfung, nicht für die unveränderte Veröffentlichung.*
 
-> **Veröffentlichungshinweis (nicht Bestandteil der Endfassung):** Dieser Text ist eine aus dem bekannten Codezustand verfasste Datenschutzerklärung, kein bloßer Maßnahmenkatalog. Die mit **[VOR VERÖFFENTLICHUNG]** markierten Tatsachen sind vor Nutzung in einer Store-Website zu klären. 
+## 1. Geltungsbereich
 
-## 1. Verantwortlicher und Kontakt
+Diese Datenschutzerklärung betrifft **Memory Palace Training** und beschreibt die Verarbeitung im Zusammenhang mit Lernkarten, Bilder und virtuelle Gedächtnispaläste. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die genannten Grunddaten dienen der von Ihnen ausgelösten Funktion.
 
-Verantwortlich für die hier beschriebene Verarbeitung ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. Sie erreichen uns für Datenschutzanfragen unter **[persie0@protonmail.com](mailto:persie0@protonmail.com)**. Weitere Angaben zum Diensteanbieter (einschließlich UID, Kontakt und Gewerbe) enthält unser [Impressum](https://persie0.github.io/impressum.html).
+## 2. Verantwortlicher
 
-Diese Erklärung erläutert die Nutzung der Anwendung **Memory Palace Training**. Verweist die App auf externe Websites oder Dienste, gelten für deren eigenständige Verarbeitung auch die Datenschutzinformationen dieser Anbieter.
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-## 2. Welche Daten die App verarbeitet und wofür
+## 3. Datenarten, Zwecke, Grundlagen und Speicherung
 
-Gespeicherte Gedächtnispaläste, Lernobjekte, Bilder und Fortschritte werden für Übungen verarbeitet. Google-Drive- und Anki-Verbindungen sind davon getrennte optionale Datenwege.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich vom Benutzer lokal ausgeführten Berechnungen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-Auf dem Gerät können für Ihre gewählten Funktionen insbesondere folgende Informationen anfallen:
+| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium |
+| --- | --- | --- | --- |
+| Verwendung der App auf Ihrem Gerät | Gedächtnispaläste, Räume, Objekte, Merkhilfen und ausgewählte Bilder; importierte Listen und Trainingsverlauf; Einstellungen, Einwilligungsentscheidungen und Synchronisierungsstatus | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
+| Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung. | Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks, Betrugspräventionssignale und ein aus der IP-Adresse abgeleiteter ungefährer Standort. Ein genauer Standort kann nur bei erteilter Standortberechtigung des Betriebssystems verfügbar sein. | Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App oder über die Standortberechtigung des Betriebssystems geändert werden. | Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen. |
+| Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten. | Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten. | Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). | Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. |
+| Regionale Voreinstellungen, Währung, Sprache oder den passenden Einwilligungsablauf wählen. | Öffentliche IP-Adresse, Anfragemetadaten und aus der IP abgeleitetes Land/Region; kein GPS-Standort. | Art. 6 Abs. 1 lit. f DSGVO (minimale regionale Konfiguration). Regionale Einstellungen können, soweit angeboten, überschrieben werden. | Die Antwort wird vorübergehend verwendet oder lokal zwischengespeichert; Persie0 führt kein Serverprotokoll. Anbieter speichern Anfrageprotokolle nach ihren Richtlinien. |
+| Daten auf Ihre Anforderung sichern und synchronisieren. | Google-Autorisierung/Kontokennung und Drive-App-Daten-Zugriff; in der gewählten Sicherung enthaltene Gedächtnispaläste, Bilder/Pfade oder gebündelte Assets, importierte Listen, Trainingsverlauf, Einstellungen und Sync-Metadaten. | Art. 6 Abs. 1 lit. a/b DSGVO; optional. | Bis zur Löschung aus Drive/App-Daten, Trennung mit Löschung oder Schließung des Google-Kontos; Anbieter-Sicherungszyklen können gelten. |
+| Lernmaterial auf Ihre Anforderung importieren/exportieren oder synchronisieren. | Von der Funktion gewählte Stapel-/Karteninhalte, Vokabel-/Lernfelder, Tags und Sync-Status; lokale Netzwerkadresse bei Suche nach AnkiConnect. Die Daten laufen nicht über Persie0s Server. | Art. 6 Abs. 1 lit. b DSGVO. Lokaler Geräte-/Netzwerkzugriff nur für die von Ihnen gewünschte Funktion. | Nach den Stapeln/Daten Ihrer Anki-Installation; lokaler App-Sync-Status bis Reset/Deinstallation. |
+| Von Ihnen gesendete Funktionswünsche oder Rückmeldungen erfassen. | IP-/Geräte-/Browserdaten und von Ihnen nach Öffnen des externen Portals eingegebener Name, E-Mail, Feedback oder Anhang. | Art. 6 Abs. 1 lit. a/b DSGVO für Ihre freiwillige Anfrage; Nachweis von Supportvorgängen Art. 6 Abs. 1 lit. f. | Nach Featurebase-Richtlinie und bis zur Erledigung; Persie0-Supportkopie bei Bedarf für Ansprüche bis zu drei Jahre. |
+| Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren. | Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren. | Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr. | Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht. |
+| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | [ZU PRÜFEN: konkrete Diagnose- und HTTP-Logfristen] |
 
-- Gedächtnispaläste, Räume, Objekte, Merkhilfen und ausgewählte Bilder.
-- importierte Listen und Trainingsverlauf.
-- Einstellungen, Einwilligungsentscheidungen und Synchronisierungsstatus.
+## 4. Lokale Inhalte und Geräteberechtigungen
 
-Diese Angaben werden für die Nutzung der App, das Wiederherstellen Ihrer Einstellungen und das Erstellen der von Ihnen gewünschten Ergebnisse verwendet. Soweit es sich um eine personenbezogene Verarbeitung durch uns handelt, kommen insbesondere Art. 6 Abs. 1 lit. b DSGVO (Bereitstellung einer angeforderten vertraglichen Funktion) und bei technisch notwendigen Betriebsdaten Art. 6 Abs. 1 lit. f DSGVO in Betracht. Daten, die ausschließlich auf Ihrem eigenen Gerät verarbeitet werden und auf die wir keinen Zugriff haben, sind davon zu unterscheiden.
-
-Eine freiwillig aktivierte Cloud-Synchronisierung über Google Drive und/oder Apple iCloud betrifft nur den jeweiligen angemeldeten Cloud-Dienst. Die dazu bereitgestellten Daten und Zugriffsrechte müssen in den Einstellungen eingesehen beziehungsweise getrennt werden können. Die Löschung lokaler Daten entfernt nicht zwangsläufig Cloud-Kopien.
-
-Virtuelle Orte und Räume eines Gedächtnispalasts sind keine GPS-Standorte. Die technisch angeforderte Gerätestandortberechtigung ist davon getrennt auf ihre tatsächliche Verwendung zu prüfen.
-
-## 3. Zugriffe auf Gerätefunktionen
-
-Bei Nutzung der entsprechenden Funktionen können folgende Berechtigungen verlangt werden:
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: Gedächtnispaläste, Räume, Objekte, Merkhilfen und ausgewählte Bilder, importierte Listen und Trainingsverlauf, Einstellungen, Einwilligungsentscheidungen und Synchronisierungsstatus. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
 - Kamera/Fotos/Dateien: Bilder hinzufügen oder Material importieren/exportieren.
 - Lokales Netzwerk oder AnkiDroid-Datenbank: optionale Anki-Synchronisierung.
 - Genauer Standort: kann unter Android angefragt werden, ist für die Hauptfunktionen jedoch nicht erforderlich und kann verweigert werden.
 - Netzwerk: optionale Synchronisierung, Feedback, Werbung, Diagnose und Käufe.
 
-Berechtigungen werden über das Betriebssystem gesteuert. Sie können sie dort entziehen; die zugehörige Funktion ist anschließend unter Umständen nicht mehr nutzbar. Eine erteilte Betriebssystemberechtigung ersetzt keine gegebenenfalls zusätzlich erforderliche datenschutzrechtliche Einwilligung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
 
-## 4. Externe Dienste, Diagnosen und Datenempfänger
+## 5. Dienstleister und weitere Empfänger
 
-Daten werden nicht allein deshalb an sämtliche nachstehend genannten Unternehmen übertragen, weil diese unter Umständen als Abhängigkeit im Projekt enthalten sind. Beschrieben werden die für die Anwendung identifizierten oder ausdrücklich bedingten Datenwege; welche Anbieter in einer veröffentlichten App-Version tatsächlich aktiv sind, muss mit deren finaler Konfiguration abgeglichen werden.
+### Werbedienst Appodeal
 
-### Advertising (Appodeal)
+**Dienst und Empfänger:** Appodeal und dessen Werbepartner.  
+**Zweck:** Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung.  
+**Daten:** Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks, Betrugspräventionssignale und ein aus der IP-Adresse abgeleiteter ungefährer Standort. Ein genauer Standort kann nur bei erteilter Standortberechtigung des Betriebssystems verfügbar sein.  
+**Rechtsgrundlage:** Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App oder über die Standortberechtigung des Betriebssystems geändert werden.  
+**Dauer:** Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen.  
+**Informationen:** [Datenschutz des Anbieters](https://www.appodeal.com/home/privacy-policy/)
 
-Zur Bereitstellung von Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung können Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks, Betrugspräventionssignale und ein aus der IP-Adresse abgeleiteter ungefährer Standort. Ein genauer Standort kann nur bei erteilter Standortberechtigung des Betriebssystems verfügbar sein verarbeitet werden. Empfänger: **Appodeal und dessen Werbepartner.**. Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App oder über die Standortberechtigung des Betriebssystems geändert werden. Hinsichtlich der Aufbewahrung gilt: Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen. [Datenschutzhinweise des Dienstes](https://www.appodeal.com/home/privacy-policy/).
+### Käufe und Abonnements via RevenueCat
 
-### In-app purchases (RevenueCat)
-
-Zur Bereitstellung von Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten können Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten verarbeitet werden. Empfänger: **RevenueCat und der gewählte App-Store. Der Store ist für die Zahlung eigenständig Verantwortlicher.**. Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). Hinsichtlich der Aufbewahrung gilt: Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. [Datenschutzhinweise des Dienstes](https://www.revenuecat.com/privacy/).
+**Dienst und Empfänger:** RevenueCat und der gewählte App-Store. Der Store ist für die Zahlung eigenständig Verantwortlicher.  
+**Zweck:** Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten.  
+**Daten:** Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus).  
+**Dauer:** Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung.  
+**Informationen:** [Datenschutz des Anbieters](https://www.revenuecat.com/privacy/)
 
 ### Country/region detection
 
-Zur Bereitstellung von Regionale Voreinstellungen, Währung, Sprache oder den passenden Einwilligungsablauf wählen können Öffentliche IP-Adresse, Anfragemetadaten und aus der IP abgeleitetes Land/Region; kein GPS-Standort verarbeitet werden. Empfänger: **Der jeweils zuerst verfügbare oben genannte Ländererkennungsdienst.**. Art. 6 Abs. 1 lit. f DSGVO (minimale regionale Konfiguration). Regionale Einstellungen können, soweit angeboten, überschrieben werden. Hinsichtlich der Aufbewahrung gilt: Die Antwort wird vorübergehend verwendet oder lokal zwischengespeichert; Persie0 führt kein Serverprotokoll. Anbieter speichern Anfrageprotokolle nach ihren Richtlinien. [Datenschutzhinweise des Dienstes](https://ipapi.co/privacy/).
+**Dienst und Empfänger:** Der jeweils zuerst verfügbare oben genannte Ländererkennungsdienst.  
+**Zweck:** Regionale Voreinstellungen, Währung, Sprache oder den passenden Einwilligungsablauf wählen.  
+**Daten:** Öffentliche IP-Adresse, Anfragemetadaten und aus der IP abgeleitetes Land/Region; kein GPS-Standort.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (minimale regionale Konfiguration). Regionale Einstellungen können, soweit angeboten, überschrieben werden.  
+**Dauer:** Die Antwort wird vorübergehend verwendet oder lokal zwischengespeichert; Persie0 führt kein Serverprotokoll. Anbieter speichern Anfrageprotokolle nach ihren Richtlinien.  
+**Informationen:** [Datenschutz des Anbieters](https://ipapi.co/privacy/)
 
 ### Optional Google Drive memory-palace sync
 
-Zur Bereitstellung von Daten auf Ihre Anforderung sichern und synchronisieren können Google-Autorisierung/Kontokennung und Drive-App-Daten-Zugriff; in der gewählten Sicherung enthaltene Gedächtnispaläste, Bilder/Pfade oder gebündelte Assets, importierte Listen, Trainingsverlauf, Einstellungen und Sync-Metadaten verarbeitet werden. Empfänger: **Google; Daten im von Ihnen gewählten Drive-Konto.**. Art. 6 Abs. 1 lit. a/b DSGVO; optional. Hinsichtlich der Aufbewahrung gilt: Bis zur Löschung aus Drive/App-Daten, Trennung mit Löschung oder Schließung des Google-Kontos; Anbieter-Sicherungszyklen können gelten. [Datenschutzhinweise des Dienstes](https://developers.google.com/terms/api-services-user-data-policy).
+**Dienst und Empfänger:** Google; Daten im von Ihnen gewählten Drive-Konto.  
+**Zweck:** Daten auf Ihre Anforderung sichern und synchronisieren.  
+**Daten:** Google-Autorisierung/Kontokennung und Drive-App-Daten-Zugriff; in der gewählten Sicherung enthaltene Gedächtnispaläste, Bilder/Pfade oder gebündelte Assets, importierte Listen, Trainingsverlauf, Einstellungen und Sync-Metadaten.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a/b DSGVO; optional.  
+**Dauer:** Bis zur Löschung aus Drive/App-Daten, Trennung mit Löschung oder Schließung des Google-Kontos; Anbieter-Sicherungszyklen können gelten.  
+**Informationen:** [Datenschutz des Anbieters](https://developers.google.com/terms/api-services-user-data-policy)
 
 ### Optional Anki integration
 
-Zur Bereitstellung von Lernmaterial auf Ihre Anforderung importieren/exportieren oder synchronisieren können Von der Funktion gewählte Stapel-/Karteninhalte, Vokabel-/Lernfelder, Tags und Sync-Status; lokale Netzwerkadresse bei Suche nach AnkiConnect. Die Daten laufen nicht über Persie0s Server verarbeitet werden. Empfänger: **Ihre AnkiDroid-/AnkiConnect-Installation; weitere AnkiWeb-Synchronisierung steuern Sie und Anki.**. Art. 6 Abs. 1 lit. b DSGVO. Lokaler Geräte-/Netzwerkzugriff nur für die von Ihnen gewünschte Funktion. Hinsichtlich der Aufbewahrung gilt: Nach den Stapeln/Daten Ihrer Anki-Installation; lokaler App-Sync-Status bis Reset/Deinstallation. [Datenschutzhinweise des Dienstes](https://docs.ankidroid.org/privacy_policy.html).
+**Dienst und Empfänger:** Ihre AnkiDroid-/AnkiConnect-Installation; weitere AnkiWeb-Synchronisierung steuern Sie und Anki.  
+**Zweck:** Lernmaterial auf Ihre Anforderung importieren/exportieren oder synchronisieren.  
+**Daten:** Von der Funktion gewählte Stapel-/Karteninhalte, Vokabel-/Lernfelder, Tags und Sync-Status; lokale Netzwerkadresse bei Suche nach AnkiConnect. Die Daten laufen nicht über Persie0s Server.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO. Lokaler Geräte-/Netzwerkzugriff nur für die von Ihnen gewünschte Funktion.  
+**Dauer:** Nach den Stapeln/Daten Ihrer Anki-Installation; lokaler App-Sync-Status bis Reset/Deinstallation.  
+**Informationen:** [Datenschutz des Anbieters](https://docs.ankidroid.org/privacy_policy.html)
 
 ### Optional feedback portal
 
-Zur Bereitstellung von Von Ihnen gesendete Funktionswünsche oder Rückmeldungen erfassen können IP-/Geräte-/Browserdaten und von Ihnen nach Öffnen des externen Portals eingegebener Name, E-Mail, Feedback oder Anhang verarbeitet werden. Empfänger: **Featurebase nach dessen eigener Portalrichtlinie.**. Art. 6 Abs. 1 lit. a/b DSGVO für Ihre freiwillige Anfrage; Nachweis von Supportvorgängen Art. 6 Abs. 1 lit. f. Hinsichtlich der Aufbewahrung gilt: Nach Featurebase-Richtlinie und bis zur Erledigung; Persie0-Supportkopie bei Bedarf für Ansprüche bis zu drei Jahre. [Datenschutzhinweise des Dienstes](https://www.featurebase.app/legal/privacy).
+**Dienst und Empfänger:** Featurebase nach dessen eigener Portalrichtlinie.  
+**Zweck:** Von Ihnen gesendete Funktionswünsche oder Rückmeldungen erfassen.  
+**Daten:** IP-/Geräte-/Browserdaten und von Ihnen nach Öffnen des externen Portals eingegebener Name, E-Mail, Feedback oder Anhang.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a/b DSGVO für Ihre freiwillige Anfrage; Nachweis von Supportvorgängen Art. 6 Abs. 1 lit. f.  
+**Dauer:** Nach Featurebase-Richtlinie und bis zur Erledigung; Persie0-Supportkopie bei Bedarf für Ansprüche bis zu drei Jahre.  
+**Informationen:** [Datenschutz des Anbieters](https://www.featurebase.app/legal/privacy)
 
 ### Optional support email
 
-Zur Bereitstellung von Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren können Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren verarbeitet werden. Empfänger: **E-Mail-Transportanbieter und Proton.**. Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr. Hinsichtlich der Aufbewahrung gilt: Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht. [Datenschutzhinweise des Dienstes](https://proton.me/legal/privacy).
+**Dienst und Empfänger:** E-Mail-Transportanbieter und Proton.  
+**Zweck:** Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren.  
+**Daten:** Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr.  
+**Dauer:** Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht.  
+**Informationen:** [Datenschutz des Anbieters](https://proton.me/legal/privacy)
 
-### Selbst betriebene Fehlerdiagnose (GlitchTip)
+### Fehlerberichte (Selbst gehostetes GlitchTip)
 
-Zur Erkennung und Behebung von Programmfehlern nutzen wir eine selbst betriebene GlitchTip-Instanz unter `persie0.duckdns.org`. Im Fehlerfall können Fehlermeldungen, Stacktraces, App- und Systemversionen sowie weitere technische Umstände des Fehlers übertragen werden. Dabei kann auch die für den technischen Verbindungsaufbau erforderliche IP-Adresse in Serverprotokollen anfallen. Diese Verarbeitung beruht, soweit anwendbar, auf unserem berechtigten Interesse an Betriebssicherheit und Fehlerbehebung (Art. 6 Abs. 1 lit. f DSGVO); ein etwaiges gesondertes Einwilligungserfordernis bleibt unberührt. **Die Daten werden nicht allein durch die Verwendung eines Sentry-kompatiblen SDKs an den Dienst Sentry.io übermittelt.** [VOR VERÖFFENTLICHUNG: Serverstandort, HTTP-Logs, tatsächlich übertragene Felder und Fehlerbericht-Löschfrist eintragen.]
-
-### Werbeanzeigen und Einwilligungsverwaltung
-
-Sofern kostenlose Funktionen durch Werbung finanziert werden, wird **Appodeal** mit den im jeweiligen Store-Build tatsächlich aktivierten Vermarktungspartnern eingesetzt. Hierbei können technische Anfrage- und Gerätekennungen, IP-Adresse, gegebenenfalls Werbe-IDs sowie Informationen zu der angezeigten oder angeklickten Anzeige verarbeitet werden. Die Beteiligung einzelner Netzwerke richtet sich nach Konfiguration, Region und Werbeausspielung. Soweit für Gerätezugriffe oder personalisierte Werbung eine Einwilligung erforderlich ist, wird diese über eine geeignete Einwilligungsverwaltung (z. B. Appodeal Stack Consent Manager) eingeholt und eine Änderung/Widerruf ermöglicht. Unter iOS ist eine erforderliche ATT-Erlaubnis davon getrennt. Angaben der Anbieter: [Appodeal Datenschutz](https://appodeal.com/privacy-policy/). [VOR VERÖFFENTLICHUNG: konkrete aktive Mediation-Partner mit deren Datenschutzhinweisen, tatsächlichen Einwilligungsweg und Speicherdauer bestätigen.]
+Für die Fehlerbehebung kann ein technischer Bericht an unsere selbst betriebene GlitchTip-Installation gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören. **[ZU PRÜFEN: finale Empfängeradresse, mögliche personenbezogene Inhalte in Diagnosetexten, Hostingland, konkrete Aufbewahrung und Übermittlungsgrundlagen.]**
 
 
-## 5. Dauer der Speicherung und Löschung
+## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
-Daten im lokalen App-Speicher bleiben grundsätzlich bis zu Ihrer eigenen Löschung, bis zum Zurücksetzen der App-Daten oder bis zur Deinstallation vorhanden. Von Ihnen exportierte Dateien können außerhalb des App-Speichers weiter bestehen und müssen gegebenenfalls separat gelöscht werden. Daten in einem freiwillig verbundenen Cloudkonto oder bei einem externen Dienst unterliegen zusätzlich den dortigen Lösch- und Aufbewahrungsabläufen.
+Die Einwilligung für nicht technisch erforderliche Werbezugriffe wird, soweit erforderlich, über den Appodeal-Consent-Manager abgefragt und kann über die in der App vorgesehenen Datenschutzeinstellungen geändert werden. Unter iOS kann außerdem die gesonderte ATT-Entscheidung nötig sein. Welche Vermarktungspartner im konkreten Build tatsächlich eingebunden sind, muss anhand der ausgelieferten Version überprüft werden.
 
-Für technische Server-, Absturz-, Kauf- und Werbedaten gelten gesonderte Fristen und Löschkriterien der jeweils verantwortlichen Stelle; diese sind in Abschnitt 4 sowie in den verlinkten Anbieterinformationen beschrieben. **[VOR VERÖFFENTLICHUNG: konkrete Entwickler-Hosting- und GlitchTip-Logfristen, Supportanfragen, Abrechnungsfristen und gegebenenfalls Löschung von Backups ergänzen; pauschales „sofort“ nicht behaupten.]**
+Die Zahlung selbst erfolgt über den gewählten App-Store; RevenueCat prüft den Kauf- und Berechtigungsstatus. Persie0 benötigt dafür keine Zahlungskartennummer. Die Kündigung eines Store-Abonnements erfolgt über die jeweilige Storeverwaltung.
 
-Anfragen zur Berichtigung, Auskunft oder Löschung von Daten in unserem Verantwortungsbereich richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com). Eine Deinstallation beendet nicht automatisch Store-Abonnements.
+## 7. Datenweitergabe, Drittländer und Dauer
 
-## 6. Rechtsgrundlagen, internationale Übermittlung und Einwilligung
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien. **[ZU PRÜFEN: tatsächlich betroffene Länder, Übermittlungsgrundlagen und Auftragsverarbeitungsverträge.]** Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Soweit eine tatsächliche Aufbewahrungsdauer fehlt, muss sie vor Veröffentlichung ergänzt werden.
 
-Für die Verarbeitung zur Erfüllung einer angeforderten Funktion kommt – soweit die DSGVO anwendbar ist – Art. 6 Abs. 1 lit. b DSGVO in Betracht; die Verarbeitung technisch notwendiger Fehler- und Sicherheitsdaten kann auf Art. 6 Abs. 1 lit. f DSGVO beruhen. Wird eine Einwilligung benötigt, beruht die betreffende Verarbeitung auf Art. 6 Abs. 1 lit. a DSGVO und, bei Informationen auf Endgeräten, auf den dafür einschlägigen Bestimmungen des § 165 TKG 2021. Eine erforderliche Einwilligung kann für die Zukunft widerrufen werden. Für besondere Datenkategorien ist zusätzlich Art. 9 DSGVO zu prüfen.
+## 8. Betroffenenrechte und Löschung
 
-Manche in Abschnitt 4 genannten Unternehmen können Daten außerhalb des Europäischen Wirtschaftsraums verarbeiten oder auf Daten von dort zugreifen. Bei solchen Übermittlungen werden – sofern erforderlich – Angemessenheitsbeschlüsse, Standarddatenschutzklauseln und geeignete weitere Garantien herangezogen. **[VOR VERÖFFENTLICHUNG: tatsächliche betroffene Länder und je Anbieter geltende Übermittlungsgrundlage prüfen; eine bloße Verlinkung der Anbieterpolitik reicht nicht als Nachweis.]**
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Beachten Sie, dass die Deinstallation nicht automatisch Ihre separat gespeicherten Exporte, Cloud-Kopien oder laufende Abonnements beendet.
 
-## 7. Ihre Rechte
+## 9. Sicherheit und Aktualisierung
 
-Unter den gesetzlichen Voraussetzungen haben Sie Rechte auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Soweit wir uns auf Einwilligung stützen, können Sie diese mit Wirkung für die Zukunft widerrufen. Einzelfälle und gesetzliche Aufbewahrungspflichten können die Ausübung bestimmter Rechte einschränken. Wir beantworten entsprechende Anfragen über die oben genannte Kontaktadresse und können eine angemessene Identitätsprüfung verlangen.
-
-Sie können sich außerdem bei einer Datenschutzaufsichtsbehörde beschweren, in Österreich insbesondere bei der **[Österreichischen Datenschutzbehörde](https://dsb.gv.at/)**. Datenschutzfragen können Sie auch unmittelbar an uns richten.
-
-## 8. Sicherheit, Minderjährige und Änderungen
-
-Wir verwenden nach Maßgabe der tatsächlichen Verarbeitung geeignete technische und organisatorische Schutzmaßnahmen. Keine Software und keine Internetübertragung kann eine absolute Sicherheit garantieren. Für Kinder angebotene Funktionen oder eine auf Kinder ausgerichtete Verbreitung erfordern gesonderte Prüfung der Alters- und Einwilligungsregeln. Ändern sich wesentliche Zwecke oder Empfänger, passen wir diese Datenschutzerklärung an und informieren, soweit rechtlich erforderlich, gesondert.
-
-## 9. Weitere Informationen
-
-- [Impressum Persie0](https://persie0.github.io/impressum.html)
-- [Allgemeine Datenschutzinformationen Persie0](https://persie0.github.io/datenschutz.html)
-- [Kontakt](mailto:persie0@protonmail.com)
-- [Rechtsgrundlagen: Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen. Für Minderjährige gelten die einschlägigen Schutzvorschriften.
 
 ---
 
-### Interner Freigabevermerk – vor öffentlicher Nutzung entfernen
-
-- Abgleich mit den installierten SDKs und dem zuletzt an Nutzer ausgelieferten Android-/Apple-Build erforderlich.
-- Speicherdauern, Hostingland, tatsächlich aktive Mediation/Endpunkte, internationale Übermittlungen, Rechtsgrundlagen und sämtliche markierten Angaben vor rechtlicher Freigabe überprüfen.
-- **Vorliegendes Markdown ist nicht die bereits live geschaltete App-Datenschutzerklärung.** Als redaktionelle Ausgangsbasis dient der eigene Code und die eigene App-Dateninventur; vergleichbare externe Beispiele: [Auphonic](https://eu1.auphonic.com/privacy), [ÖAMTC](https://www.oeamtc.at/mitgliedschaft/leistungen/datenschutzerklaerung-oeamtc-app-28493389), [Photoroom](https://www.photoroom.com/legal/privacy). Ihre Texte wurden nicht übernommen.
+**Interne Freigabenotiz – nicht auf einer öffentlichen Datenschutzseite anzeigen.** Die mit **[ZU PRÜFEN]** bezeichneten Tatsachen sind noch durch Store-Build, SDK-Laufzeittest und Serverkonfiguration zu bestätigen. Die Gliederung ist eigenständig formuliert und an der Detailtiefe realer österreichischer/EU-App-Hinweise (ÖAMTC, Auphonic, Photoroom) orientiert, nicht an ihrem Wortlaut.

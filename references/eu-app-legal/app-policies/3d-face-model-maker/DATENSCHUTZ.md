@@ -1,98 +1,78 @@
-# Datenschutzerklärung – 3D Face Model Maker
+# Datenschutzerklärung für 3D Face Model Maker
 
-**Stand des Entwurfs:** 16. Oktober 2026 · **Geltungsbereich:** 3D Face Model Maker (Quellcode: [Persie0/face_scanner](https://github.com/Persie0/face_scanner)) · **Redaktioneller Entwurf, noch nicht öffentlich freigegeben**
+*Redaktionelle Fassung: 16. Oktober 2026 · Zur Endprüfung, nicht für die unveränderte Veröffentlichung.*
 
-> **Veröffentlichungshinweis (nicht Bestandteil der Endfassung):** Dieser Text ist eine aus dem bekannten Codezustand verfasste Datenschutzerklärung, kein bloßer Maßnahmenkatalog. Die mit **[VOR VERÖFFENTLICHUNG]** markierten Tatsachen sind vor Nutzung in einer Store-Website zu klären. 
+## 1. Geltungsbereich
 
-## 1. Verantwortlicher und Kontakt
+Diese Datenschutzerklärung betrifft **3D Face Model Maker** und beschreibt die Verarbeitung im Zusammenhang mit Gesichtsaufnahmen und 3D-Modellerstellung. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die genannten Grunddaten dienen der von Ihnen ausgelösten Funktion.
 
-Verantwortlich für die hier beschriebene Verarbeitung ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. Sie erreichen uns für Datenschutzanfragen unter **[persie0@protonmail.com](mailto:persie0@protonmail.com)**. Weitere Angaben zum Diensteanbieter (einschließlich UID, Kontakt und Gewerbe) enthält unser [Impressum](https://persie0.github.io/impressum.html).
+## 2. Verantwortlicher
 
-Diese Erklärung erläutert die Nutzung der Anwendung **3D Face Model Maker**. Verweist die App auf externe Websites oder Dienste, gelten für deren eigenständige Verarbeitung auch die Datenschutzinformationen dieser Anbieter.
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-## 2. Welche Daten die App verarbeitet und wofür
+## 3. Datenarten, Zwecke, Grundlagen und Speicherung
 
-Die App erstellt aus aufgenommenen oder ausgewählten Gesichtsbildern ein 3D-Kopf- beziehungsweise Gesichtsmodell. Fotografien und Modellkoordinaten dienen der Darstellung; eine Identifizierung von Personen ist nicht als Zweck vorgesehen. Falls eine spätere Version Identifizierungsfunktionen erhält, wird dies gesondert behandelt.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich vom Benutzer lokal ausgeführten Berechnungen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-Auf dem Gerät können für Ihre gewählten Funktionen insbesondere folgende Informationen anfallen:
+| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium |
+| --- | --- | --- | --- |
+| Verwendung der App auf Ihrem Gerät | von Ihnen ausgewählte oder aufgenommene Gesichtsfotos; Gesichtsmarken und 3-D-Netzkoordinaten; Einstellungen und Einwilligungsentscheidungen | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
+| Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung. | Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks und Betrugspräventionssignale sowie ein aus der IP-Adresse abgeleiteter ungefährer Standort. | Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App geändert werden. | Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen. |
+| Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten. | Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten. | Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). | Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. |
+| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | [ZU PRÜFEN: konkrete Diagnose- und HTTP-Logfristen] |
 
-- von Ihnen ausgewählte oder aufgenommene Gesichtsfotos.
-- Gesichtsmarken und 3-D-Netzkoordinaten.
-- Einstellungen und Einwilligungsentscheidungen.
+## 4. Lokale Inhalte und Geräteberechtigungen
 
-Diese Angaben werden für die Nutzung der App, das Wiederherstellen Ihrer Einstellungen und das Erstellen der von Ihnen gewünschten Ergebnisse verwendet. Soweit es sich um eine personenbezogene Verarbeitung durch uns handelt, kommen insbesondere Art. 6 Abs. 1 lit. b DSGVO (Bereitstellung einer angeforderten vertraglichen Funktion) und bei technisch notwendigen Betriebsdaten Art. 6 Abs. 1 lit. f DSGVO in Betracht. Daten, die ausschließlich auf Ihrem eigenen Gerät verarbeitet werden und auf die wir keinen Zugriff haben, sind davon zu unterscheiden.
-
-Bilder aus Kamera oder Galerie werden zur gewählten Analyse, Bearbeitung oder Ausgabe verwendet. Falls Dateiauswahl oder Teilen über das Betriebssystem erfolgt, ist das ausgewählte Ziel für dessen weitere Verarbeitung eigenständig verantwortlich. [VOR VERÖFFENTLICHUNG: lokalen Zwischenspeicher und etwaige optionale Uploads verifizieren.]
-
-Gesichtsgeometrie kann ein erhöhtes Schutzinteresse begründen. Sofern die technische Verarbeitung künftig eine eindeutige Identifizierung von Personen bezweckt, gelten zusätzlich die Regeln über biometrische Daten des Art. 9 DSGVO.
-
-Das Gesichtsnetz wird nicht zur Identifizierung oder Authentifizierung einer Person und nicht für medizinische oder Emotionserkennungsentscheidungen verwendet.
-
-## 3. Zugriffe auf Gerätefunktionen
-
-Bei Nutzung der entsprechenden Funktionen können folgende Berechtigungen verlangt werden:
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: von Ihnen ausgewählte oder aufgenommene Gesichtsfotos, Gesichtsmarken und 3-D-Netzkoordinaten, Einstellungen und Einwilligungsentscheidungen. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
 - Kamera: das von Ihnen gewünschte Gesichtsbild aufnehmen.
 - Fotos/Dateien: ein vorhandenes Bild auswählen.
 
-Berechtigungen werden über das Betriebssystem gesteuert. Sie können sie dort entziehen; die zugehörige Funktion ist anschließend unter Umständen nicht mehr nutzbar. Eine erteilte Betriebssystemberechtigung ersetzt keine gegebenenfalls zusätzlich erforderliche datenschutzrechtliche Einwilligung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
 
-## 4. Externe Dienste, Diagnosen und Datenempfänger
+## 5. Dienstleister und weitere Empfänger
 
-Daten werden nicht allein deshalb an sämtliche nachstehend genannten Unternehmen übertragen, weil diese unter Umständen als Abhängigkeit im Projekt enthalten sind. Beschrieben werden die für die Anwendung identifizierten oder ausdrücklich bedingten Datenwege; welche Anbieter in einer veröffentlichten App-Version tatsächlich aktiv sind, muss mit deren finaler Konfiguration abgeglichen werden.
+### Werbedienst Appodeal
 
-### Advertising (Appodeal)
+**Dienst und Empfänger:** Appodeal und dessen Werbepartner.  
+**Zweck:** Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung.  
+**Daten:** Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks und Betrugspräventionssignale sowie ein aus der IP-Adresse abgeleiteter ungefährer Standort.  
+**Rechtsgrundlage:** Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App geändert werden.  
+**Dauer:** Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen.  
+**Informationen:** [Datenschutz des Anbieters](https://www.appodeal.com/home/privacy-policy/)
 
-Zur Bereitstellung von Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung können Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks und Betrugspräventionssignale sowie ein aus der IP-Adresse abgeleiteter ungefährer Standort verarbeitet werden. Empfänger: **Appodeal und dessen Werbepartner.**. Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App geändert werden. Hinsichtlich der Aufbewahrung gilt: Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen. [Datenschutzhinweise des Dienstes](https://www.appodeal.com/home/privacy-policy/).
+### Käufe und Abonnements via RevenueCat
 
-### In-app purchases (RevenueCat)
+**Dienst und Empfänger:** RevenueCat und der gewählte App-Store. Der Store ist für die Zahlung eigenständig Verantwortlicher.  
+**Zweck:** Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten.  
+**Daten:** Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus).  
+**Dauer:** Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung.  
+**Informationen:** [Datenschutz des Anbieters](https://www.revenuecat.com/privacy/)
 
-Zur Bereitstellung von Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten können Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten verarbeitet werden. Empfänger: **RevenueCat und der gewählte App-Store. Der Store ist für die Zahlung eigenständig Verantwortlicher.**. Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). Hinsichtlich der Aufbewahrung gilt: Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. [Datenschutzhinweise des Dienstes](https://www.revenuecat.com/privacy/).
+### Fehlerberichte (Selbst gehostetes GlitchTip)
 
-### Selbst betriebene Fehlerdiagnose (GlitchTip)
-
-Zur Erkennung und Behebung von Programmfehlern nutzen wir eine selbst betriebene GlitchTip-Instanz unter `persie0.duckdns.org`. Im Fehlerfall können Fehlermeldungen, Stacktraces, App- und Systemversionen sowie weitere technische Umstände des Fehlers übertragen werden. Dabei kann auch die für den technischen Verbindungsaufbau erforderliche IP-Adresse in Serverprotokollen anfallen. Diese Verarbeitung beruht, soweit anwendbar, auf unserem berechtigten Interesse an Betriebssicherheit und Fehlerbehebung (Art. 6 Abs. 1 lit. f DSGVO); ein etwaiges gesondertes Einwilligungserfordernis bleibt unberührt. **Die Daten werden nicht allein durch die Verwendung eines Sentry-kompatiblen SDKs an den Dienst Sentry.io übermittelt.** [VOR VERÖFFENTLICHUNG: Serverstandort, HTTP-Logs, tatsächlich übertragene Felder und Fehlerbericht-Löschfrist eintragen.]
-
-### Werbeanzeigen und Einwilligungsverwaltung
-
-Sofern kostenlose Funktionen durch Werbung finanziert werden, wird **Appodeal** mit den im jeweiligen Store-Build tatsächlich aktivierten Vermarktungspartnern eingesetzt. Hierbei können technische Anfrage- und Gerätekennungen, IP-Adresse, gegebenenfalls Werbe-IDs sowie Informationen zu der angezeigten oder angeklickten Anzeige verarbeitet werden. Die Beteiligung einzelner Netzwerke richtet sich nach Konfiguration, Region und Werbeausspielung. Soweit für Gerätezugriffe oder personalisierte Werbung eine Einwilligung erforderlich ist, wird diese über eine geeignete Einwilligungsverwaltung (z. B. Appodeal Stack Consent Manager) eingeholt und eine Änderung/Widerruf ermöglicht. Unter iOS ist eine erforderliche ATT-Erlaubnis davon getrennt. Angaben der Anbieter: [Appodeal Datenschutz](https://appodeal.com/privacy-policy/). [VOR VERÖFFENTLICHUNG: konkrete aktive Mediation-Partner mit deren Datenschutzhinweisen, tatsächlichen Einwilligungsweg und Speicherdauer bestätigen.]
+Für die Fehlerbehebung kann ein technischer Bericht an unsere selbst betriebene GlitchTip-Installation gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören. **[ZU PRÜFEN: finale Empfängeradresse, mögliche personenbezogene Inhalte in Diagnosetexten, Hostingland, konkrete Aufbewahrung und Übermittlungsgrundlagen.]**
 
 
-## 5. Dauer der Speicherung und Löschung
+## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
-Daten im lokalen App-Speicher bleiben grundsätzlich bis zu Ihrer eigenen Löschung, bis zum Zurücksetzen der App-Daten oder bis zur Deinstallation vorhanden. Von Ihnen exportierte Dateien können außerhalb des App-Speichers weiter bestehen und müssen gegebenenfalls separat gelöscht werden. Daten in einem freiwillig verbundenen Cloudkonto oder bei einem externen Dienst unterliegen zusätzlich den dortigen Lösch- und Aufbewahrungsabläufen.
+Die Einwilligung für nicht technisch erforderliche Werbezugriffe wird, soweit erforderlich, über den Appodeal-Consent-Manager abgefragt und kann über die in der App vorgesehenen Datenschutzeinstellungen geändert werden. Unter iOS kann außerdem die gesonderte ATT-Entscheidung nötig sein. Welche Vermarktungspartner im konkreten Build tatsächlich eingebunden sind, muss anhand der ausgelieferten Version überprüft werden.
 
-Für technische Server-, Absturz-, Kauf- und Werbedaten gelten gesonderte Fristen und Löschkriterien der jeweils verantwortlichen Stelle; diese sind in Abschnitt 4 sowie in den verlinkten Anbieterinformationen beschrieben. **[VOR VERÖFFENTLICHUNG: konkrete Entwickler-Hosting- und GlitchTip-Logfristen, Supportanfragen, Abrechnungsfristen und gegebenenfalls Löschung von Backups ergänzen; pauschales „sofort“ nicht behaupten.]**
+Die Zahlung selbst erfolgt über den gewählten App-Store; RevenueCat prüft den Kauf- und Berechtigungsstatus. Persie0 benötigt dafür keine Zahlungskartennummer. Die Kündigung eines Store-Abonnements erfolgt über die jeweilige Storeverwaltung.
 
-Anfragen zur Berichtigung, Auskunft oder Löschung von Daten in unserem Verantwortungsbereich richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com). Eine Deinstallation beendet nicht automatisch Store-Abonnements.
+## 7. Datenweitergabe, Drittländer und Dauer
 
-## 6. Rechtsgrundlagen, internationale Übermittlung und Einwilligung
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien. **[ZU PRÜFEN: tatsächlich betroffene Länder, Übermittlungsgrundlagen und Auftragsverarbeitungsverträge.]** Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Soweit eine tatsächliche Aufbewahrungsdauer fehlt, muss sie vor Veröffentlichung ergänzt werden.
 
-Für die Verarbeitung zur Erfüllung einer angeforderten Funktion kommt – soweit die DSGVO anwendbar ist – Art. 6 Abs. 1 lit. b DSGVO in Betracht; die Verarbeitung technisch notwendiger Fehler- und Sicherheitsdaten kann auf Art. 6 Abs. 1 lit. f DSGVO beruhen. Wird eine Einwilligung benötigt, beruht die betreffende Verarbeitung auf Art. 6 Abs. 1 lit. a DSGVO und, bei Informationen auf Endgeräten, auf den dafür einschlägigen Bestimmungen des § 165 TKG 2021. Eine erforderliche Einwilligung kann für die Zukunft widerrufen werden. Für besondere Datenkategorien ist zusätzlich Art. 9 DSGVO zu prüfen.
+## 8. Betroffenenrechte und Löschung
 
-Manche in Abschnitt 4 genannten Unternehmen können Daten außerhalb des Europäischen Wirtschaftsraums verarbeiten oder auf Daten von dort zugreifen. Bei solchen Übermittlungen werden – sofern erforderlich – Angemessenheitsbeschlüsse, Standarddatenschutzklauseln und geeignete weitere Garantien herangezogen. **[VOR VERÖFFENTLICHUNG: tatsächliche betroffene Länder und je Anbieter geltende Übermittlungsgrundlage prüfen; eine bloße Verlinkung der Anbieterpolitik reicht nicht als Nachweis.]**
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Beachten Sie, dass die Deinstallation nicht automatisch Ihre separat gespeicherten Exporte, Cloud-Kopien oder laufende Abonnements beendet.
 
-## 7. Ihre Rechte
+## 9. Sicherheit und Aktualisierung
 
-Unter den gesetzlichen Voraussetzungen haben Sie Rechte auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Soweit wir uns auf Einwilligung stützen, können Sie diese mit Wirkung für die Zukunft widerrufen. Einzelfälle und gesetzliche Aufbewahrungspflichten können die Ausübung bestimmter Rechte einschränken. Wir beantworten entsprechende Anfragen über die oben genannte Kontaktadresse und können eine angemessene Identitätsprüfung verlangen.
-
-Sie können sich außerdem bei einer Datenschutzaufsichtsbehörde beschweren, in Österreich insbesondere bei der **[Österreichischen Datenschutzbehörde](https://dsb.gv.at/)**. Datenschutzfragen können Sie auch unmittelbar an uns richten.
-
-## 8. Sicherheit, Minderjährige und Änderungen
-
-Wir verwenden nach Maßgabe der tatsächlichen Verarbeitung geeignete technische und organisatorische Schutzmaßnahmen. Keine Software und keine Internetübertragung kann eine absolute Sicherheit garantieren. Für Kinder angebotene Funktionen oder eine auf Kinder ausgerichtete Verbreitung erfordern gesonderte Prüfung der Alters- und Einwilligungsregeln. Ändern sich wesentliche Zwecke oder Empfänger, passen wir diese Datenschutzerklärung an und informieren, soweit rechtlich erforderlich, gesondert.
-
-## 9. Weitere Informationen
-
-- [Impressum Persie0](https://persie0.github.io/impressum.html)
-- [Allgemeine Datenschutzinformationen Persie0](https://persie0.github.io/datenschutz.html)
-- [Kontakt](mailto:persie0@protonmail.com)
-- [Rechtsgrundlagen: Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen. Für Minderjährige gelten die einschlägigen Schutzvorschriften.
 
 ---
 
-### Interner Freigabevermerk – vor öffentlicher Nutzung entfernen
-
-- Abgleich mit den installierten SDKs und dem zuletzt an Nutzer ausgelieferten Android-/Apple-Build erforderlich.
-- Speicherdauern, Hostingland, tatsächlich aktive Mediation/Endpunkte, internationale Übermittlungen, Rechtsgrundlagen und sämtliche markierten Angaben vor rechtlicher Freigabe überprüfen.
-- **Vorliegendes Markdown ist nicht die bereits live geschaltete App-Datenschutzerklärung.** Als redaktionelle Ausgangsbasis dient der eigene Code und die eigene App-Dateninventur; vergleichbare externe Beispiele: [Auphonic](https://eu1.auphonic.com/privacy), [ÖAMTC](https://www.oeamtc.at/mitgliedschaft/leistungen/datenschutzerklaerung-oeamtc-app-28493389), [Photoroom](https://www.photoroom.com/legal/privacy). Ihre Texte wurden nicht übernommen.
+**Interne Freigabenotiz – nicht auf einer öffentlichen Datenschutzseite anzeigen.** Die mit **[ZU PRÜFEN]** bezeichneten Tatsachen sind noch durch Store-Build, SDK-Laufzeittest und Serverkonfiguration zu bestätigen. Die Gliederung ist eigenständig formuliert und an der Detailtiefe realer österreichischer/EU-App-Hinweise (ÖAMTC, Auphonic, Photoroom) orientiert, nicht an ihrem Wortlaut.
