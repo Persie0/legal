@@ -84,3 +84,7 @@ See **[references/eu-app-legal/](references/eu-app-legal/)** for Austrian and ot
 ### Individual code-informed app checklists
 
 [Open all 32 app-specific legal drafting briefs](references/eu-app-legal/app-checklists/README.md) — one Markdown file per released app, evidence from GitHub code, actual service types, data disclosures, rights, purchases and store review requirements. Two apps whose source repositories are not identified are marked provisional.
+
+### Full app-specific legal text drafts
+
+[Open all 32 written privacy policies and terms](references/eu-app-legal/app-policies/README.md). Each app has its own editable German Datenschutzerklärung and Nutzungsbedingungen; the folder also contains a common Impressum and special documents for account deletion, health consent and advertising. **These are unapproved drafts with outstanding verification markers, not live policies.**
