@@ -1,46 +1,31 @@
 # Nutzungsbedingungen – NomadRank
 
-**Entwurf vom 16. Oktober 2026 – noch nicht als Vertragsbedingungen freigegeben**
+*Fassung 16. Oktober 2026 · zur rechtlichen Endprüfung*
 
-## 1. Anbieter und Geltung
+## 1. Vertragspartner und Geltungsbereich
 
-Anbieter ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich, E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die rechtlichen Anbieterinformationen finden Sie im [Impressum](https://persie0.github.io/impressum.html). Diese Nutzungsbedingungen gelten für die hier bezeichnete Anwendung **NomadRank** und ergänzen, soweit wirksam einbezogen, die Regelungen des jeweiligen Stores. Soweit auf der Apple-Plattform Apples Standard-EULA gilt, bleibt diese Lizenzvereinbarung unberührt; ein gesonderter Softwarelizenzvertrag soll nicht durch unklare Zusatzklauseln fingiert werden.
+Marvin Perzi (Persie0), Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). [Anbieterkennzeichnung](https://persie0.github.io/translations_imprint/imprint-de.html). Der Erwerb oder Download über einen App-Store richtet sich ergänzend nach dessen rechtmäßig geltenden Softwarelizenzbedingungen. Ein eigener EULA-Vertrag ist nicht allein wegen des Downloads erforderlich.
 
-## 2. Leistungsgegenstand
+## 2. App-Funktionen
 
-Die App bietet Konten, Reise- und Länderlisten, Bewertungen, optionale KI-Hilfen und die Freigabe von Informationen an Kontakte oder Gruppen.
+Mit **NomadRank** können Sie Reiseziele und persönliche Bewertungen über ein Konto verwalten und mit ausgewählten Personen teilen. Sichtbare Reiseangaben sind vor dem Teilen zu überprüfen. Zum Vertragsumfang gehören die tatsächlich angebotenen Funktionen und die gesetzlich vorausgesetzten Eigenschaften digitaler Leistungen.
 
-Der konkrete Leistungsumfang richtet sich nach der im Store beschriebenen und auf Ihrem Gerät installierten Version. Wir bemühen uns um die Funktionsfähigkeit der beschriebenen Merkmale, schulden jedoch keine nicht ausdrücklich vereinbarte technische Eigenschaft oder künftige kostenlose Erweiterung. Gesetzliche Ansprüche bei einer vereinbarten, aber nicht vertragsgemäß bereitgestellten digitalen Leistung bleiben unberührt.
+## 3. Lizenz und Rechte an Inhalten
 
-## 3. Nutzungsrecht und eigene Inhalte
+Sie dürfen die App im rechtmäßig eingeräumten Umfang nutzen. Rechte an eigenen Texten, Bildern und Dokumenten behalten Sie beziehungsweise ihre Inhaber. Beim Import und bei der Verbreitung von Inhalten sind die Rechte Dritter zu beachten. Gesetzlich zulässige Nutzungs- und Interoperabilitätsrechte werden nicht eingeschränkt.
 
-Sie dürfen die App im Rahmen des rechtmäßig über den betreffenden Store erworbenen beziehungsweise bereitgestellten Nutzungsrechts und der technischen Plattformbedingungen verwenden. Eine Weitergabe entgegen anwendbaren Lizenzbedingungen oder rechtswidrige Eingriffe in App-Dienste sind nicht erlaubt. Die Rechte an Ihren eigenen Fotos, Texten, Videos, Lernkarten oder anderen Inhalten verbleiben bei Ihnen beziehungsweise den berechtigten Rechteinhabern. Sie müssen über die erforderlichen Rechte verfügen, wenn Sie fremde Inhalte importieren, verbreiten oder teilen.
+## 4. Nutzerkonten und Veröffentlichungen
 
-## 4. Konto, Freigabe von Inhalten und Löschung
+Ein NomadRank-Konto ermöglicht Speicherung und Synchronisation von Reisen, Profilen und sozialen Beziehungen. Welche Einträge Sie mit Freunden oder Gruppen teilen, hängt von den angebotenen Einstellungen ab. Sie dürfen keine rechtswidrigen oder fremde Rechte verletzenden Inhalte verbreiten. Rechtlich gebotene Moderation und Beschwerden erfolgen nach den anwendbaren Regeln. Eine Kontoentfernung ist über den App-Löschweg oder die Kontaktadresse anzufordern; eine bloße Deinstallation löscht das Serverkonto nicht.
 
-Für Server- und Gemeinschaftsfunktionen ist die Anmeldung über die im Produkt angebotenen Anbieter erforderlich. Geben Sie nur Daten frei, die Sie tatsächlich mit anderen teilen möchten. Sie bleiben für die von Ihnen veröffentlichten Inhalte verantwortlich. Rechtswidrige oder fremde Rechte verletzende Inhalte dürfen nach Maßgabe des geltenden Rechts und der Plattformpflichten gemeldet, geprüft und gegebenenfalls entfernt werden. Eine Kontolöschung können Sie über die dafür vorgesehene App-Funktion und [die Kontaktmöglichkeit](mailto:persie0@protonmail.com) veranlassen; gesetzliche Aufbewahrungsregeln und technisch notwendige Löschprozesse sind gesondert zu beachten. Das Entfernen der App allein ist nicht identisch mit dem Löschen eines Serverkontos.
+## 5. Verfügbarkeit und Aktualisierungen
 
-## Qualität, Grenzen und wichtige Hinweise
+Eine App kann wegen Betriebssystemänderungen oder Störungen bei freiwillig verbundenen Diensten zeitweise eingeschränkt sein. Sicherheits- und Kompatibilitätsupdates können notwendig werden. Soweit gesetzliche Aktualisierungspflichten oder Ansprüche bei mangelhafter digitaler Leistung bestehen, bleiben diese uneingeschränkt erhalten.
 
-Sie dürfen nur Inhalte einstellen, an denen Sie die erforderlichen Rechte haben. Unzulässige personenbezogene Informationen, fremde Rechte verletzende oder rechtswidrige Inhalte dürfen nicht geteilt werden. Bei zulässiger Moderation können veröffentlichte Inhalte und Kontofunktionen eingeschränkt werden.
+## 6. Verbraucherrechte und Support
 
-Automatisch generierte oder von KI-Diensten erstellte Texte, Bewertungen und Analysen können sachlich falsch oder unvollständig sein. Bei externen KI-Funktionen gelten für Ihre ausdrücklich ausgelösten Anfragen zusätzlich die jeweils angezeigten Anbieterbedingungen. Nutzen Sie eine solche Funktion nicht zur Übermittlung unberechtigt beschaffter fremder Inhalte.
-
-Eine Softwarefunktion kann durch Gerätewechsel, veränderte Betriebssystemrechte, externe Schnittstellen oder Netzwerkstörungen zeitweilig eingeschränkt sein. Wir werden zwingende Verbraucherrechte bei mangelnder Vertragsmäßigkeit und Sicherheitsupdates achten; pauschale Haftungsausschlüsse für gesetzlich zwingende Ansprüche gelten nicht.
-
-## Datenschutz, Fehler und Support
-
-Die Verarbeitung personenbezogener Daten, etwa zur App-Funktion, für optionale externe Dienste und zur technischen Fehlerbehebung, wird in der zugehörigen [Datenschutzerklärung](DATENSCHUTZ.md) erläutert. Diese Bedingungen ersetzen weder Datenschutzinformationen noch nötige gesonderte Einwilligungen. Bei Funktionsfehlern können Sie sich mit einer Problembeschreibung an [persie0@protonmail.com](mailto:persie0@protonmail.com) wenden. Senden Sie dabei keine Passwörter oder vertraulichen Inhalte mit, sofern dies zur Bearbeitung nicht notwendig ist.
-
-## Gesetzliche Verbraucherrechte und Schlussbestimmungen
-
-Zwingende österreichische und europäische Verbraucherrechte bleiben uneingeschränkt bestehen, insbesondere gesetzliche Gewährleistung, wirksame Rücktrittsrechte und die zwingenden Regelungen des Staats Ihres gewöhnlichen Aufenthalts, soweit diese anwendbar sind. Allgemeine Hinweise in der App oder diesen Bedingungen führen nicht zu einem Verzicht auf solche Rechte. Bei Änderungen, die Verbraucherrechte berühren, informieren wir im rechtlich notwendigen Umfang; eine bloße Fortbenutzung ersetzt keine gesetzlich nötige Zustimmung zu nachteiligen Vertragsänderungen.
+Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](DATENSCHUTZ.md); selbst gespeicherte Exporte oder Cloud-Kopien sind gegebenenfalls gesondert zu löschen.
 
 ---
 
-### Interne Freigabehinweise – vor öffentlicher Veröffentlichung entfernen
-
-- Diese zusätzliche AGB ist **nicht für jede App gesetzlich vorgeschrieben**. Bei rein lokalen Spielen oder Tools genügt regelmäßig ein sauberer Datenschutzhinweis plus gegebenenfalls die Plattformstandardlizenz. Vor Aufnahme dieser Nutzungsbedingungen prüfen, ob eine wirksame vertragliche Einbeziehung erforderlich und sachgerecht ist.
-- **NomadRank:** Produktfunktion, vorhandene kostenpflichtige Angebote und Klauseln anhand des tatsächlich ausgelieferten Builds und der Store-Produktseite bestätigen.
-- Keine nicht vorhandenen Werbe-, Kauf- oder Kontoobliegenheiten hinzufügen.
-- Eigene Formulierungen auf Basis des Projekts; vergleichbare [EU/Austrian-Referenzen](../README.md) dienen nur zur strukturellen Orientierung. Kein Text fremder AGB wurde kopiert.
+**Interne Endprüfung:** Funktion, aktiven Vertragsstatus und die Notwendigkeit eigener AGB vor Verwendung bestätigen. Bei einem ausschließlich lokal genutzten kostenlosen Spiel können Store-Standardlizenz und Datenschutzerklärung genügen.
