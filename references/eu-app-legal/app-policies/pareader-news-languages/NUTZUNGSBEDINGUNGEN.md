@@ -1,10 +1,8 @@
 # Nutzungsbedingungen – Pareader
 
-*Fassung 16. Oktober 2026 · zur rechtlichen Endprüfung*
-
 ## 1. Vertragspartner und Geltungsbereich
 
-Marvin Perzi (Persie0), Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). [Anbieterkennzeichnung](https://persie0.github.io/translations_imprint/imprint-de.html). Der Erwerb oder Download über einen App-Store richtet sich ergänzend nach dessen rechtmäßig geltenden Softwarelizenzbedingungen. Ein eigener EULA-Vertrag ist nicht allein wegen des Downloads erforderlich.
+Marvin Perzi (Persie0), Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). [Anbieterkennzeichnung](https://persie0.github.io/translations_imprint/imprint-de.html). Der Erwerb oder Download über einen App-Store richtet sich ergänzend nach dessen rechtmäßig geltenden Softwarelizenzbedingungen. Ihr Nutzungsrecht richtet sich nach dem Lizenzvertrag des jeweiligen Stores.
 
 ## 2. App-Funktionen
 
@@ -25,7 +23,3 @@ Eine App kann wegen Betriebssystemänderungen oder Störungen bei freiwillig ver
 ## 6. Verbraucherrechte und Support
 
 Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](DATENSCHUTZ.md); selbst gespeicherte Exporte oder Cloud-Kopien sind gegebenenfalls gesondert zu löschen.
-
----
-
-**Interne Endprüfung:** Funktion, aktiven Vertragsstatus und die Notwendigkeit eigener AGB vor Verwendung bestätigen. Bei einem ausschließlich lokal genutzten kostenlosen Spiel können Store-Standardlizenz und Datenschutzerklärung genügen.

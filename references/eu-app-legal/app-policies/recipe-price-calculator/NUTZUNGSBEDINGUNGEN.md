@@ -1,7 +1,5 @@
 # Nutzungsbedingungen – Recipe Price Calculator
 
-**Redaktioneller Entwurf · 16. Oktober 2026**
-
 ## Anbieter
 
 **Marvin Perzi (Persie0)**, Österreich. Kontakt: [persie0@protonmail.com](mailto:persie0@protonmail.com), [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die rechtmäßig geltenden Nutzungs- und Lizenzvereinbarungen des jeweiligen App-Stores gelten ergänzend; Apple bietet ohne individuell vereinbarte Lizenz seine Standard-EULA an.
@@ -21,7 +19,3 @@ Fehlerkorrekturen oder technische Sicherheitsupdates können zur Aufrechterhaltu
 ## Datenschutz und Hilfe
 
 Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert, welche lokalen und technischen Daten die App verarbeitet. Eigene Exporte können nach Deinstallation weiter am gewählten Speicherort verbleiben. Supportanfragen und Beschwerden erreichen uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
-
----
-
-**Vor Veröffentlichung prüfen:** Produkt- und Zahlungsstatus, tatsächliche Funktionen sowie die Frage, ob eigene AGB gegenüber der Standard-Store-Lizenz notwendig sind. Dies ist ein individuell erstellter Entwurf.

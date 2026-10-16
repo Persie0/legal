@@ -1,7 +1,5 @@
 # Nutzungsbedingungen – MoWa: Language Learning
 
-**Entwurf zur rechtlichen Prüfung vom 16. Oktober 2026**
-
 ## Anbieter
 
 Verantwortlicher App-Anbieter ist Marvin Perzi (Persie0), Österreich. Kontakt: [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die vom jeweiligen Store angebotenen Lizenz- und Kaufbedingungen gelten daneben; bei Apple kann die Standard-EULA ausreichen.
@@ -23,7 +21,3 @@ Soweit freiwillige Cloud-, Übersetzungs- oder externe Inhaltsdienste verwendet 
 Sicherheits- und Kompatibilitätsupdates können nötig sein. Soweit eine Funktion Vertragsinhalt ist, bleiben Ihre gesetzlichen Ansprüche auf vertragsgemäße digitale Leistungen und die vorgesehenen Abhilfen bestehen. Eine allgemeine Freizeichnung für gesetzlich zwingende Haftung ist nicht vereinbart.
 
 Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
-
----
-
-**Redaktionell:** Vor Veröffentlichung den tatsächlich verkauften Funktionsumfang, Preise, Store-Bedingungen und gegebenenfalls Rücktrittsweg prüfen. Bei einfachen Apps können gesonderte Nutzungsbedingungen entbehrlich sein.
