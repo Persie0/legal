@@ -33,7 +33,7 @@ Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgend
 - AnkiDroid-Datenbank: optionale lokale Anki-Synchronisierung.
 - Netzwerk: Websites/RSS, Diagnose und optionale KI-Anfragen.
 
-Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in eine davon unabhängige Werbe- oder Analysedatenverarbeitung.
 
 ## 5. Dienstleister und weitere Empfänger
 
