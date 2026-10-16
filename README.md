@@ -79,4 +79,4 @@ Update this file from the developer's store dashboards when new versions first r
 
 ## External Austrian / EU app legal references
 
-See **[references/eu-app-legal/](references/eu-app-legal/)** for Austrian and other EU mobile-app store listings and original EULAs, terms, privacy policies and legal notices. The **[service reference coverage audit](references/eu-app-legal/SERVICE_COVERAGE.md)** maps the integrations in your released apps to relevant references and lists outstanding policy gaps. This is a static reference collection, without scheduled checks.
+See **[references/eu-app-legal/](references/eu-app-legal/)** for Austrian and other EU mobile-app store listings and original EULAs, terms, privacy policies and legal notices. The **[Austrian/EU app legal requirements guide](references/eu-app-legal/APP_LEGAL_REQUIREMENTS_AT_EU.md)** explains which documents and disclosures are needed, how to write them, and app-specific requirements. The **[service reference coverage audit](references/eu-app-legal/SERVICE_COVERAGE.md)** maps the actual integrations to legal reference sources and remaining gaps. This is a static reference collection, without scheduled checks.
