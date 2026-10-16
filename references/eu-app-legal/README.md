@@ -1,3 +1,5 @@
+**Interne Klärungen:** [Offene technische Fakten und Rückfragen](INTERNAL_OPEN_QUESTIONS.md) (nicht Bestandteil veröffentlichter Rechtstexte).
+
 # Austrian and EU mobile-app legal references
 
 Curated **primary-source legal documents and store listings**, checked **16 October 2026**, for comparing privacy policies, EULAs, usage terms, subscriptions, advertising disclosures and related consumer information.
