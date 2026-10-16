@@ -35,7 +35,7 @@ Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgend
 - Genauer Standort: kann unter Android angefragt werden, ist für die Hauptfunktionen jedoch nicht erforderlich und kann verweigert werden.
 - Netzwerk: optionale Synchronisierung, Feedback, Werbung, Diagnose und Käufe.
 
-Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in eine davon unabhängige Werbe- oder Analysedatenverarbeitung.
 
 ## 5. Dienstleister und weitere Empfänger
 
