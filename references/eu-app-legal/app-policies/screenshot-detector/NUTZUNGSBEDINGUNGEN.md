@@ -1,40 +1,27 @@
 # Nutzungsbedingungen – Screenshot Detector
 
-**Entwurf vom 16. Oktober 2026 – noch nicht als Vertragsbedingungen freigegeben**
+*Entwurf vom 16. Oktober 2026 – vor Veröffentlichung prüfen*
 
-## 1. Anbieter und Geltung
+## Anbieter, Store und Lizenz
 
-Anbieter ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich, E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die rechtlichen Anbieterinformationen finden Sie im [Impressum](https://persie0.github.io/impressum.html). Diese Nutzungsbedingungen gelten für die hier bezeichnete Anwendung **Screenshot Detector** und ergänzen, soweit wirksam einbezogen, die Regelungen des jeweiligen Stores. Soweit auf der Apple-Plattform Apples Standard-EULA gilt, bleibt diese Lizenzvereinbarung unberührt; ein gesonderter Softwarelizenzvertrag soll nicht durch unklare Zusatzklauseln fingiert werden.
+Anbieter ist **Marvin Perzi (Persie0)**, Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die gesetzlich anwendbaren Lizenzbedingungen des jeweiligen App-Stores bleiben bestehen. Auf Apple-Plattformen kann die standardmäßig bereitgestellte EULA ausreichen.
 
-## 2. Leistungsgegenstand
+## Gegenstand und Funktionsgrenzen
 
-Die App wertet vom jeweiligen Android-Gerät gemeldete Ereignisse zu Bildschirmaufnahmen aus.
+Mit **Screenshot Detector** können Sie vom Betriebssystem gemeldete Screenshot-/Recording-Ereignisse erkennen. Gerätesoftware kann Ereignisse unterdrücken; die App kann Bildschirmaufnahmen nicht zuverlässig verhindern. Zugesagt werden die bei Erwerb tatsächlich beschriebenen Funktionen, nicht jede technisch denkbare Mess- oder Schutzwirkung.
 
-Der konkrete Leistungsumfang richtet sich nach der im Store beschriebenen und auf Ihrem Gerät installierten Version. Wir bemühen uns um die Funktionsfähigkeit der beschriebenen Merkmale, schulden jedoch keine nicht ausdrücklich vereinbarte technische Eigenschaft oder künftige kostenlose Erweiterung. Gesetzliche Ansprüche bei einer vereinbarten, aber nicht vertragsgemäß bereitgestellten digitalen Leistung bleiben unberührt.
+## Zulässige Nutzung
 
-## 3. Nutzungsrecht und eigene Inhalte
+Die App darf im Umfang des Store-Erwerbs auf unterstützten Geräten verwendet werden. Zwingende gesetzliche Rechte und erlaubte technische Interoperabilität bleiben erhalten. Mit der Nutzung darf keine Verletzung fremder Rechte oder unzulässige Beeinträchtigung technischer Systeme verbunden sein.
 
-Sie dürfen die App im Rahmen des rechtmäßig über den betreffenden Store erworbenen beziehungsweise bereitgestellten Nutzungsrechts und der technischen Plattformbedingungen verwenden. Eine Weitergabe entgegen anwendbaren Lizenzbedingungen oder rechtswidrige Eingriffe in App-Dienste sind nicht erlaubt. Die Rechte an Ihren eigenen Fotos, Texten, Videos, Lernkarten oder anderen Inhalten verbleiben bei Ihnen beziehungsweise den berechtigten Rechteinhabern. Sie müssen über die erforderlichen Rechte verfügen, wenn Sie fremde Inhalte importieren, verbreiten oder teilen.
+## Updates, Verfügbarkeit und Haftung
 
-## Qualität, Grenzen und wichtige Hinweise
+Technische Updates können erforderlich werden, um Fehler zu beheben oder Sicherheit und Kompatibilität zu gewährleisten. Maßgeblich sind die gesetzlichen Rechte bei mangelhaften digitalen Leistungen und gesetzliche Aktualisierungspflichten. Zwingende Haftung und Verbraucherschutzansprüche werden durch diese Bedingungen nicht ausgeschlossen.
 
-Betriebssysteme und Apps schränken die Erkennung unterschiedlich ein. Die App verhindert Screenshots nicht und kann keine vollständige Erkennung auf allen Geräten garantieren.
+## Datenschutz, Datenlöschung und Support
 
-Eine Softwarefunktion kann durch Gerätewechsel, veränderte Betriebssystemrechte, externe Schnittstellen oder Netzwerkstörungen zeitweilig eingeschränkt sein. Wir werden zwingende Verbraucherrechte bei mangelnder Vertragsmäßigkeit und Sicherheitsupdates achten; pauschale Haftungsausschlüsse für gesetzlich zwingende Ansprüche gelten nicht.
-
-## Datenschutz, Fehler und Support
-
-Die Verarbeitung personenbezogener Daten, etwa zur App-Funktion, für optionale externe Dienste und zur technischen Fehlerbehebung, wird in der zugehörigen [Datenschutzerklärung](DATENSCHUTZ.md) erläutert. Diese Bedingungen ersetzen weder Datenschutzinformationen noch nötige gesonderte Einwilligungen. Bei Funktionsfehlern können Sie sich mit einer Problembeschreibung an [persie0@protonmail.com](mailto:persie0@protonmail.com) wenden. Senden Sie dabei keine Passwörter oder vertraulichen Inhalte mit, sofern dies zur Bearbeitung nicht notwendig ist.
-
-## Gesetzliche Verbraucherrechte und Schlussbestimmungen
-
-Zwingende österreichische und europäische Verbraucherrechte bleiben uneingeschränkt bestehen, insbesondere gesetzliche Gewährleistung, wirksame Rücktrittsrechte und die zwingenden Regelungen des Staats Ihres gewöhnlichen Aufenthalts, soweit diese anwendbar sind. Allgemeine Hinweise in der App oder diesen Bedingungen führen nicht zu einem Verzicht auf solche Rechte. Bei Änderungen, die Verbraucherrechte berühren, informieren wir im rechtlich notwendigen Umfang; eine bloße Fortbenutzung ersetzt keine gesetzlich nötige Zustimmung zu nachteiligen Vertragsänderungen.
+Die [Datenschutzerklärung](DATENSCHUTZ.md) nennt die beim Gerätetest beziehungsweise bei der Berechnung relevanten Daten, Empfänger und Löschmöglichkeiten. Bitte richten Sie Beschwerden oder Fragen an [persie0@protonmail.com](mailto:persie0@protonmail.com). Selbst exportierte Dateien oder bestehende Store-Abonnements werden durch eine App-Deinstallation nicht automatisch gelöscht beziehungsweise gekündigt.
 
 ---
 
-### Interne Freigabehinweise – vor öffentlicher Veröffentlichung entfernen
-
-- Diese zusätzliche AGB ist **nicht für jede App gesetzlich vorgeschrieben**. Bei rein lokalen Spielen oder Tools genügt regelmäßig ein sauberer Datenschutzhinweis plus gegebenenfalls die Plattformstandardlizenz. Vor Aufnahme dieser Nutzungsbedingungen prüfen, ob eine wirksame vertragliche Einbeziehung erforderlich und sachgerecht ist.
-- **Screenshot Detector:** Produktfunktion, vorhandene kostenpflichtige Angebote und Klauseln anhand des tatsächlich ausgelieferten Builds und der Store-Produktseite bestätigen.
-- Keine nicht vorhandenen Werbe-, Kauf- oder Kontoobliegenheiten hinzufügen.
-- Eigene Formulierungen auf Basis des Projekts; vergleichbare [EU/Austrian-Referenzen](../README.md) dienen nur zur strukturellen Orientierung. Kein Text fremder AGB wurde kopiert.
+**Interne Prüfung:** Tatsächliche Messfunktionen, gekaufte Produkte, Werbenetzwerke und Lizenzbedingungen im veröffentlichten Build bestätigen. Diese Fassung ist nicht als ungeprüfter Vertragsinhalt freizugeben.
