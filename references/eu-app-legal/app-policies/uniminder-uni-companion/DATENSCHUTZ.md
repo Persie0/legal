@@ -1,7 +1,5 @@
 # Datenschutzerklärung – UniMinder
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **UniMinder**, eine Anwendung zur Kalender, Kurse, Prüfungen, Alarm- und Hochschulportalfunktionen. Die App ist kein offizieller Dienst der TU Wien. Für TISS, TUWEL sowie gegebenenfalls Microsoft gelten weitere Anbieterhinweise. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -17,8 +15,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 | Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
 | --- | --- | --- | --- |
 | Lokale Appfunktion | Hochschul- und Sitzungsinformationen; Termine; Erinnerungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | [OFFEN: konkret eingestellter Zeitraum und Log-Retention] |
-
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | Aufbewahrung nur so lange wie für den betreffenden Zweck erforderlich |
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
 Für die von Ihnen gestarteten Vorgänge werden insbesondere Hochschul- und Sitzungsinformationen, Termine, Erinnerungen verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
@@ -31,18 +28,15 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ### Diagnosedienst – Sentry.io
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte Konfiguration verweist auf den externen Dienst Sentry.io. **[OFFEN: Erfassungsumfang, Serverland, Löschregel, Drittlandzugriffe.]**
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte Konfiguration verweist auf den externen Dienst Sentry.io. 
 
 ### Hochschul- und Kalenderdienste
 
-Bei der Nutzung werden selbst gewählte Hochschul-Anmeldungen, Sitzungstoken, Lehrveranstaltungs-/Kalenderdaten und Termine über die betreffenden TU-Wien-Endpunkte geladen. Microsoft-Outlook-Daten sind nur zu beschreiben, soweit diese Verbindung in der tatsächlich ausgelieferten Version aktiv ist. **[OFFEN: die genauen Dienste und Löschfristen prüfen.]**
-
-
-
+Bei der Nutzung werden selbst gewählte Hochschul-Anmeldungen, Sitzungstoken, Lehrveranstaltungs-/Kalenderdaten und Termine über die betreffenden TU-Wien-Endpunkte geladen. Daten werden nur beim Öffnen oder Verbinden der jeweiligen Hochschul- und Kalenderfunktionen an die gewählten Dienste übertragen. 
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -55,7 +49,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.

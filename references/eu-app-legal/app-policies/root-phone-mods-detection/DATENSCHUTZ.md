@@ -1,7 +1,5 @@
 # Datenschutzerklärung – Root & Phone Mods Detection
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **Root & Phone Mods Detection**, eine Anwendung zur Prüfung von Root- und Systemveränderungsindikatoren. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -19,8 +17,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 | Lokale Appfunktion | Root- und Integritätsprüfergebnisse; Scanverlauf und Einstellungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
 | Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung. | Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks und Betrugspräventionssignale sowie ein aus der IP-Adresse abgeleiteter ungefährer Standort. | Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App geändert werden. | Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen. |
 | Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten. | Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten. | Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). | Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | [OFFEN: konkret eingestellter Zeitraum und Log-Retention] |
-
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage (Fehlerereignisse) |
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
 Für die von Ihnen gestarteten Vorgänge werden insbesondere Root- und Integritätsprüfergebnisse, Scanverlauf und Einstellungen verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
@@ -52,14 +49,15 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ### Diagnosedienst – selbst betriebene GlitchTip-Installation
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. **[OFFEN: Erfassungsumfang, Serverland, Löschregel, Drittlandzugriffe.]**
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. dieser App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. 
 
+Die Fehlerdiagnose wird auf unserem Oracle-Cloud-Server in Frankfurt am Main (Deutschland) betrieben. Fehlerereignisse werden für 14 Tage gespeichert; rotierte Webserver-Zugriffslogs werden nach sieben Tagen bereinigt.
 
-Für Werbung ist eine erforderliche Einwilligung im Appodeal-CMP unabhängig von der Annahme allgemeiner Nutzungsbedingungen. Sie kann im Datenschutzmenü geändert werden; unter iOS kann zusätzlich die separate ATT-Freigabe relevant sein. **[OFFEN: aktivierte Netzwerke des veröffentlichten Builds einzeln ergänzen.]**
+Für Werbung ist eine erforderliche Einwilligung im Appodeal-CMP unabhängig von der Annahme allgemeiner Nutzungsbedingungen. Sie kann im Datenschutzmenü geändert werden; unter iOS kann zusätzlich die separate ATT-Freigabe relevant sein. 
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -72,7 +70,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.

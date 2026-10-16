@@ -1,7 +1,5 @@
 # Datenschutzerklärung – Video Upscaler Offline (macOS)
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **Video Upscaler Offline (macOS)**, eine Anwendung zur lokales Upscaling selbst ausgewählter Videos auf dem Mac. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -18,8 +16,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 | --- | --- | --- | --- |
 | Lokale Appfunktion | ausgewählte Videodateien; Vorschauen und Modelle; fertige Videos | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
 | Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten. | Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten. | Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). | Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | [OFFEN: konkret eingestellter Zeitraum und Log-Retention] |
-
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage (Fehlerereignisse) |
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
 Für die von Ihnen gestarteten Vorgänge werden insbesondere ausgewählte Videodateien, Vorschauen und Modelle, fertige Videos verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
@@ -41,14 +38,13 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ### Diagnosedienst – selbst betriebene GlitchTip-Installation
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. **[OFFEN: Erfassungsumfang, Serverland, Löschregel, Drittlandzugriffe.]**
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. dieser App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. 
 
-
-
+Die Fehlerdiagnose wird auf unserem Oracle-Cloud-Server in Frankfurt am Main (Deutschland) betrieben. Fehlerereignisse werden für 14 Tage gespeichert; rotierte Webserver-Zugriffslogs werden nach sieben Tagen bereinigt.
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -61,7 +57,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.

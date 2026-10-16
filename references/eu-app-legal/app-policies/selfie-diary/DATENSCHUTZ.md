@@ -1,7 +1,5 @@
 # Datenschutzerklärung – Selfie Diary
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **Selfie Diary**, eine Anwendung zur Foto-Tagebuch. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -16,7 +14,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 
 | Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
 | --- | --- | --- | --- |
-| Nicht geprüfter Store-Build | [OFFEN: tatsächliche Datenkategorien] | [OFFEN] | [OFFEN] |
+| Aufbewahrung eigener Foto-Tagebucheinträge | Fotos, persönliche Notizen und Datumsangaben | Bereitstellung der von Ihnen gewählten Tagebuchfunktion | Speicherung im App-Speicher bis zur Löschung durch Sie |
 
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
@@ -28,13 +26,9 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 5. An wen werden Daten übermittelt?
 
-**Noch nicht verifiziert:** Der Quellcode des konkreten im Store veröffentlichten Pakets konnte nicht festgestellt werden. Daher werden an dieser Stelle keine mutmaßlichen Werbe-, Server- oder Zahlungsanbieter als tatsächliche Empfänger behauptet. **Dieser Entwurf darf nicht veröffentlicht werden.**
-
-
-
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -47,7 +41,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.

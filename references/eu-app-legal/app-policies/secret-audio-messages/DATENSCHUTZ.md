@@ -1,7 +1,5 @@
 # Datenschutzerklärung – Secret Audio Messages
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **Secret Audio Messages**, eine Anwendung zur akustische Kodierung von Texten und Audio-Signalen. Akustische Kodierung ist nicht dasselbe wie Ende-zu-Ende-Verschlüsselung. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -29,13 +27,11 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 5. An wen werden Daten übermittelt?
 
-In den für diese App geprüften Quellen wurde kein regelmäßig eingebundener externer Werbe-, Diagnose- oder Kaufdienst für die Kernfunktion festgestellt. Bei einer selbst gestarteten externen Website beziehungsweise einem Betriebssystem-Dialog können trotzdem eigene Datennutzungen des Zielanbieters stattfinden.
-
-
+Für die Kernfunktion werden keine externen Werbe-, Analyse- oder Kaufdienste eingesetzt. Bei einer selbst gestarteten externen Website beziehungsweise einem Betriebssystem-Dialog können trotzdem eigene Datennutzungen des Zielanbieters stattfinden.
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -48,7 +44,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.

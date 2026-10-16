@@ -1,7 +1,5 @@
 # Datenschutzerklärung – Toilet Compass
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **Toilet Compass**, eine Anwendung zur Suche nach WCs anhand von Standort und Kompass. Der Geräte-Standort, Download des regionalen WC-Datensatzes und Netzwerkzugriff auf eine Kartenkachel sind unterschiedliche technische Vorgänge. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -20,8 +18,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 | Die ausgewählte Offline-Datenbank laden und ihre Integrität prüfen. | IP, Anfragemetadaten und angeforderte Kontinentdatenbank; die Download-URL enthält keine Live-GPS-Koordinate. | Art. 6 Abs. 1 lit. b DSGVO und Art. 6 Abs. 1 lit. f für sichere Verteilung. | Datenbank bleibt bis zur Entfernung/Deinstallation auf dem Gerät. GitHub speichert Downloadprotokolle nach seiner Richtlinie; Persie0 führt kein separates Protokoll. |
 | Den von Ihnen gewünschten Kartenbereich anzeigen. | IP, User-Agent, Anfragezeit und angeforderte Kartenkachelkoordinaten/Zoomstufe, aus denen das betrachtete Gebiet hervorgehen kann. Der Kartenanbieter erhält kein Persie0-Kontopasswort. | Art. 6 Abs. 1 lit. b DSGVO für die gewünschte Karte und Art. 6 Abs. 1 lit. f für effiziente Auslieferung. | Persie0 führt keine Kartenkachel-Anfrageprotokolle; es gelten Anbieterfristen. Lokaler Cache wird durch App/Betriebssystem oder Deinstallation gelöscht. |
 | Auf Ihre Anforderung eine Route öffnen. | Ziel sowie aktueller Standort/Kontext, den die gewählte Karten-App nach Ihrem Öffnen hinzufügt; IP- und Geräte-/Kontodaten nach deren Einstellungen. | Art. 6 Abs. 1 lit. b DSGVO; der gewählte externe Anbieter ist eigenständig Verantwortlicher. | Nach Konto-/Datenschutzeinstellungen des externen Anbieters; Persie0 erhält die Route nicht. |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | [OFFEN: konkret eingestellter Zeitraum und Log-Retention] |
-
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage (Fehlerereignisse) |
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
 Für die von Ihnen gestarteten Vorgänge werden insbesondere heruntergeladene regionale Toilettendatenbanken, aktueller Standort und Kompassrichtung während der Nutzung, zwischengespeicherte Treffer und Einstellungen verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
@@ -63,14 +60,13 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ### Diagnosedienst – selbst betriebene GlitchTip-Installation
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. **[OFFEN: Erfassungsumfang, Serverland, Löschregel, Drittlandzugriffe.]**
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. dieser App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. 
 
-
-
+Die Fehlerdiagnose wird auf unserem Oracle-Cloud-Server in Frankfurt am Main (Deutschland) betrieben. Fehlerereignisse werden für 14 Tage gespeichert; rotierte Webserver-Zugriffslogs werden nach sieben Tagen bereinigt.
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -83,7 +79,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.

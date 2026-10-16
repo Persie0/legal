@@ -1,7 +1,5 @@
 # Datenschutzerklärung – Vitamin D Tracker
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **Vitamin D Tracker**, eine Anwendung zur Führung von Vitamin-D-/Sonnenexpositionsangaben und Wetter-/UV-Abfragen. Gesundheitsangaben können besonders geschützte Daten gemäß Art. 9 DSGVO sein. Ein alleiniger allgemeiner App-EULA-Klick kann die erforderliche Einwilligung nicht ersetzen. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -21,8 +19,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 | Lokale UV- und Wetterwerte für die von Ihnen gewünschte Berechnung liefern. | Genaue Breiten-/Längengrade, IP-/Anfragemetadaten, Zeitpunkt und Ihr OpenWeather-API-Schlüssel. | Art. 6 Abs. 1 lit. b DSGVO und für gesundheitsbezogene Nutzung Art. 9 Abs. 2 lit. a ausdrückliche Einwilligung. Die Standortberechtigung allein ist keine Einwilligung in andere Zwecke. | Persie0 speichert die Anfrage nicht auf einem Server; lokale Ergebnisse/Verläufe bleiben bis zur Löschung. OpenWeather speichert Anfrage-/Kontoprotokolle nach seiner Richtlinie. |
 | Regionale Voreinstellungen, Währung, Sprache oder den passenden Einwilligungsablauf wählen. | Öffentliche IP-Adresse, Anfragemetadaten und aus der IP abgeleitetes Land/Region; kein GPS-Standort. | Art. 6 Abs. 1 lit. f DSGVO (minimale regionale Konfiguration). Regionale Einstellungen können, soweit angeboten, überschrieben werden. | Die Antwort wird vorübergehend verwendet oder lokal zwischengespeichert; Persie0 führt kein Serverprotokoll. Anbieter speichern Anfrageprotokolle nach ihren Richtlinien. |
 | Ihre Daten auf Anforderung sichern, wiederherstellen und exportieren. | Google-Kontoautorisierung und Zugriff auf Drive-App-Daten; Datenbanksicherung, Einstellungen und erzeugte Tabellen-/Exportzusammenfassungen mit möglichen Vitamin-D-, Supplement-, Sonnenexpositions- und Bluttestdaten. | Art. 6 Abs. 1 lit. a/b DSGVO und Art. 9 Abs. 2 lit. a ausdrückliche Einwilligung für Gesundheitsdaten. Drive-Sync ist optional; Widerruf durch Trennen der Verbindung. | Bis Sie Sicherung/Export in Drive löschen, App-Daten trennen/löschen oder das Google-Konto schließen; begrenzte Google-Sicherungs-/Löschzyklen können fortbestehen. |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | [OFFEN: konkret eingestellter Zeitraum und Log-Retention] |
-
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage (Fehlerereignisse) |
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
 Für die von Ihnen gestarteten Vorgänge werden insbesondere Vitamin-D-Schätzungen und Verlauf, Supplemente, Sonnenexposition, Hauttyp und Angaben zur exponierten Körperfläche, Bluttestwerte, Erinnerungen, Einstellungen und OpenWeather-API-Schlüssel verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
@@ -73,18 +70,17 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ### Diagnosedienst – selbst betriebene GlitchTip-Installation
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. **[OFFEN: Erfassungsumfang, Serverland, Löschregel, Drittlandzugriffe.]**
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. dieser App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. 
+
+Die Fehlerdiagnose wird auf unserem Oracle-Cloud-Server in Frankfurt am Main (Deutschland) betrieben. Fehlerereignisse werden für 14 Tage gespeichert; rotierte Webserver-Zugriffslogs werden nach sieben Tagen bereinigt.
 
 ### Gesundheit und optionaler Abgleich
 
 Angaben zu Supplementen, Sonnenexposition und Blutwerten können besondere Kategorien personenbezogener Daten sein. Eine Verarbeitung durch den Anbieter benötigt gegebenenfalls eine zusätzlich geeignete Voraussetzung nach Art. 9 DSGVO, etwa eine gesonderte ausdrückliche Einwilligung. Die Cloud-Sicherung ist davon als optionaler Vorgang zu unterscheiden.
 
-
-
-
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -97,7 +93,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.

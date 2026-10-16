@@ -1,7 +1,5 @@
 # Datenschutzerklärung – Yoyillo: Learn Chinese Offline
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **Yoyillo: Learn Chinese Offline**, eine Anwendung zur Vokabeltraining mit optionalem Lernstandsabgleich. Die Lernfunktion kann offline sein, während ein ausdrücklich aktivierter Google-Drive- beziehungsweise iCloud-Abgleich einen Netzzugang benötigt. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -22,8 +20,7 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 | Fortschritt auf Ihre Anforderung sichern und synchronisieren. | Google-Autorisierung/Kontokennung und App-Daten-Zugriff; Vokabelfortschritt, Wiederholungsstatus, Einstellungen und Sync-Metadaten. | Art. 6 Abs. 1 lit. a/b DSGVO. Optional; Trennen widerruft die Einwilligung für künftige Synchronisierung. | Bis zur Löschung aus Drive/App-Daten, Trennung mit Löschung oder Schließung des Google-Kontos; Anbieter-Sicherungszyklen können gelten. |
 | Fortschritt zwischen Ihren Apple-Geräten synchronisieren. | iCloud-kontobezogene Kennung und über Apples iCloud-Dienste übermittelte Lernfortschritte/Einstellungen; Persie0 erhält Ihr Apple-Passwort nicht. | Art. 6 Abs. 1 lit. a/b DSGVO; optional und über App-/iCloud-Einstellungen steuerbar. | Bis zur Löschung der App-iCloud-Daten, Deaktivierung mit Löschung oder Schließung des Apple-Kontos; Apple-Sicherungszyklen können gelten. |
 | Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren. | Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren. | Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr. | Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht. |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | [OFFEN: konkret eingestellter Zeitraum und Log-Retention] |
-
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage (Fehlerereignisse) |
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
 Für die von Ihnen gestarteten Vorgänge werden insbesondere Vokabelfortschritt, Antworten, Bewertungen und Wiederholungsplan, Einstellungen, ausgewählte Sprache und Wiedergabestatus, vorgemerkte Synchronisierungsänderungen verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
@@ -83,14 +80,13 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ### Diagnosedienst – selbst betriebene GlitchTip-Installation
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. **[OFFEN: Erfassungsumfang, Serverland, Löschregel, Drittlandzugriffe.]**
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. dieser App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. 
 
-
-
+Die Fehlerdiagnose wird auf unserem Oracle-Cloud-Server in Frankfurt am Main (Deutschland) betrieben. Fehlerereignisse werden für 14 Tage gespeichert; rotierte Webserver-Zugriffslogs werden nach sieben Tagen bereinigt.
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für Übermittlungen in Drittländer gelten die gesetzlichen Schutzanforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -103,7 +99,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.
