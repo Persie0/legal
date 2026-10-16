@@ -17,7 +17,7 @@ Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler V
 | Verwendung der App auf Ihrem Gerät | im Arbeitsspeicher verarbeitete Live-Mikrofonpuffer; Audio- und App-Einstellungen; Einwilligungsentscheidungen | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
 | Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung. | Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks und Betrugspräventionssignale sowie ein aus der IP-Adresse abgeleiteter ungefährer Standort. | Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App geändert werden. | Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen. |
 | Optionales externes Referenz-/Werkzeug öffnen. | IP, Browser-/Gerätedaten und etwaige Website-Cookies nach von Ihnen gewähltem Öffnen; Mikrofonaudio wird von der App nicht gesendet. | Art. 6 Abs. 1 lit. b DSGVO für Ihre gewünschte Aktion; Ziel ist eigenständig Verantwortlicher. | Nach Richtlinie der Zielseite; Persie0 erhält keine Website-Aktivität. |
-| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | 14 Tage für Fehlerereignisse |
+| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | Nach den vereinbarten Aufbewahrungsregeln des Dienstes Sentry |
 
 ## 4. Lokale Inhalte und Geräteberechtigungen
 
@@ -52,9 +52,9 @@ Für die Auslieferung von Werbeanzeigen sind in der Android-Version folgende Anz
 **Dauer:** Nach Richtlinie der Zielseite; Persie0 erhält keine Website-Aktivität.  
 **Informationen:** [Datenschutz des Anbieters](https://onlinetonegenerator.com/privacy.html)
 
-### Fehlerberichte (Sentry.io)
+### Fehlerberichte über Sentry
 
-Für die Fehlerbehebung kann ein technischer Bericht an Sentry.io (Functional Software, Inc.) gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören. 
+Zur Behebung von Programmfehlern nutzen wir **Sentry.io** von Functional Software, Inc. Dazu können Fehlermeldungen, Stacktraces, App- und Betriebssystemversionen sowie technische Verbindungs- und Geräteinformationen an Sentry übermittelt werden. Die Verarbeitung dient der technischen Stabilität und Fehlerbehebung (Art. 6 Abs. 1 lit. f DSGVO, soweit hierfür keine gesonderte Einwilligung erforderlich ist). Für Aufbewahrung und mögliche Übermittlungen außerhalb des EWR gelten die mit Sentry vereinbarten Speicherregeln und die gesetzlichen Datenschutzanforderungen. Weitere Informationen finden Sie in den [Datenschutzhinweisen von Sentry](https://sentry.io/privacy/).
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 

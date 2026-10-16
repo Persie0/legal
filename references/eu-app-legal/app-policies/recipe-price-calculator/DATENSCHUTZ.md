@@ -27,9 +27,9 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 5. An wen werden Daten übermittelt?
 
-### Technische Fehlerdiagnose
+### Fehlerberichte über Sentry
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Eine Übermittlung erfolgt nur, wenn die Fehlerdiagnose in der von Ihnen verwendeten App-Version eingeschaltet ist. 
+Zur Behebung von Programmfehlern nutzen wir **Sentry.io** von Functional Software, Inc. Dazu können Fehlermeldungen, Stacktraces, App- und Betriebssystemversionen sowie technische Verbindungs- und Geräteinformationen an Sentry übermittelt werden. Die Verarbeitung dient der technischen Stabilität und Fehlerbehebung (Art. 6 Abs. 1 lit. f DSGVO, soweit hierfür keine gesonderte Einwilligung erforderlich ist). Für Aufbewahrung und mögliche Übermittlungen außerhalb des EWR gelten die mit Sentry vereinbarten Speicherregeln und die gesetzlichen Datenschutzanforderungen. Weitere Informationen finden Sie in den [Datenschutzhinweisen von Sentry](https://sentry.io/privacy/).
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 

@@ -80,9 +80,9 @@ Eine Systemberechtigung erfasst nur den jeweiligen Gerätezugriff und ist keine 
 **Dauer:** Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht.  
 **Informationen:** [Datenschutz des Anbieters](https://proton.me/legal/privacy)
 
-### Technische Fehlerdiagnose
+### Fehlerberichte über Sentry
 
-Soweit eine technische Fehlerdiagnose aktiviert ist, können zur Behebung von Programmfehlern Informationen über die App- und Systemversion, den Fehlerablauf und technische Geräteinformationen an den hierfür eingesetzten Dienst übermittelt werden. 
+Zur Behebung von Programmfehlern nutzen wir **Sentry.io** von Functional Software, Inc. Dazu können Fehlermeldungen, Stacktraces, App- und Betriebssystemversionen sowie technische Verbindungs- und Geräteinformationen an Sentry übermittelt werden. Die Verarbeitung dient der technischen Stabilität und Fehlerbehebung (Art. 6 Abs. 1 lit. f DSGVO, soweit hierfür keine gesonderte Einwilligung erforderlich ist). Für Aufbewahrung und mögliche Übermittlungen außerhalb des EWR gelten die mit Sentry vereinbarten Speicherregeln und die gesetzlichen Datenschutzanforderungen. Weitere Informationen finden Sie in den [Datenschutzhinweisen von Sentry](https://sentry.io/privacy/).
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
