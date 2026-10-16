@@ -26,7 +26,7 @@ Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgend
 
 Die genaue Systemberechtigung hängt von den tatsächlich verwendeten Funktionen ab. Die App verlangt keine pauschale Freigabe sämtlicher Dateien oder Sensoren.
 
-Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in eine davon unabhängige Werbe- oder Analysedatenverarbeitung.
 
 ## 5. Dienstleister und weitere Empfänger
 
