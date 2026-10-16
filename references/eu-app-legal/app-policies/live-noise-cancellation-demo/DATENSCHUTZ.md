@@ -2,7 +2,7 @@
 
 ## 1. Geltungsbereich
 
-Diese Datenschutzerklärung betrifft **Live Noise Cancellation Demo** und beschreibt die Verarbeitung im Zusammenhang mit Live-Verarbeitung von Mikrofon-Audio. Welche Funktionen verfügbar sind, hängt von Ihrer installierten App-Version ab. Die akustische Aufnahme beziehungsweise Wiedergabe wird auf dem Gerät verarbeitet; soweit externe Funktionen hinzukommen, werden sie hier gesondert beschrieben.
+Diese Datenschutzerklärung betrifft **Live Noise Cancellation Demo** und beschreibt die Verarbeitung im Zusammenhang mit Live-Verarbeitung von Mikrofon-Audio. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die akustische Aufnahme beziehungsweise Wiedergabe wird auf dem Gerät verarbeitet; soweit externe Funktionen hinzukommen, werden sie hier gesondert beschrieben.
 
 ## 2. Verantwortlicher
 
@@ -17,7 +17,7 @@ Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler V
 | Verwendung der App auf Ihrem Gerät | im Arbeitsspeicher verarbeitete Live-Mikrofonpuffer; Audio- und App-Einstellungen; Einwilligungsentscheidungen | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
 | Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung. | Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks und Betrugspräventionssignale sowie ein aus der IP-Adresse abgeleiteter ungefährer Standort. | Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App geändert werden. | Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen. |
 | Optionales externes Referenz-/Werkzeug öffnen. | IP, Browser-/Gerätedaten und etwaige Website-Cookies nach von Ihnen gewähltem Öffnen; Mikrofonaudio wird von der App nicht gesendet. | Art. 6 Abs. 1 lit. b DSGVO für Ihre gewünschte Aktion; Ziel ist eigenständig Verantwortlicher. | Nach Richtlinie der Zielseite; Persie0 erhält keine Website-Aktivität. |
-| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | Aufbewahrung entsprechend dem jeweiligen Dienst und dem Verarbeitungszweck |
+| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | 14 Tage für Fehlerereignisse |
 
 ## 4. Lokale Inhalte und Geräteberechtigungen
 
@@ -26,39 +26,39 @@ Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgend
 - Mikrofon/Audioeinstellungen: Live-Verarbeitung bereitstellen.
 - Netzwerk: Werbung, Diagnose und ein von Ihnen optional geöffneter externer Tongenerator.
 
-Eine erteilte Systemberechtigung gilt nur für den beschriebenen Gerätezugriff und nicht für davon unabhängige Werbe- oder Analysezwecke.
+Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken dar.
 
 ## 5. Dienstleister und weitere Empfänger
 
 ### Werbedienst Appodeal
 
-**Dienst und Empfänger:** Appodeal und dessen Werbepartner.
-**Zweck:** Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung.
-**Daten:** Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks und Betrugspräventionssignale sowie ein aus der IP-Adresse abgeleiteter ungefährer Standort.
-**Rechtsgrundlage:** Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App geändert werden.
-**Dauer:** Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen.
+**Dienst und Empfänger:** Appodeal und dessen Werbepartner.  
+**Zweck:** Werbung anzeigen und messen sowie Werbebetrug verhindern. Personalisierte Werbung erfolgt nur mit Einwilligung.  
+**Daten:** Werbe-ID, soweit erlaubt, IP-Adresse, Geräte- und App-Informationen, Anzeigenaufrufe, Klicks und Betrugspräventionssignale sowie ein aus der IP-Adresse abgeleiteter ungefährer Standort.  
+**Rechtsgrundlage:** Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 165 Abs. 3 TKG 2021 für nicht notwendige Endgerätezugriffe. Die Auswahl kann in den Datenschutzeinstellungen der App geändert werden.  
+**Dauer:** Die Einwilligungsauswahl bleibt bis zur Änderung, zum Zurücksetzen oder Entfernen der App auf dem Gerät. Für Appodeal und dessen Partner gelten die in deren Datenschutzhinweisen genannten Fristen.  
 **Informationen:** [Datenschutz des Anbieters](https://www.appodeal.com/home/privacy-policy/)
 
 ### Optional external tone generator
 
-**Dienst und Empfänger:** OnlineToneGenerator.com.
-**Zweck:** Optionales externes Referenz-/Werkzeug öffnen.
-**Daten:** IP, Browser-/Gerätedaten und etwaige Website-Cookies nach von Ihnen gewähltem Öffnen; Mikrofonaudio wird von der App nicht gesendet.
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO für Ihre gewünschte Aktion; Ziel ist eigenständig Verantwortlicher.
-**Dauer:** Nach Richtlinie der Zielseite; Persie0 erhält keine Website-Aktivität.
+**Dienst und Empfänger:** OnlineToneGenerator.com.  
+**Zweck:** Optionales externes Referenz-/Werkzeug öffnen.  
+**Daten:** IP, Browser-/Gerätedaten und etwaige Website-Cookies nach von Ihnen gewähltem Öffnen; Mikrofonaudio wird von der App nicht gesendet.  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO für Ihre gewünschte Aktion; Ziel ist eigenständig Verantwortlicher.  
+**Dauer:** Nach Richtlinie der Zielseite; Persie0 erhält keine Website-Aktivität.  
 **Informationen:** [Datenschutz des Anbieters](https://onlinetonegenerator.com/privacy.html)
 
 ### Fehlerberichte (Sentry.io)
 
-Für die Fehlerbehebung kann ein technischer Bericht an Sentry.io (Functional Software, Inc.) gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören.
+Für die Fehlerbehebung kann ein technischer Bericht an Sentry.io (Functional Software, Inc.) gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören. 
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
-Die Einwilligung für nicht technisch erforderliche Werbezugriffe wird, soweit erforderlich, über den Appodeal-Consent-Manager abgefragt und kann über die in der App vorgesehenen Datenschutzeinstellungen geändert werden. Unter iOS kann außerdem die gesonderte ATT-Entscheidung nötig sein. Die jeweiligen Anzeigenpartner und ihre Zwecke werden in der Einwilligungsverwaltung erläutert.
+Die Einwilligung für nicht technisch erforderliche Werbezugriffe wird, soweit erforderlich, über den Appodeal-Consent-Manager abgefragt und kann über die in der App vorgesehenen Datenschutzeinstellungen geändert werden. Unter iOS kann außerdem die gesonderte ATT-Entscheidung nötig sein. Die jeweiligen Werbepartner und ihre Zwecke können Sie in den Datenschutz- und Einwilligungseinstellungen einsehen.
 
 ## 7. Datenweitergabe, Drittländer und Dauer
 
-Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Die Aufbewahrung bei externen Diensten richtet sich nach den jeweiligen Zwecken und den unten verlinkten Datenschutzinformationen.
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Für Dienste Dritter gelten deren in den Datenschutzhinweisen beschriebenen Aufbewahrungsregeln.
 
 ## 8. Betroffenenrechte und Löschung
 

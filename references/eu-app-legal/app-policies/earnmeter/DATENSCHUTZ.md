@@ -2,7 +2,7 @@
 
 ## 1. Geltungsbereich
 
-Diese Datenschutzerklärung betrifft **EarnMeter: Work Motivator** und beschreibt die Verarbeitung im Zusammenhang mit geschätzte Arbeitszeit- und Verdienstberechnungen. Welche Funktionen verfügbar sind, hängt von Ihrer installierten App-Version ab. Die Daten werden für die von Ihnen gewählten Funktionen genutzt.
+Diese Datenschutzerklärung betrifft **EarnMeter: Work Motivator** und beschreibt die Verarbeitung im Zusammenhang mit geschätzte Arbeitszeit- und Verdienstberechnungen. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die genannten Grunddaten dienen der von Ihnen ausgelösten Funktion.
 
 ## 2. Verantwortlicher
 
@@ -20,21 +20,21 @@ Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler V
 
 Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: eingegebene Arbeitszeit, Stundenlohn/Pausen, lokale Präferenzen. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
-Geräteberechtigungen werden nur im Zusammenhang mit den jeweils von Ihnen ausgewählten Funktionen verwendet.
+Für die angebotenen Funktionen werden keine pauschalen Zugriffsrechte auf alle Dateien oder Sensoren angefordert.
 
-Eine erteilte Systemberechtigung gilt nur für den beschriebenen Gerätezugriff und nicht für davon unabhängige Werbe- oder Analysezwecke.
+Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken dar.
 
 ## 5. Dienstleister und weitere Empfänger
 
-Für die Kernfunktion werden keine eigenen Online-Konto-, Zahlungs- oder Werbedienste genutzt.
+Für die Kernfunktion wird kein eigener Online-Konto-, Zahlungs- oder Werbedienst verwendet.
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
-Eine Zustimmung zu Nutzungsbedingungen ist keine Einwilligung in optionale Datenverarbeitungen.
+Die Annahme der Nutzungsbedingungen ersetzt keine gesondert erforderliche Einwilligung.
 
 ## 7. Datenweitergabe, Drittländer und Dauer
 
-Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Die Aufbewahrung bei externen Diensten richtet sich nach den jeweiligen Zwecken und den unten verlinkten Datenschutzinformationen.
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Für Dienste Dritter gelten deren in den Datenschutzhinweisen beschriebenen Aufbewahrungsregeln.
 
 ## 8. Betroffenenrechte und Löschung
 
