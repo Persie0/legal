@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "curated_on": "2026-10-16",
+  "purpose": "Research references only, not templates or legal advice",
+  "publishers": [
+    {
+      "id": "oeamtc",
+      "publisher": "ÖAMTC",
+      "country": "AT",
+      "app": "ÖAMTC",
+      "topics": [
+        "location",
+        "maps",
+        "analytics",
+        "consent",
+        "account"
+      ],
+      "app_store": "https://apps.apple.com/at/app/%C3%B6amtc/id329772634",
+      "google_play": "https://play.google.com/store/apps/details?id=at.oeamtc.android",
+      "documents": [
+        {
+          "id": "oeamtc-privacy",
+          "type": "privacy",
+          "url": "https://www.oeamtc.at/mitgliedschaft/leistungen/datenschutzerklaerung-oeamtc-app-28493389",
+          "version_seen": null,
+          "monitor": "automatic"
+        },
+        {
+          "id": "oeamtc-terms",
+          "type": "terms",
+          "url": "https://www.oeamtc.at/mitgliedschaft/leistungen/nutzungsbedingungen-oeamtc-app-28489530",
+          "version_seen": null,
+          "monitor": "automatic"
+        }
+      ]
+    },
+    {
+      "id": "bergfex",
+      "publisher": "bergfex GmbH",
+      "country": "AT",
+      "app": "bergfex: Wandern & Tracking",
+      "topics": [
+        "gps",
+        "subscription",
+        "ads",
+        "health-and-fitness"
+      ],
+      "app_store": "https://apps.apple.com/at/app/bergfex-wandern-tracking/id912776148",
+      "google_play": "https://play.google.com/store/apps/details?id=com.bergfex.tour",
+      "documents": [
+        {
+          "id": "bergfex-privacy",
+          "type": "privacy",
+          "url": "https://www.bergfex.at/c/datenschutz/",
+          "version_seen": null,
+          "monitor": "automatic"
+        },
+        {
+          "id": "bergfex-terms",
+          "type": "terms",
+          "url": "https://www.bergfex.at/c/agb/",
+          "version_seen": null,
+          "monitor": "automatic"
+        }
+      ]
+    },
+    {
+      "id": "willhaben",
+      "publisher": "willhaben internet service GmbH",
+      "country": "AT",
+      "app": "willhaben",
+      "topics": [
+        "advertising",
+        "user-content",
+        "account",
+        "payments"
+      ],
+      "app_store": "https://apps.apple.com/at/app/willhaben/id660325616",
+      "google_play": "https://play.google.com/store/apps/details?id=at.willhaben",
+      "documents": [
+        {
+          "id": "willhaben-privacy",
+          "type": "privacy",
+          "url": "https://www.willhaben.at/iad/datenschutzerklaerung",
+          "version_seen": "September 2026",
+          "monitor": "manual",
+          "notes": "Manual review only; site terms restrict automated copying/crawling."
+        },
+        {
+          "id": "willhaben-terms",
+          "type": "terms",
+          "url": "https://www.willhaben.at/iad/agb",
+          "version_seen": "30 September 2026",
+          "monitor": "manual",
+          "notes": "Manual review only; site terms restrict automated copying/crawling."
+        }
+      ]
+    },
+    {
+      "id": "bitpanda",
+      "publisher": "Bitpanda GmbH",
+      "country": "AT",
+      "app": "Bitpanda",
+      "topics": [
+        "financial-data",
+        "account",
+        "identity",
+        "security"
+      ],
+      "app_store": "https://apps.apple.com/at/app/bitpanda-krypto-aktien-etf/id1449018960",
+      "google_play": null,
+      "documents": [
+        {
+          "id": "bitpanda-privacy",
+          "type": "privacy",
+          "url": "https://www.bitpanda.com/de/legal/bitpanda-group-privacy-notice",
+          "version_seen": "July 2026",
+          "monitor": "automatic"
+        },
+        {
+          "id": "bitpanda-terms",
+          "type": "terms",
+          "url": "https://www.bitpanda.com/de/legal/user-agreement",
+          "version_seen": null,
+          "monitor": "automatic",
+          "notes": "Legal index of latest and older agreements; contains links to versions."
+        }
+      ]
+    },
+    {
+      "id": "wegfinder",
+      "publisher": "iMobility GmbH",
+      "country": "AT",
+      "app": "wegfinder",
+      "topics": [
+        "location",
+        "payments",
+        "account",
+        "tracking"
+      ],
+      "app_store": "https://apps.apple.com/at/app/wegfinder/id680580267",
+      "google_play": null,
+      "documents": [
+        {
+          "id": "wegfinder-privacy",
+          "type": "privacy",
+          "url": "https://wegfinder.at/datenschutz/",
+          "version_seen": "2025",
+          "monitor": "automatic"
+        },
+        {
+          "id": "wegfinder-terms",
+          "type": "terms",
+          "url": "https://wegfinder.at/agb/",
+          "version_seen": "Effective 1 July 2025 (new users)",
+          "monitor": "automatic"
+        }
+      ]
+    },
+    {
+      "id": "photoroom",
+      "publisher": "Photoroom SAS",
+      "country": "FR",
+      "app": "Photoroom: AI Photo Editor",
+      "topics": [
+        "images",
+        "ai",
+        "subscription",
+        "cloud-processing"
+      ],
+      "app_store": "https://apps.apple.com/at/app/photoroom-ki-foto-editor/id1455009060",
+      "google_play": "https://play.google.com/store/apps/details?id=com.photoroom.app",
+      "documents": [
+        {
+          "id": "photoroom-privacy",
+          "type": "privacy",
+          "url": "https://www.photoroom.com/legal/privacy",
+          "version_seen": "March 2026",
+          "monitor": "automatic"
+        },
+        {
+          "id": "photoroom-terms",
+          "type": "terms",
+          "url": "https://www.photoroom.com/legal/terms-and-conditions",
+          "version_seen": "29 July 2026",
+          "monitor": "automatic"
+        }
+      ]
+    },
+    {
+      "id": "yazio",
+      "publisher": "YAZIO GmbH",
+      "country": "DE",
+      "app": "YAZIO: Calorie Tracker",
+      "topics": [
+        "health-data",
+        "advertising",
+        "subscription",
+        "ai"
+      ],
+      "app_store": "https://apps.apple.com/at/app/yazio-kalorien-z%C3%A4hler-di%C3%A4t/id946099227",
+      "google_play": "https://play.google.com/store/apps/details?id=com.yazio.android",
+      "documents": [
+        {
+          "id": "yazio-privacy-terms",
+          "type": "privacy_and_terms",
+          "url": "https://help.yazio.com/hc/de/articles/203444951-Nutzungsbedingungen-Datenschutzerkl%C3%A4rung",
+          "version_seen": null,
+          "monitor": "automatic"
+        }
+      ]
+    },
+    {
+      "id": "freeletics",
+      "publisher": "Freeletics GmbH",
+      "country": "DE",
+      "app": "Freeletics: HIIT Fitness Coach",
+      "topics": [
+        "health-data",
+        "subscriptions",
+        "tracking",
+        "analytics"
+      ],
+      "app_store": "https://apps.apple.com/at/app/freeletics-hiit-fitness-coach/id654810212",
+      "google_play": null,
+      "documents": [
+        {
+          "id": "freeletics-privacy",
+          "type": "privacy",
+          "url": "https://www.freeletics.com/de/pages/privacy/",
+          "version_seen": null,
+          "monitor": "automatic"
+        }
+      ]
+    },
+    {
+      "id": "apple-standard-eula",
+      "publisher": "Apple Inc.",
+      "country": "PLATFORM",
+      "app": "App Store Standard EULA (reference)",
+      "topics": [
+        "eula",
+        "app-store-terms"
+      ],
+      "app_store": null,
+      "google_play": null,
+      "documents": [
+        {
+          "id": "apple-standard-eula",
+          "type": "eula",
+          "url": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+          "version_seen": null,
+          "monitor": "automatic",
+          "notes": "Platform reference, not an Austrian or EU app publisher."
+        }
+      ]
+    }
+  ]
+}
