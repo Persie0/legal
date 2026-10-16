@@ -27,7 +27,7 @@ Curated **primary-source legal documents and store listings**, checked **16 Octo
 | Publisher | Publisher's legal notice |
 | --- | --- |
 | bergfex | [Impressum](https://www.bergfex.at/c/impressum/) |
-| willhaben | [Impressum](https://www.willhaben.at/iad/impressum) *(manual review only)* |
+| willhaben | [Impressum](https://www.willhaben.at/iad/impressum)  |
 | Bitpanda | [Legal notice](https://www.bitpanda.com/de/legal/legal-notice) |
 | wegfinder | [Impressum](https://wegfinder.at/impressum/) |
 
@@ -51,28 +51,10 @@ These links are especially useful when checking Austrian business-identification
 
 No version is inferred when a document does not clearly print one. Source versions may change without the URL changing.
 
-## Change monitoring
+## Reference files
 
-- [`sources.json`](sources.json) — registry of publisher, jurisdiction, store listings, document URL, subject, observed version and monitoring status.
-- [`check.py`](check.py) — an **opt-in** Python 3 checker using only the standard library. It reads publisher legal pages into memory, hashes normalized visible text and stores **only hashes, sizes and change timestamps**, never the text.
-- [`fingerprints.json`](fingerprints.json) — repository's current known hashes. **Empty until the first successful permitted check**; the initial fetch sets a baseline, not a claim that a change occurred.
-- **Manual-only:** willhaben, due to published limitations on automated copying/crawling. It stays linked but is never fetched by the checker.
-- The checker honors `robots.txt`; blocked/unavailable/JavaScript-only pages remain flagged for **manual review**. A skipped page is **not** treated as unchanged. Automatic checks are best-effort; look at workflow logs for errors.
-- GitHub Actions, when configured, lives in the **public [Persie0/Playground](https://github.com/Persie0/Playground)** repository, not here. It runs at most weekly and proposes fingerprint changes for review. It uses the first available of `secrets.PRIVATE_REPO_TOKEN || secrets.GH_TOKEN || secrets.GH_RELEASE_TOKEN` and needs permission to create branches and pull requests in `Persie0/legal`.
-
-Run locally to inspect:
-
-```bash
-python3 references/eu-app-legal/check.py
-```
-
-Run locally to update baseline/fingerprints:
-
-```bash
-python3 references/eu-app-legal/check.py --update
-```
-
-**Important limitations:** Web terms can change their layout without changing legal provisions (false positives); a stable hash cannot prove that there were no legally significant changes (false negatives), especially when sites are blocked. Store privacy nutrition labels and Google Play Data safety are **developer-supplied** disclosures and should be checked against your own real data flows, not copied. This catalog does not replace an Austrian/EU legal review.
+- [`sources.json`](sources.json) contains the publisher details, store listings, legal-document URLs, topics and published document versions where known.
+- The collection is a static list for legal research, not an automated monitoring service. Links and document versions may change; consult the publisher's latest pages directly.
 
 ## Questions to compare for each of your apps
 
