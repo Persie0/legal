@@ -80,3 +80,7 @@ Update this file from the developer's store dashboards when new versions first r
 ## External Austrian / EU app legal references
 
 See **[references/eu-app-legal/](references/eu-app-legal/)** for Austrian and other EU mobile-app store listings and original EULAs, terms, privacy policies and legal notices. The **[feature-based per-app legal checklist](references/eu-app-legal/PER_APP_LEGAL_REQUIREMENTS.md)** covers all 31 Android titles plus the macOS app and explains store/Appodeal responsibilities (without auditing existing code). The **[Austrian/EU app legal requirements guide](references/eu-app-legal/APP_LEGAL_REQUIREMENTS_AT_EU.md)** explains which documents and disclosures are needed, how to write them, and app-specific requirements. The **[service reference coverage audit](references/eu-app-legal/SERVICE_COVERAGE.md)** maps the actual integrations to legal reference sources and remaining gaps. This is a static reference collection, without scheduled checks.
+
+### Individual code-informed app checklists
+
+[Open all 32 app-specific legal drafting briefs](references/eu-app-legal/app-checklists/README.md) — one Markdown file per released app, evidence from GitHub code, actual service types, data disclosures, rights, purchases and store review requirements. Two apps whose source repositories are not identified are marked provisional.

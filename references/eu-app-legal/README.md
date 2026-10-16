@@ -4,6 +4,8 @@ Curated **primary-source legal documents and store listings**, checked **16 Octo
 
 **Scope:** 6 Austria-based app publishers, 8 more EU-based publishers, plus Apple's standard App Store EULA. **32 linked documents.**
 
+**[Individual code-informed legal requirements for all released apps](app-checklists/README.md)** — 32 individual Markdown files, with links to source, required privacy/terms/consent/store sections, and open verification items.
+
 **[Per-app requirements (31 Android + macOS) and what stores/Appodeal already handle](PER_APP_LEGAL_REQUIREMENTS.md)** — feature-based checklist. No app-code or existing implementation assessment.
 
 **[What each Austrian/EU app legally needs and how to write it](APP_LEGAL_REQUIREMENTS_AT_EU.md)** — documents, required sections, model structure for privacy policies, Impressum/AGB/EULA, consent, accounts, subscriptions and the October 2026 withdrawal-button change.
