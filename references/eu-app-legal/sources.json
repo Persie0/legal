@@ -22,15 +22,13 @@
           "id": "oeamtc-privacy",
           "type": "privacy",
           "url": "https://www.oeamtc.at/mitgliedschaft/leistungen/datenschutzerklaerung-oeamtc-app-28493389",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         },
         {
           "id": "oeamtc-terms",
           "type": "terms",
           "url": "https://www.oeamtc.at/mitgliedschaft/leistungen/nutzungsbedingungen-oeamtc-app-28489530",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         }
       ]
     },
@@ -52,22 +50,19 @@
           "id": "bergfex-privacy",
           "type": "privacy",
           "url": "https://www.bergfex.at/c/datenschutz/",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         },
         {
           "id": "bergfex-terms",
           "type": "terms",
           "url": "https://www.bergfex.at/c/agb/",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         },
         {
           "id": "bergfex-imprint",
           "type": "imprint",
           "url": "https://www.bergfex.at/c/impressum/",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         }
       ]
     },
@@ -89,25 +84,19 @@
           "id": "willhaben-privacy",
           "type": "privacy",
           "url": "https://www.willhaben.at/iad/datenschutzerklaerung",
-          "version_seen": "September 2026",
-          "monitor": "manual",
-          "notes": "Manual review only; site terms restrict automated copying/crawling."
+          "version_seen": "September 2026"
         },
         {
           "id": "willhaben-terms",
           "type": "terms",
           "url": "https://www.willhaben.at/iad/agb",
-          "version_seen": "30 September 2026",
-          "monitor": "manual",
-          "notes": "Manual review only; site terms restrict automated copying/crawling."
+          "version_seen": "30 September 2026"
         },
         {
           "id": "willhaben-imprint",
           "type": "imprint",
           "url": "https://www.willhaben.at/iad/impressum",
-          "version_seen": null,
-          "monitor": "manual",
-          "notes": "Manual review only; site terms restrict automated copying/crawling."
+          "version_seen": null
         }
       ]
     },
@@ -129,23 +118,20 @@
           "id": "bitpanda-privacy",
           "type": "privacy",
           "url": "https://www.bitpanda.com/de/legal/bitpanda-group-privacy-notice",
-          "version_seen": "July 2026",
-          "monitor": "automatic"
+          "version_seen": "July 2026"
         },
         {
           "id": "bitpanda-terms",
           "type": "terms",
           "url": "https://www.bitpanda.com/de/legal/user-agreement",
           "version_seen": null,
-          "monitor": "automatic",
           "notes": "Legal index of latest and older agreements; contains links to versions."
         },
         {
           "id": "bitpanda-imprint",
           "type": "imprint",
           "url": "https://www.bitpanda.com/de/legal/legal-notice",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         }
       ]
     },
@@ -167,22 +153,19 @@
           "id": "wegfinder-privacy",
           "type": "privacy",
           "url": "https://wegfinder.at/datenschutz/",
-          "version_seen": "2025",
-          "monitor": "automatic"
+          "version_seen": "2025"
         },
         {
           "id": "wegfinder-terms",
           "type": "terms",
           "url": "https://wegfinder.at/agb/",
-          "version_seen": "Effective 1 July 2025 (new users)",
-          "monitor": "automatic"
+          "version_seen": "Effective 1 July 2025 (new users)"
         },
         {
           "id": "wegfinder-imprint",
           "type": "imprint",
           "url": "https://wegfinder.at/impressum/",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         }
       ]
     },
@@ -204,15 +187,13 @@
           "id": "photoroom-privacy",
           "type": "privacy",
           "url": "https://www.photoroom.com/legal/privacy",
-          "version_seen": "March 2026",
-          "monitor": "automatic"
+          "version_seen": "March 2026"
         },
         {
           "id": "photoroom-terms",
           "type": "terms",
           "url": "https://www.photoroom.com/legal/terms-and-conditions",
-          "version_seen": "29 July 2026",
-          "monitor": "automatic"
+          "version_seen": "29 July 2026"
         }
       ]
     },
@@ -234,8 +215,7 @@
           "id": "yazio-privacy-terms",
           "type": "privacy_and_terms",
           "url": "https://help.yazio.com/hc/de/articles/203444951-Nutzungsbedingungen-Datenschutzerkl%C3%A4rung",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         }
       ]
     },
@@ -257,8 +237,7 @@
           "id": "freeletics-privacy",
           "type": "privacy",
           "url": "https://www.freeletics.com/de/pages/privacy/",
-          "version_seen": null,
-          "monitor": "automatic"
+          "version_seen": null
         }
       ]
     },
@@ -279,7 +258,6 @@
           "type": "eula",
           "url": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
           "version_seen": null,
-          "monitor": "automatic",
           "notes": "Platform reference, not an Austrian or EU app publisher."
         }
       ]
