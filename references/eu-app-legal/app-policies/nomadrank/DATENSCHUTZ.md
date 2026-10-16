@@ -33,7 +33,7 @@ Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgend
 - Fotos/Dateien: Profil-/Reisebild auswählen oder Reisedateien importieren/exportieren.
 - Netzwerk: Kontosynchronisierung, soziale Funktionen, Karten, Länder-/Währungsdaten, Diagnose und optionaler Gemini-Import.
 
-Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in eine davon unabhängige Werbe- oder Analysedatenverarbeitung.
 
 ## 5. Dienstleister und weitere Empfänger
 
