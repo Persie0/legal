@@ -1,0 +1,105 @@
+# App services and data inventory
+
+**Source snapshot:** 2026-10-16 · current GitHub default-branch code (including changes not yet in store production).  
+**Scope:** apps in [released app inventory](README.md), plus one macOS-only release.  
+**Evidence:** linked repositories/manifests and runtime entry points, not store privacy declarations. This is a technical inventory and **not** a completed legal data-flow audit.
+
+## How to interpret the results
+
+- **Configured / present in current source** means a dependency, endpoint, call site, or service class was found; not proof the endpoint receives data on every device or that the build in production contains it.
+- **Optional / gated** means features require user action, permission, login, consent, subscription or build-time configuration. Current code may be newer than the store release.
+- **No dedicated remote SDK found** means no advertising, crash, billing or cloud SDK was identified in the inspected current app manifest; it does **not** prove zero network traffic.
+- **Unknown** means the matching current source repository was not found. Do not infer privacy characteristics from the app title.
+- A Sentry-compatible SDK can report to either GlitchTip or Sentry.io: the destination is determined by the configured DSN host. Appodeal mediation dependency presence is not evidence that each adapter is actively used.
+
+## Services → apps and data
+
+| Service / provider | Apps (current source) | Data or purpose |
+| --- | --- | --- |
+| **GlitchTip (self-hosted, Sentry protocol)** | 3D Face Model Maker; Arbitrage Betting Calculator; Background Noise Remover; Boost Phone Audio Volume; Fake Location Detector; Image Upscaler Offline; NomadRank; Photo Print Size Editor; PureMic; Reduce Image Size - Compressor; Resistor Color Code Scanner (latest Kotlin Android); Resistor Finder; Root & Phone Mods Detection; Toilet Compass; Vitamin D Tracker; Yoyillo Chinese; Video Upscaler Offline (macOS) | App exceptions/stack traces and SDK diagnostic context; exact event fields and consent gates vary by app. |
+| **Sentry.io (hosted)** | Memory Palace Training; Live Noise Cancellation Demo; MoWa; UniMinder | Exception diagnostics, optional navigation/performance signals. These apps reference sentry.io ingest hosts. |
+| **Sentry SDK, endpoint supplied at build time** | Finger Chooser; Screenshot Detector; Recipe Price Calculator; Pareader | Only enabled when a SENTRY_DSN build-time value is present; cannot classify destination or live-store activation from committed code. |
+| **RevenueCat** | 3D Face Model Maker; Arbitrage Betting Calculator; Background Noise Remover; Boost Phone Audio Volume; Fake Location Detector; Image Upscaler Offline; Memory Palace Training; Photo Print Size Editor; PureMic; Resistor Color Code Scanner (native Android/iOS); Root & Phone Mods Detection; Vitamin D Tracker; Yoyillo Chinese; Video Upscaler Offline (macOS) | Purchase identifiers, products, subscription/trial entitlements and transaction/customer status. |
+| **Appodeal + mediation partners** | 3D Face Model Maker; Arbitrage Betting Calculator; Background Noise Remover; Fake Location Detector; Image Upscaler Offline; Live Noise Cancellation Demo; Memory Palace Training; PureMic; Resistor Finder; Root & Phone Mods Detection | Ad requests/interactions, SDK/device/network identifiers and consent/ATT status where applicable. Partners depend on SDK build, auction, region and consent. |
+| **Google Sign-In / Google Drive app data** | Memory Palace Training; Vitamin D Tracker; Yoyillo Chinese | Google account authorization and optional backups/synchronization of app-specific progress/preferences or health-related logs. |
+| **Apple iCloud** | Yoyillo Chinese (iOS source) | Optional Apple account-backed synchronization of Chinese-language learning progress. |
+| **Firebase Authentication** | NomadRank | Account identity and authentication state; linked with app server account. |
+| **Oracle Database / ORDS / own proxy** | NomadRank | Profiles, visits/trips/ratings, lists, social/friends/circles and server-side account operations. |
+| **OpenAI / Google Gemini APIs (optional)** | Pareader (both); NomadRank (Gemini) | User-selected text, article material, or trip-import prompts sent to the chosen provider when feature used. API key management is app-specific. |
+| **OpenWeather API** | Vitamin D Tracker | Coordinates, requested weather/UV parameters and configured OpenWeather API key. |
+| **CARTO basemaps / GitHub Releases** | Toilet Compass | Map-style and tile HTTP requests to CARTO; toilet data manifests and database downloads from GitHub Releases. |
+| **Microsoft + TU Wien services** | UniMinder | Sign-in and schedule/course/calendar synchronization with Microsoft/Outlook (where configured) and TU Wien TISS/TUWEL endpoints. |
+| **Lingva / SimplyTranslate** | MoWa | Requested translation words/text and associated language parameters. |
+| **RSS / content websites / Wikipedia** | Pareader; NomadRank | Fetched feed/article or Wikipedia/place summaries and ordinary request metadata. |
+| **AnkiDroid local integration** | Pareader (Android) | User-selected saved words, decks and notes written to locally installed AnkiDroid; not a direct cloud upload by Pareader. |
+
+### Advertising mediation detail
+
+`root_detection_app` current Kotlin Gradle file includes Appodeal plus BidMachine/Bidon/AppLovin/DT Exchange/Meta/Mintegral/Unity/Vungle adapters. `fake_gps_detector` current Kotlin Gradle file additionally contains **BIGO Ads adapters** and a **Sentry analytics mediation adapter**; this conflicts with the intended exclusion of BIGO noted in earlier project discussions and should be checked before the next release. Mediation partners are **potential data recipients**, depending on initialization, configuration, auction and consent—not all are necessarily contacted. [Root Gradle](https://github.com/Persie0/root_detection_app/blob/master/app/build.gradle.kts) · [Fake GPS Gradle](https://github.com/Persie0/fake_gps_detector/blob/master/app/build.gradle.kts).
+
+## App → services and data (Android production titles)
+
+| App | Repo/code evidence | Current-code services | Data/processing notes |
+| --- | --- | --- | --- |
+| **3D Face Model Maker** | [`face_scanner`](https://github.com/Persie0/face_scanner/blob/master/lib/main.dart) | GlitchTip; RevenueCat; Appodeal; on-device Google ML Kit | Camera/photos and face geometry for local 3D creation; crash diagnostics; purchase status; ad/consent signals. |
+| **Arbitrage Betting Calculator** | [`surebets_calculator`](https://github.com/Persie0/surebets_calculator/blob/master/lib/main.dart) | GlitchTip; RevenueCat; Appodeal | Saved betting calculations and history locally; purchase/entitlement status; crash diagnostics; ad identifiers/consent where allowed. |
+| **Background Noise Remover** | [`noise_remover`](https://github.com/Persie0/noise_remover/blob/master/lib/main.dart) | GlitchTip; RevenueCat; Appodeal | Selected audio/video and processed outputs locally; subscription status; diagnostic events; advertising data. |
+| **Boost Phone Audio Volume** | [`Audiobooster`](https://github.com/Persie0/Audiobooster/blob/main/app/src/main/kotlin/com/persie0/audiobooster/GlitchTipMonitoring.kt) | GlitchTip; RevenueCat | Audio settings/processing on device; crash diagnostics (release and gated); subscription/trial entitlements. |
+| **DoubleTapKing - Clicking Game** | [`double_tap_king`](https://github.com/Persie0/double_tap_king/blob/master/pubspec.yaml) | No dedicated remote runtime service found in manifest | Tap/game scores and preferences appear local; no analytics or ad SDK in inspected dependencies. |
+| **EarnMeter: Work Motivator** | [`paymeter`](https://github.com/Persie0/paymeter/blob/master/app/build.gradle.kts) | No dedicated remote runtime service found in inspected Gradle dependencies | Local work/pay estimates and app preferences; external telemetry unconfirmed. |
+| **Fake Location Detector** | [`fake_gps_detector`](https://github.com/Persie0/fake_gps_detector/blob/master/app/build.gradle.kts) | GlitchTip; RevenueCat; Appodeal; Google Play location services | Device/mock-location signals; crash reports; purchase status; ad/consent signals. BIGO and Sentry analytics adapters appear in current Gradle dependencies. |
+| **Finger Chooser (+cheat mode)** | [`finger_chooser`](https://github.com/Persie0/finger_chooser/blob/master/lib/main.dart) | Sentry SDK — only if build-time DSN supplied | Touches and settings locally; release crash diagnostics only when SENTRY_DSN is configured; endpoint cannot be determined from source. |
+| **Image Upscaler Offline** | [`image_enhancer`](https://github.com/Persie0/image_enhancer/blob/main/lib/main.dart) | GlitchTip; RevenueCat; Appodeal | Input/output images processed locally by upscaling model; purchase status; diagnostic and ad/consent data. |
+| **Live Noise Cancellation Demo** | [`live_noise_cancelling`](https://github.com/Persie0/live_noise_cancelling/blob/master/lib/main.dart) | Sentry.io; Appodeal | Microphone/audio processing; error/performance diagnostics; ad/consent data. Source sends events to Sentry.io US ingest. |
+| **Memory Palace Training** | [`Memory_Palace_Builder`](https://github.com/Persie0/Memory_Palace_Builder/blob/main/lib/main.dart) | Sentry.io; RevenueCat; Appodeal; Google Sign-In/Google Drive; Firebase configuration | Memory-palace and learning progress locally; optional Google Drive backup/sync; purchase state; ads and crash/performance data. Firebase config exists but runtime initialization was not verified. |
+| **MoWa: Language Learning** | [`mowa`](https://github.com/Persie0/mowa/blob/master/lib/providers/translations.dart) | Sentry.io; SimplyTranslate/Lingva endpoints | Words/text submitted to selected external translation endpoint; language settings and learning data locally; crash diagnostics. |
+| **Neon Snake** | [`neon_snake_matrix`](https://github.com/Persie0/neon_snake_matrix/blob/main/pubspec.yaml) | No dedicated remote runtime service found in manifest | Local gameplay and preferences; no ad, billing, or crash reporting SDK identified in inspected manifest. |
+| **NomadRank: Rate Visited Places** | [`skratch_clone`](https://github.com/Persie0/skratch_clone/blob/master/lib/main.dart) | GlitchTip; Firebase Authentication; Google/Apple Sign-In; Oracle ORDS backend; optional Gemini API; Wikipedia; map/data endpoints | Account identifiers, profiles, trips/visits/ratings, lists, and social data synced with own Oracle backend; optional Gemini trip-import text; map and place queries; local SQLite cache. |
+| **Pareader: News & Languages** | [`pareader`](https://github.com/Persie0/pareader/blob/main/pubspec.yaml) | Sentry SDK (build-time DSN); RSS/websites; optional OpenAI/Gemini; AnkiDroid local integration | Reads fetched web/RSS article content; sends selected text/prompts to configured AI provider; syncs selected saved vocabulary with local AnkiDroid; diagnostics only if DSN supplied. |
+| **Photo Print Size Editor** | [`ImagePdfScaler`](https://github.com/Persie0/ImagePdfScaler/blob/main/pubspec.yaml) | GlitchTip; RevenueCat | Images and print/PDF layouts handled locally; purchase entitlements and crash diagnostics; no advertising SDK identified. |
+| **PureMic: Remove Recorder Noise** | [`recorder_noise_remove`](https://github.com/Persie0/recorder_noise_remove/blob/main/lib/main.dart) | GlitchTip; RevenueCat; Appodeal | Recorded/imported audio processed locally; purchase information; advertising/consent signals; crash diagnostics. |
+| **QR Code Tools (Offline)** | [`QR-Code-Scanner`](https://github.com/Persie0/QR-Code-Scanner/blob/master/pubspec.yaml) | No dedicated remote runtime service found in manifest | Scans and generates QR codes locally; user-initiated opening of encoded external URLs may contact those sites. |
+| **Recipe Price Calculator** | [`Food-Portion-Price-Calulator`](https://github.com/Persie0/Food-Portion-Price-Calulator/blob/master/lib/main.dart) | Sentry SDK — only if build-time DSN supplied | Recipes, ingredient prices and optional photos locally; crash diagnostics conditional on SENTRY_DSN; host not verified. |
+| **Reduce Image Size - Compressor** | [`image_compressor`](https://github.com/Persie0/image_compressor/blob/master/lib/main.dart) | GlitchTip; native Apple/Google in-app purchasing | Selected/compressed images local; purchase transactions handled by platform store; error diagnostics. |
+| **Resistor Color Code Scanner** | [`resistor-scanner-android`](https://github.com/Persie0/resistor-scanner-android/blob/main/app/build.gradle.kts) | GlitchTip; RevenueCat; on-device ONNX Runtime | Camera photos and resistor inference on device; subscription/entitlement and error data. Current Kotlin Android port has no Appodeal dependency; older Flutter port does. |
+| **Resistor Finder** | [`resistor-calc`](https://github.com/Persie0/resistor-calc/blob/master/lib/main.dart) | GlitchTip; Appodeal; native Apple/Google in-app purchasing | Resistor calculations and preferences locally; ads/consent, diagnostics, platform purchases. |
+| **Root & Phone Mods Detection** | [`root_detection_app`](https://github.com/Persie0/root_detection_app/blob/master/app/build.gradle.kts) | GlitchTip; RevenueCat; Appodeal | Root/system modification assessment on device; subscription data; crash diagnostics; advertising/consent identifiers. |
+| **Screenshot Detector** | [`screendetector`](https://github.com/Persie0/screendetector/blob/main/lib/main.dart) | Sentry SDK — only if build-time DSN supplied | Screenshot detection events/settings on device; crash diagnostics conditional on build-time DSN; no upload of screenshots established. |
+| **Secret Audio Messages** | [`secret_audio_message`](https://github.com/Persie0/secret_audio_message/blob/master/pubspec.yaml) | No dedicated remote runtime service found in manifest | Recorded audio, Morse tones and local preferences; no dedicated network analytics, billing or ad SDK identified. |
+| **Selfie Diary** | Not verified | Source repository not identified | Cannot reliably classify photo storage, cloud use, analytics or third-party services without current source. |
+| **Toilet Compass: WC Finder** | [`toiletcompass`](https://github.com/Persie0/toiletcompass/blob/main/lib/map_screen.dart) | GlitchTip; CARTO basemap services; GitHub Releases database distribution; device location | Approximate/precise location to compute nearby toilets locally; map viewport and network metadata may reach CARTO; toilet datasets downloaded from GitHub; crash diagnostics. |
+| **UniMinder - Uni Companion** | [`student`](https://github.com/Persie0/student/blob/master/pubspec.yaml) | Sentry.io; Microsoft identity/Outlook; TU Wien services (TISS/TUWEL); local calendar/database | University sign-in/session tokens, personal timetable and course/calendar content; optional Microsoft Outlook account information; local reminders; crash diagnostics. |
+| **Vitamin D Tracker** | [`vitamindtracker`](https://github.com/Persie0/vitamindtracker/blob/master/lib/providers/vitd_provider_impl.dart) | GlitchTip; OpenWeather; Google Sign-In/Drive; RevenueCat | Location coordinates and API key sent to OpenWeather; sun exposure/vitamin-D logs and health-related settings stored locally and optionally backed up to Google Drive; purchases and crash diagnostics. |
+| **VPN & Proxy Detector** | Not verified | Source repository not identified | Network/device checks likely by app purpose, but exact remote endpoints, storage and SDKs cannot be responsibly verified. |
+| **Yoyillo: Learn Chinese Offline** | [`hanzi_hero`](https://github.com/Persie0/hanzi_hero/blob/main/pubspec.yaml) | GlitchTip; RevenueCat; Google Sign-In/Drive; Apple iCloud (iOS) | Learning progress/flashcard state local, optionally backed up to Google Drive or iCloud; subscription entitlements; crash diagnostics. |
+
+## Additional macOS release
+
+| App | Repo/code evidence | Current-code services | Data/processing notes |
+| --- | --- | --- | --- |
+| **Video Upscaler Offline (macOS)** | [`video_upscaler`](https://github.com/Persie0/video_upscaler/blob/main/Package.swift) | GlitchTip; RevenueCat | Input/output videos processed on device, with purchase state and error diagnostics. |
+
+## Platform/build differences and not-yet-published code
+
+- **Resistor Color Code Scanner:** the new [Android Kotlin source](https://github.com/Persie0/resistor-scanner-android) uses ONNX Runtime, RevenueCat and GlitchTip-compatible Sentry; no Appodeal dependency was found in its Gradle manifest. The [native iOS code](https://github.com/Persie0/resistor-scanner-ios) references RevenueCat. The **older** [Flutter branch](https://github.com/Persie0/resistor_scanner/tree/tflite) includes Appodeal and native in-app purchases; do not transpose its SDK list to the new native builds.
+- **Background Noise Remover, NomadRank and Photo Print Size Editor:** code bases include other platform targets which may be listed as *Prepare for Submission*; the table describes the latest repository, **not a claim that every platform build is published**.
+- **Yoyillo: Learn Norwegian:** currently draft/internal-testing on Google Play and Prepare for Submission on iOS. Its separate [repository](https://github.com/Persie0/norwegian_yoyillo) includes RevenueCat, Sentry, Google Drive and iCloud-related code. It is **not** counted as a released app.
+- **Memory Palace / Vitamin D Firebase:** Firebase configuration/dependencies exist but they should not automatically be interpreted as Firebase Analytics, Crashlytics or Firestore collection. NomadRank explicitly initializes Firebase and uses Firebase Authentication. Verify actual Firebase runtime calls and admin settings before publishing privacy claims.
+- **Local media/AI processing:** audio, photo, 3D and video processing is described as on-device when supported by project architecture. Treat this as a code observation, not a guarantee that media cannot appear in error reporting, OS backups, external share flows, or future features.
+
+## Audit limitations and verification tasks
+
+1. **Unmatched source:** Selfie Diary and VPN & Proxy Detector could not be linked to current accessible app source. Their service lists remain **unknown**.
+2. **Conditional diagnostics:** Finger Chooser, Screenshot Detector, Recipe Price Calculator and Pareader receive `SENTRY_DSN` from build-time configuration. Audit CI/release parameters to determine their actual reporting destinations.
+3. **Store vs GitHub:** the latest default-branch source was used, rather than an exact deployed build SHA. Confirm each store version/commit and any unmerged release branch before certifying data disclosures.
+4. **Runtime traffic:** audit release builds with a network inspector and test consent-denied, logged-out and offline paths; SDK presence alone does not establish data transfer or data-retention policy.
+5. **SDK supply chain:** inspect locked transitive dependencies and actual platform adapters (particularly ad mediation), as declared direct packages do not exhaust the recipient list.
+6. **Legal/data safety:** independently check retention, international transfers, processors, precise location, children's data and health-related data. Do not copy this technical inventory directly into a privacy policy without those checks.
+
+## Key inspected evidence
+
+- [GlitchTip hosting setup](https://github.com/Persie0/glitchtip_setup) · [Memory Palace Sentry.io endpoint](https://github.com/Persie0/Memory_Palace_Builder/blob/main/lib/main.dart) · [MoWa Sentry.io endpoint](https://github.com/Persie0/mowa/blob/master/lib/main.dart) · [UniMinder Sentry.io endpoint](https://github.com/Persie0/student/blob/master/lib/main.dart) · [Live Noise Sentry.io endpoint](https://github.com/Persie0/live_noise_cancelling/blob/master/lib/main.dart)
+- [NomadRank Firebase + Sentry init](https://github.com/Persie0/skratch_clone/blob/master/lib/main.dart) · [NomadRank Oracle services](https://github.com/Persie0/skratch_clone/tree/master/lib/services) · [NomadRank Gemini import](https://github.com/Persie0/skratch_clone/blob/master/lib/services/gemini_trip_import_service.dart)
+- [Vitamin D OpenWeather requests](https://github.com/Persie0/vitamindtracker/blob/master/lib/providers/vitd_provider_impl.dart) · [Vitamin D Google Drive sync](https://github.com/Persie0/vitamindtracker/blob/master/lib/services/gdrive_sync_service.dart) · [Vitamin D health consent](https://github.com/Persie0/vitamindtracker/blob/master/lib/services/health_data_consent.dart)
+- [Toilet Compass CARTO map style](https://github.com/Persie0/toiletcompass/blob/main/lib/map_screen.dart) · [Toilet dataset release URL](https://github.com/Persie0/toiletcompass/blob/main/lib/database_manifest.dart)
+- [Pareader optional Gemini/OpenAI](https://github.com/Persie0/pareader/blob/main/lib/services/ai_language_service.dart) · [Pareader AnkiDroid integration](https://github.com/Persie0/pareader/blob/main/lib/services/anki_sync_service.dart) · [UniMinder sync](https://github.com/Persie0/student/blob/master/lib/services/sync_service.dart)
