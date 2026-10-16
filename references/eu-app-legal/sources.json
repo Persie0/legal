@@ -33,6 +33,48 @@
       ]
     },
     {
+      "id": "auphonic",
+      "publisher": "Auphonic GmbH",
+      "country": "AT",
+      "app": "Auphonic Edit",
+      "topics": [
+        "audio-recording",
+        "background-recording",
+        "microphone",
+        "offline-processing",
+        "optional-cloud-processing",
+        "noise-removal",
+        "media-uploads",
+        "subscriptions",
+        "data-retention",
+        "external-exports"
+      ],
+      "google_play": "https://play.google.com/store/apps/details?id=com.auphonic.auphonicrecorder",
+      "app_store": null,
+      "documents": [
+        {
+          "id": "auphonic-privacy",
+          "type": "privacy",
+          "url": "https://eu1.auphonic.com/privacy",
+          "version_seen": null,
+          "notes": "Austrian data controller. Differentiates local recording from optional server processing, retention, subprocessors and technical data."
+        },
+        {
+          "id": "auphonic-terms",
+          "type": "terms",
+          "url": "https://auphonic.com/terms_of_service",
+          "version_seen": null,
+          "notes": "Do not use Auphonic content/output to train, benchmark or build competing algorithms; links are for studying legal-document structure."
+        },
+        {
+          "id": "auphonic-imprint",
+          "type": "imprint",
+          "url": "https://auphonic.com/impressum",
+          "version_seen": null
+        }
+      ]
+    },
+    {
       "id": "bergfex",
       "publisher": "bergfex GmbH",
       "country": "AT",
