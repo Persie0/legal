@@ -32,6 +32,10 @@ Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt kei
 
 ## 5. Dienstleister und weitere Empfänger
 
+### Anzeigenanbieter in der Android-Version
+
+Für die Auslieferung von Werbeanzeigen sind in der Android-Version folgende Anzeigen- und Vermittlungsanbieter eingebunden: [Appodeal](https://appodeal.com/privacy-policy/), [AppLovin](https://legal.applovin.com/privacy/), [BidMachine](https://www.bidmachine.com/privacy-policy), **Bidon** (Anzeigenvermittlung), [BIGO Ads](https://www.adsbigo.com/privacy.html), [DT Exchange](https://www.digitalturbine.com/legal), [Meta](https://www.facebook.com/privacy/policy/), [Mintegral](https://www.mintegral.com/en/privacy/), [Unity Ads](https://unity.com/legal/privacy-policy), [Vungle](https://liftoff.io/privacy-policy/). Je nach Standort, Ihrer Datenschutzentscheidung, Werbeformat und konkreter Anzeigenauktion werden nicht alle Anbieter bei jedem Anzeigenabruf angesprochen. Zur technischen Vermittlung können unter anderem IP-Adresse, App- und Geräteinformationen, erlaubte Werbekennungen sowie Anzeige- und Interaktionsdaten verarbeitet werden. Personenbezogene Daten für einwilligungspflichtige Werbezwecke werden nur nach der dafür vorgesehenen Einwilligungsentscheidung verwendet; diese können Sie in den Datenschutzeinstellungen anpassen. Informationen zu den eigenen Verarbeitungszwecken und Aufbewahrungsregeln der beteiligten Anbieter finden Sie über die verlinkten Datenschutzhinweise.
+
 ### Werbedienst Appodeal
 
 **Dienst und Empfänger:** Appodeal und dessen Werbepartner.  
