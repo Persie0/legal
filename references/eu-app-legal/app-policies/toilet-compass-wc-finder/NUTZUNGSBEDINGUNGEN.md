@@ -1,7 +1,5 @@
 # Nutzungsbedingungen – Toilet Compass
 
-*Entwurf zur rechtlichen Prüfung: 16. Oktober 2026*
-
 ## 1. Anbieter
 Marvin Perzi (Persie0), Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Kontaktdaten im [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die Bedingungen des jeweiligen Download-Stores, einschließlich einer gegebenenfalls anwendbaren Standard-EULA, bleiben unberührt.
 
@@ -16,7 +14,3 @@ Wir können notwendige Sicherheits- und Kompatibilitätsupdates bereitstellen. G
 
 ## 5. Datenschutz und Support
 Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert die Datenverarbeitung. Für Fragen oder Beschwerden kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Exporte und fremde Cloud-Daten werden nicht immer durch das Entfernen der App beseitigt.
-
----
-
-**Interner Prüfvermerk:** Veröffentlichung erst nach Abgleich mit dem tatsächlich ausgelieferten Build, den verbindlichen Storebedingungen und dem erforderlichen Umfang eigener Nutzungsbedingungen.

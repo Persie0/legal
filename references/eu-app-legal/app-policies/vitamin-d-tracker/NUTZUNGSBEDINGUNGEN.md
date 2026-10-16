@@ -1,7 +1,5 @@
 # Nutzungsbedingungen – Vitamin D Tracker
 
-**Entwurf vom 16. Oktober 2026**
-
 ## Anbieter
 Marvin Perzi (Persie0), Österreich. [Kontakt](mailto:persie0@protonmail.com) · [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Ergänzend gelten die zutreffenden App-Store-Lizenzregeln.
 
@@ -16,5 +14,3 @@ Falls Pro-Produkte angeboten werden, zeigt der Kaufdialog den geltenden Gesamtpr
 
 ## Gesetzliche Rechte
 Zwingende Ansprüche bei mangelhaften digitalen Leistungen, gesetzliche Rücktrittsrechte und Haftung werden nicht ausgeschlossen. Sicherheits- und Kompatibilitätsupdates können erforderlich sein. Support: [persie0@protonmail.com](mailto:persie0@protonmail.com).
-
-**Redaktioneller Hinweis:** Vor einer Veröffentlichung müssen Store-Angebote, medizinische Zweckbestimmung und die Vertrags-/Rücktrittsabwicklung bestätigt werden.

@@ -1,7 +1,5 @@
 # Nutzungsbedingungen – Yoyillo: Learn Chinese Offline
 
-*Entwurf 16. Oktober 2026 – vor der rechtlichen Freigabe prüfen*
-
 ## Anbieter und Lizenz
 Die App wird von Marvin Perzi (Persie0), Österreich, angeboten. [Kontakt](mailto:persie0@protonmail.com) · [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die jeweils anwendbaren App-Store-Lizenzbedingungen bleiben bestehen. Auf Apple-Plattformen gilt grundsätzlich deren Standard-EULA, wenn keine separate Vereinbarung wirksam vorgelegt ist.
 
@@ -16,5 +14,3 @@ Sie behalten Ihre Rechte an eigenen Lern-/Videodateien. Für fremde Inhalte ben�
 
 ## Updates, Verbraucherrechte und Support
 Sicherheits- oder Kompatibilitätsupdates können notwendig sein. Zwingende Ansprüche bei mangelhaft bereitgestellten digitalen Leistungen und gesetzlich vorgesehene Haftung werden nicht ausgeschlossen. Zur Datenverarbeitung siehe [Datenschutzerklärung](DATENSCHUTZ.md). Für Fragen: [persie0@protonmail.com](mailto:persie0@protonmail.com).
-
-**Interne Prüfung vor Veröffentlichung:** Tatsächlich angebotene Store-Produkte, Plattformversionen, Cloudfunktionen sowie rechtlich erforderliche Verbraucherinformationen abgleichen.

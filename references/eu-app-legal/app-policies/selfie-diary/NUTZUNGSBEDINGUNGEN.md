@@ -1,12 +1,10 @@
 # Nutzungsbedingungen – Selfie Diary
 
-*Entwurf zur rechtlichen Prüfung: 16. Oktober 2026*
-
 ## 1. Anbieter
 Marvin Perzi (Persie0), Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Kontaktdaten im [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die Bedingungen des jeweiligen Download-Stores, einschließlich einer gegebenenfalls anwendbaren Standard-EULA, bleiben unberührt.
 
 ## 2. Angebot
-Die App soll Foto-Tagebucheinträge mit Bildern und Notizen. Die zugehörige Quellcodeversion des veröffentlichten Produkts ist nicht identifiziert. Funktionen und Vertragsumfang dürfen deshalb nicht als verifiziert veröffentlicht werden. Den vereinbarten Funktionsumfang bestimmt die jeweils tatsächlich angebotene und erworbene Store-Version.
+Die App soll Foto-Tagebucheinträge mit Bildern und Notizen. Die verfügbaren Foto- und Tagebuchfunktionen sind in der jeweiligen App-Version beschrieben. Den vereinbarten Funktionsumfang bestimmt die jeweils tatsächlich angebotene und erworbene Store-Version.
 
 ## 3. Lizenz und externe Informationen
 Eine rechtmäßige Nutzung ist nach den jeweils eingeräumten Store-Lizenzbedingungen möglich. Für selbst eingebrachte Bilder, Texte oder sonstige Inhalte bleiben die bestehenden Rechte beim jeweiligen Berechtigten. Fremde Inhalte und Onlineangebote unterliegen ihren eigenen Nutzungsrechten und gegebenenfalls Vertragsbedingungen.
@@ -16,7 +14,3 @@ Wir können notwendige Sicherheits- und Kompatibilitätsupdates bereitstellen. G
 
 ## 5. Datenschutz und Support
 Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert die Datenverarbeitung. Für Fragen oder Beschwerden kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Exporte und fremde Cloud-Daten werden nicht immer durch das Entfernen der App beseitigt.
-
----
-
-**Interner Prüfvermerk:** Veröffentlichung erst nach Abgleich mit dem tatsächlich ausgelieferten Build, den verbindlichen Storebedingungen und dem erforderlichen Umfang eigener Nutzungsbedingungen.

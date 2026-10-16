@@ -1,7 +1,5 @@
 # Nutzungsbedingungen – Secret Audio Messages
 
-**Entwurf, 16. Oktober 2026**
-
 ## Anbieter und Geltung
 Marvin Perzi (Persie0), Österreich. [Kontakt](mailto:persie0@protonmail.com) · [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die Store-Lizenzbedingungen gelten entsprechend dem Bezugsweg; auf Apple-Plattformen kann die Standard-EULA genügen.
 
@@ -16,5 +14,3 @@ Audioqualität und Erkennung können durch Geräteeigenschaften und Umgebungsger
 
 ## Datenschutz und Kontakt
 Die [Datenschutzerklärung](DATENSCHUTZ.md) erklärt die Verarbeitung von Texten und Audiosignalen. Für Support: [persie0@protonmail.com](mailto:persie0@protonmail.com).
-
-**Interne Freigabe:** Tatsächlich ausgelieferte Funktion und rechtliche Notwendigkeit eigener AGB gegenüber der Store-Standardlizenz prüfen.

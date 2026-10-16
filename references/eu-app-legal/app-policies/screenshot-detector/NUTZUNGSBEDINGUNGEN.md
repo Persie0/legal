@@ -1,7 +1,5 @@
 # Nutzungsbedingungen – Screenshot Detector
 
-*Entwurf vom 16. Oktober 2026 – vor Veröffentlichung prüfen*
-
 ## Anbieter, Store und Lizenz
 
 Anbieter ist **Marvin Perzi (Persie0)**, Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die gesetzlich anwendbaren Lizenzbedingungen des jeweiligen App-Stores bleiben bestehen. Auf Apple-Plattformen kann die standardmäßig bereitgestellte EULA ausreichen.
@@ -21,7 +19,3 @@ Technische Updates können erforderlich werden, um Fehler zu beheben oder Sicher
 ## Datenschutz, Datenlöschung und Support
 
 Die [Datenschutzerklärung](DATENSCHUTZ.md) nennt die beim Gerätetest beziehungsweise bei der Berechnung relevanten Daten, Empfänger und Löschmöglichkeiten. Bitte richten Sie Beschwerden oder Fragen an [persie0@protonmail.com](mailto:persie0@protonmail.com). Selbst exportierte Dateien oder bestehende Store-Abonnements werden durch eine App-Deinstallation nicht automatisch gelöscht beziehungsweise gekündigt.
-
----
-
-**Interne Prüfung:** Tatsächliche Messfunktionen, gekaufte Produkte, Werbenetzwerke und Lizenzbedingungen im veröffentlichten Build bestätigen. Diese Fassung ist nicht als ungeprüfter Vertragsinhalt freizugeben.
