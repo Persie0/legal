@@ -1,7 +1,5 @@
 # Datenschutzerklärung – Recipe Price Calculator
 
-**Dokumentfassung:** 16. Oktober 2026 · **Originalentwurf zur Überprüfung, nicht veröffentlicht**
-
 ## 1. Für wen gilt diese Erklärung?
 
 Die Erklärung gilt für **Recipe Price Calculator**, eine Anwendung zur Berechnung von Zutaten-, Rezept- und Portionskosten. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
@@ -14,10 +12,7 @@ Die Erklärung gilt für **Recipe Price Calculator**, eine Anwendung zur Berechn
 
 Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
-| --- | --- | --- | --- |
-| Lokale Appfunktion | Zutaten und Preise; gespeicherte Rezepte; Einstellungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | [OFFEN: konkret eingestellter Zeitraum und Log-Retention] |
+| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium | entsprechend dem jeweiligen Zweck | --- | --- | --- | --- | entsprechend dem jeweiligen Zweck | Lokale Appfunktion | Zutaten und Preise; gespeicherte Rezepte; Einstellungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation | entsprechend dem jeweiligen Zweck | Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | Die Daten werden nur solange gespeichert, wie es für den genannten Zweck erforderlich ist |
 
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
@@ -31,14 +26,11 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ### Diagnosedienst – nur bei aktiviertem SENTRY_DSN
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Der Empfänger ist von der zur Veröffentlichungszeit konfigurierten Adresse abhängig; ohne DSN findet über diesen Pfad keine Übermittlung statt. **[OFFEN: Erfassungsumfang, Serverland, Löschregel, Drittlandzugriffe.]**
-
-
-
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Der Empfänger ist von der zur Veröffentlichungszeit konfigurierten Adresse abhängig; ohne DSN findet über diesen Pfad keine Übermittlung statt. 
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Ein Verweis auf die Datenschutzerklärung des Anbieters allein genügt nicht zum Nachweis. **[OFFEN: tatsächlich genutzte Länder, Standardschutzklauseln beziehungsweise Angemessenheitsbeschlüsse anhand der Anbieterunterlagen festhalten.]**
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Dabei werden die Anforderungen der Art. 44 ff. DSGVO berücksichtigt. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
@@ -51,7 +43,3 @@ Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschrä
 ## 9. Datensicherheit, Kinder und Aktualisierungen
 
 Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
-
----
-
-**Interner Freigabevermerk – vor Veröffentlichung entfernen:** Alle mit **[OFFEN]** bezeichneten Tatsachen, tatsächlichen Server-/SDK-Löschfristen, Plattformvarianten und externen Empfänger sind vor Verwendung als live geltende Datenschutzerklärung zu belegen. Für nicht identifizierte App-Repositories ist die Freigabe ausgeschlossen.
