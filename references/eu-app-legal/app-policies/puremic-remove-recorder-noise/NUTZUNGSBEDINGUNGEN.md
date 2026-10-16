@@ -1,52 +1,35 @@
 # Nutzungsbedingungen – PureMic
 
-**Entwurf vom 16. Oktober 2026 – noch nicht als Vertragsbedingungen freigegeben**
+**Redaktioneller Entwurf · 16. Oktober 2026**
 
-## 1. Anbieter und Geltung
+## Anbieter
 
-Anbieter ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich, E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die rechtlichen Anbieterinformationen finden Sie im [Impressum](https://persie0.github.io/impressum.html). Diese Nutzungsbedingungen gelten für die hier bezeichnete Anwendung **PureMic** und ergänzen, soweit wirksam einbezogen, die Regelungen des jeweiligen Stores. Soweit auf der Apple-Plattform Apples Standard-EULA gilt, bleibt diese Lizenzvereinbarung unberührt; ein gesonderter Softwarelizenzvertrag soll nicht durch unklare Zusatzklauseln fingiert werden.
+**Marvin Perzi (Persie0)**, Österreich. Kontakt: [persie0@protonmail.com](mailto:persie0@protonmail.com), [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die rechtmäßig geltenden Nutzungs- und Lizenzvereinbarungen des jeweiligen App-Stores gelten ergänzend; Apple bietet ohne individuell vereinbarte Lizenz seine Standard-EULA an.
 
-## 2. Leistungsgegenstand
+## Leistung und Grenzen
 
-Die App bietet Aufnahmen, lokale Audiobearbeitung, Wiedergabe und Exportoptionen.
+Die App **PureMic** ermöglicht es, Audio aufnehmen und vorhandene Audiodateien lokal von Geräuschen bereinigen. Die Bearbeitung kann einzelne Sprachanteile verändern; Quellaufnahmen bleiben bei Bedarf gesondert aufzubewahren. Verbindlich ist der angebotene Funktionsumfang der erworbenen Version.
 
-Der konkrete Leistungsumfang richtet sich nach der im Store beschriebenen und auf Ihrem Gerät installierten Version. Wir bemühen uns um die Funktionsfähigkeit der beschriebenen Merkmale, schulden jedoch keine nicht ausdrücklich vereinbarte technische Eigenschaft oder künftige kostenlose Erweiterung. Gesetzliche Ansprüche bei einer vereinbarten, aber nicht vertragsgemäß bereitgestellten digitalen Leistung bleiben unberührt.
+## Verwendung der App und eigene Daten
 
-## 3. Nutzungsrecht und eigene Inhalte
+Die Software darf im Rahmen der Store-Lizenz verwendet werden. Eigene Fotos, Audio, Texte oder Rezepte verbleiben in der Verfügung ihrer berechtigten Eigentümer. Beim Import oder Teilen dürfen keine Rechte Dritter verletzt werden. Eine App-Lizenz gewährt keine Rechte an fremden Werken.
 
-Sie dürfen die App im Rahmen des rechtmäßig über den betreffenden Store erworbenen beziehungsweise bereitgestellten Nutzungsrechts und der technischen Plattformbedingungen verwenden. Eine Weitergabe entgegen anwendbaren Lizenzbedingungen oder rechtswidrige Eingriffe in App-Dienste sind nicht erlaubt. Die Rechte an Ihren eigenen Fotos, Texten, Videos, Lernkarten oder anderen Inhalten verbleiben bei Ihnen beziehungsweise den berechtigten Rechteinhabern. Sie müssen über die erforderlichen Rechte verfügen, wenn Sie fremde Inhalte importieren, verbreiten oder teilen.
+## Bezahlfunktionen und Rücktrittsrechte
 
-## 4. Kostenpflichtige Funktionen, Probezeiträume und Kündigung
+Sofern kostenpflichtige Erweiterungen angeboten werden, werden Produkt, Preis, gegebenenfalls Abo-Dauer, Probezeit, Preis nach der Probezeit und automatische Verlängerung vor dem Kauf angezeigt. Die Zahlungsabwicklung erfolgt über den jeweiligen Store. Einmalige Freischaltungen sind keine automatisch verlängernden Abonnements. Store-Abos können über [Google Play](https://play.google.com/store/account/subscriptions) oder [Apple](https://apps.apple.com/account/subscriptions) verwaltet werden; die App-Deinstallation kündigt nicht. Gesetzliche Rücktritts- und Gewährleistungsrechte bleiben bestehen.
 
-Soweit in **PureMic** kostenpflichtige Funktionen angeboten werden, werden **Preis, Währung, Produktbezeichnung, Abrechnungsperiode, gegebenenfalls Probezeit und danach fälliger Preis** vor einer verbindlichen Kaufbestätigung über den Store beziehungsweise das Paywall-Angebot angezeigt. Es gelten ausschließlich die bei der Bestellung tatsächlich angebotenen Konditionen. Ein dauerhaft kostenloser Zugriff auf Pro-Funktionen wird daraus nicht abgeleitet.
+## Werbung und freiwillige Werbevideos
 
-Abonnements können sich nach den im Kaufdialog genannten Bedingungen automatisch verlängern, sofern sie nicht fristgerecht über die dafür vorgesehene Verwaltung des jeweiligen Stores beendet werden. [Apple-Abonnements verwalten](https://apps.apple.com/account/subscriptions) · [Google-Play-Abonnements verwalten](https://play.google.com/store/account/subscriptions). Das Löschen der App beendet ein laufendes Store-Abonnement nicht automatisch. Bei Verfügbarkeit einer Wiederherstellungsfunktion können bereits gekaufte Berechtigungen über das jeweilige Storekonto wiederhergestellt werden. Die technische Zahlungsabwicklung wird über den jeweiligen Store durchgeführt; die konkrete Verkäufer- und Vertragspartnerstellung richtet sich nach dem betreffenden Kaufvertrag und Storemodell.
+Eine kostenlose Variante kann Anzeigen enthalten. Bei einem freiwilligen Werbevideo wird die angebotene Freischaltung vorab beschrieben; eine Anzeige muss tatsächlich verfügbar sein. Eine erforderliche Einwilligung zur Nutzung von Werbedaten erfolgt getrennt von dieser Nutzungsvereinbarung und kann nach den Datenschutzoptionen geändert werden.
 
-Gesetzliche Gewährleistungs-, Rücktritts- und Erstattungsrechte werden dadurch nicht ausgeschlossen. Die Voraussetzungen eines Rücktritts bei unmittelbar bereitgestellten digitalen Inhalten beziehungsweise des österreichischen § 13a FAGG sind abhängig vom Einzelfall und der Person des vertraglich verpflichteten Unternehmers. Eine Kündigung und ein gesetzlicher Rücktritt sind unterschiedliche Vorgänge.
+## Sicherheit, Updates und Verbraucherrechte
 
-## Werbung und durch Werbung unterstützte Funktionen
+Fehlerkorrekturen oder technische Sicherheitsupdates können zur Aufrechterhaltung der App erforderlich werden. Betriebssysteme und andere Dienste können Änderungen bewirken. Gesetzliche Ansprüche bei nicht vertragsgemäßen digitalen Leistungen, gesetzlich zwingender Schadenersatz und weitere Verbraucherrechte werden nicht durch allgemeine Haftungsausschlüsse beseitigt.
 
-In der kostenlosen Variante können Anzeigen unterschiedlicher Formate erscheinen. Bei freiwillig angebotenen Werbevideos kann eine angezeigte Freischaltung an das erfolgreiche Abschließen der Werbung gebunden sein; die konkrete Bedingung muss in der App vorab verständlich dargestellt werden. Ein Werbevideo kann aus technischen Gründen nicht verfügbar sein. Individuelle Nutzerentscheidungen zur Werbe-Einwilligung werden über das dafür bereitgestellte Datenschutzmenü verwaltet. Eine gegebenenfalls erforderliche Einwilligung in die Verarbeitung von Werbedaten ist **nicht Bestandteil** der Annahme dieser Nutzungsbedingungen. Die Datenverarbeitung ist in der [Datenschutzerklärung](DATENSCHUTZ.md) beschrieben.
+## Datenschutz und Hilfe
 
-## Qualität, Grenzen und wichtige Hinweise
-
-Die Qualität der Störgeräuschreduktion hängt von Aufnahme und Gerät ab. Die App ist kein Werkzeug zur forensisch unverfälschten Restaurierung von Beweismitteln.
-
-Eine Softwarefunktion kann durch Gerätewechsel, veränderte Betriebssystemrechte, externe Schnittstellen oder Netzwerkstörungen zeitweilig eingeschränkt sein. Wir werden zwingende Verbraucherrechte bei mangelnder Vertragsmäßigkeit und Sicherheitsupdates achten; pauschale Haftungsausschlüsse für gesetzlich zwingende Ansprüche gelten nicht.
-
-## Datenschutz, Fehler und Support
-
-Die Verarbeitung personenbezogener Daten, etwa zur App-Funktion, für optionale externe Dienste und zur technischen Fehlerbehebung, wird in der zugehörigen [Datenschutzerklärung](DATENSCHUTZ.md) erläutert. Diese Bedingungen ersetzen weder Datenschutzinformationen noch nötige gesonderte Einwilligungen. Bei Funktionsfehlern können Sie sich mit einer Problembeschreibung an [persie0@protonmail.com](mailto:persie0@protonmail.com) wenden. Senden Sie dabei keine Passwörter oder vertraulichen Inhalte mit, sofern dies zur Bearbeitung nicht notwendig ist.
-
-## Gesetzliche Verbraucherrechte und Schlussbestimmungen
-
-Zwingende österreichische und europäische Verbraucherrechte bleiben uneingeschränkt bestehen, insbesondere gesetzliche Gewährleistung, wirksame Rücktrittsrechte und die zwingenden Regelungen des Staats Ihres gewöhnlichen Aufenthalts, soweit diese anwendbar sind. Allgemeine Hinweise in der App oder diesen Bedingungen führen nicht zu einem Verzicht auf solche Rechte. Bei Änderungen, die Verbraucherrechte berühren, informieren wir im rechtlich notwendigen Umfang; eine bloße Fortbenutzung ersetzt keine gesetzlich nötige Zustimmung zu nachteiligen Vertragsänderungen.
+Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert, welche lokalen und technischen Daten die App verarbeitet. Eigene Exporte können nach Deinstallation weiter am gewählten Speicherort verbleiben. Supportanfragen und Beschwerden erreichen uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
 
 ---
 
-### Interne Freigabehinweise – vor öffentlicher Veröffentlichung entfernen
-
-- Diese zusätzliche AGB ist **nicht für jede App gesetzlich vorgeschrieben**. Bei rein lokalen Spielen oder Tools genügt regelmäßig ein sauberer Datenschutzhinweis plus gegebenenfalls die Plattformstandardlizenz. Vor Aufnahme dieser Nutzungsbedingungen prüfen, ob eine wirksame vertragliche Einbeziehung erforderlich und sachgerecht ist.
-- **PureMic:** Produktfunktion, vorhandene kostenpflichtige Angebote und Klauseln anhand des tatsächlich ausgelieferten Builds und der Store-Produktseite bestätigen.
-- Echte Produktpreise, Probezeiträume, Kündigungswege, Verkäuferstellung und gesetzliche Rücktrittsabwicklung klären.
-- Eigene Formulierungen auf Basis des Projekts; vergleichbare [EU/Austrian-Referenzen](../README.md) dienen nur zur strukturellen Orientierung. Kein Text fremder AGB wurde kopiert.
+**Vor Veröffentlichung prüfen:** Produkt- und Zahlungsstatus, tatsächliche Funktionen sowie die Frage, ob eigene AGB gegenüber der Standard-Store-Lizenz notwendig sind. Dies ist ein individuell erstellter Entwurf.
