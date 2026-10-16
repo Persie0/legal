@@ -1,38 +1,31 @@
 # Nutzungsbedingungen – DoubleTapKing
 
-**Entwurf vom 16. Oktober 2026 – noch nicht als Vertragsbedingungen freigegeben**
+**Stand: 16. Oktober 2026 · Entwurf zur rechtlichen Prüfung**
 
-## 1. Anbieter und Geltung
+## 1. Anbieter
 
-Anbieter ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich, E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die rechtlichen Anbieterinformationen finden Sie im [Impressum](https://persie0.github.io/impressum.html). Diese Nutzungsbedingungen gelten für die hier bezeichnete Anwendung **DoubleTapKing** und ergänzen, soweit wirksam einbezogen, die Regelungen des jeweiligen Stores. Soweit auf der Apple-Plattform Apples Standard-EULA gilt, bleibt diese Lizenzvereinbarung unberührt; ein gesonderter Softwarelizenzvertrag soll nicht durch unklare Zusatzklauseln fingiert werden.
+Die Anwendung wird bereitgestellt durch Marvin Perzi (Persie0), Österreich. Kontakt: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die weiteren Angaben finden Sie in unserem [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-## 2. Leistungsgegenstand
+## 2. Funktionsangebot
 
-Die App ist ein Berührungs-/Reaktionsspiel. Die Auswertung stützt sich auf die vom Gerät gelieferten Berührungstermine und kann hardwareabhängig schwanken.
+DoubleTapKing ist ein Reaktionsspiel, bei dem Ihre Tippzeiten gemessen und Highscores lokal gespeichert werden. Auf Unterschiede zwischen Touchscreens, Betriebssystemen und Bildschirmwiederholraten haben wir nicht vollständig Einfluss; eine professionelle Zeitmessung wird nicht angeboten.
 
-Der konkrete Leistungsumfang richtet sich nach der im Store beschriebenen und auf Ihrem Gerät installierten Version. Wir bemühen uns um die Funktionsfähigkeit der beschriebenen Merkmale, schulden jedoch keine nicht ausdrücklich vereinbarte technische Eigenschaft oder künftige kostenlose Erweiterung. Gesetzliche Ansprüche bei einer vereinbarten, aber nicht vertragsgemäß bereitgestellten digitalen Leistung bleiben unberührt.
+## 3. Nutzungsrecht
 
-## 3. Nutzungsrecht und eigene Inhalte
+Sie dürfen das Spiel im Rahmen des jeweiligen Store-Lizenzvertrags auf unterstützten Geräten nutzen. Die gesetzlichen Rechte zur Nutzung von Software bleiben bestehen. Wenn Apple den Standard-Lizenzvertrag verwendet, ist keine zusätzliche individuelle Softwarelizenz erforderlich.
 
-Sie dürfen die App im Rahmen des rechtmäßig über den betreffenden Store erworbenen beziehungsweise bereitgestellten Nutzungsrechts und der technischen Plattformbedingungen verwenden. Eine Weitergabe entgegen anwendbaren Lizenzbedingungen oder rechtswidrige Eingriffe in App-Dienste sind nicht erlaubt. Die Rechte an Ihren eigenen Fotos, Texten, Videos, Lernkarten oder anderen Inhalten verbleiben bei Ihnen beziehungsweise den berechtigten Rechteinhabern. Sie müssen über die erforderlichen Rechte verfügen, wenn Sie fremde Inhalte importieren, verbreiten oder teilen.
+## 4. Spielstände
 
-## Qualität, Grenzen und wichtige Hinweise
+Highscores bleiben grundsätzlich nur auf Ihrem Gerät und können beim Zurücksetzen der App-Daten oder der Deinstallation verloren gehen. Eine zentrale Speicherung oder geräteübergreifende Wiederherstellung wird nicht zugesichert, soweit sie nicht ausdrücklich als Funktion angeboten wird.
 
-Soweit Ergebnisse gespeichert werden, beziehen sie sich auf das jeweilige Gerät. Eine externe Bestenliste oder verbindliche Wettkampfzertifizierung wird nicht zugesichert.
+## 5. Änderungen und gesetzliche Rechte
 
-## Datenschutz, Fehler und Support
+Wir können kompatible Aktualisierungen zur Fehlerbehebung und Sicherheit bereitstellen. Zwingende Ansprüche wegen mangelhafter digitaler Leistungen, Schadenersatz und sonstige Verbraucherrechte werden durch diese Bedingungen nicht ausgeschlossen.
 
-Die Verarbeitung personenbezogener Daten, etwa zur App-Funktion, für optionale externe Dienste und zur technischen Fehlerbehebung, wird in der zugehörigen [Datenschutzerklärung](DATENSCHUTZ.md) erläutert. Diese Bedingungen ersetzen weder Datenschutzinformationen noch nötige gesonderte Einwilligungen. Bei Funktionsfehlern können Sie sich mit einer Problembeschreibung an [persie0@protonmail.com](mailto:persie0@protonmail.com) wenden. Senden Sie dabei keine Passwörter oder vertraulichen Inhalte mit, sofern dies zur Bearbeitung nicht notwendig ist.
+## 6. Datenschutz und Support
 
-## Gesetzliche Verbraucherrechte und Schlussbestimmungen
-
-Zwingende österreichische und europäische Verbraucherrechte bleiben uneingeschränkt bestehen, insbesondere gesetzliche Gewährleistung, wirksame Rücktrittsrechte und die zwingenden Regelungen des Staats Ihres gewöhnlichen Aufenthalts, soweit diese anwendbar sind. Allgemeine Hinweise in der App oder diesen Bedingungen führen nicht zu einem Verzicht auf solche Rechte. Bei Änderungen, die Verbraucherrechte berühren, informieren wir im rechtlich notwendigen Umfang; eine bloße Fortbenutzung ersetzt keine gesetzlich nötige Zustimmung zu nachteiligen Vertragsänderungen.
+Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert die Datenverarbeitung. Fragen und Supportanfragen richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com).
 
 ---
 
-### Interne Freigabehinweise – vor öffentlicher Veröffentlichung entfernen
-
-- Diese zusätzliche AGB ist **nicht für jede App gesetzlich vorgeschrieben**. Bei rein lokalen Spielen oder Tools genügt regelmäßig ein sauberer Datenschutzhinweis plus gegebenenfalls die Plattformstandardlizenz. Vor Aufnahme dieser Nutzungsbedingungen prüfen, ob eine wirksame vertragliche Einbeziehung erforderlich und sachgerecht ist.
-- **DoubleTapKing:** Produktfunktion, vorhandene kostenpflichtige Angebote und Klauseln anhand des tatsächlich ausgelieferten Builds und der Store-Produktseite bestätigen.
-- Keine nicht vorhandenen Werbe-, Kauf- oder Kontoobliegenheiten hinzufügen.
-- Eigene Formulierungen auf Basis des Projekts; vergleichbare [EU/Austrian-Referenzen](../README.md) dienen nur zur strukturellen Orientierung. Kein Text fremder AGB wurde kopiert.
+**Interne Prüfung – nicht veröffentlichen:** Prüfen, ob eine zusätzliche Nutzungsvereinbarung für das ausschließlich lokal nutzbare Spiel überhaupt benötigt wird. Die App-Store-Standardlizenz kann ausreichen.
