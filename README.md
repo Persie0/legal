@@ -79,4 +79,4 @@ Update this file from the developer's store dashboards when new versions first r
 
 ## External Austrian / EU app legal references
 
-See **[references/eu-app-legal/](references/eu-app-legal/)** for verified Austrian and other EU mobile-app store listings, original EULAs/terms/privacy policies, and a robots-aware change-fingerprint tracker. The weekly monitoring workflow lives in the public [Playground](https://github.com/Persie0/Playground/blob/main/.github/workflows/eu-app-legal-reference-monitor.yml) repository and proposes changes via pull request.
+See **[references/eu-app-legal/](references/eu-app-legal/)** for Austrian and other EU mobile-app store listings and original EULAs, terms, privacy policies and legal notices. This is a static reference collection, without scheduled checks.
