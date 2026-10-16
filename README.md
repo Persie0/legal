@@ -6,6 +6,10 @@
 
 This inventory is organized by **store platform**. An app available on multiple platforms appears under each platform. It intentionally excludes unreleased drafts and internal tests. The Apple sections contain only apps explicitly marked **Ready for Distribution** in the supplied App Store Connect list; apps with another version status may have an older live version, which cannot be established from that list alone.
 
+## Technical service and data inventory
+
+See **[SERVICES_AND_DATA.md](SERVICES_AND_DATA.md)** for the latest-source audit grouped by provider (GlitchTip, Sentry.io, RevenueCat, Appodeal, cloud services, APIs) and by app, including data categories, evidence links, platform differences, and unverified integrations.
+
 ## Android — Google Play (31 production entries)
 
 All apps below are marked **Production** in the supplied Google Play Console overview.
