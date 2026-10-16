@@ -12,7 +12,10 @@ Die Erklärung gilt für **Recipe Price Calculator**, eine Anwendung zur Berechn
 
 Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium | entsprechend dem jeweiligen Zweck | --- | --- | --- | --- | entsprechend dem jeweiligen Zweck | Lokale Appfunktion | Zutaten und Preise; gespeicherte Rezepte; Einstellungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation | entsprechend dem jeweiligen Zweck | Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | Die Daten werden nur solange gespeichert, wie es für den genannten Zweck erforderlich ist |
+| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
+| --- | --- | --- | --- |
+| Lokale Appfunktion | Zutaten und Preise; gespeicherte Rezepte; Einstellungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | Entsprechend den Speicherregeln des beauftragten Diagnosedienstes |
 
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
@@ -30,7 +33,7 @@ Technische Absturzberichte können Informationen über das Gerät, die App und d
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Dabei werden die Anforderungen der Art. 44 ff. DSGVO berücksichtigt. 
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für diese Übermittlungen gelten die gesetzlichen Anforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 

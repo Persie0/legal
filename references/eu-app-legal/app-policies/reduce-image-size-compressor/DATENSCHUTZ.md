@@ -12,7 +12,11 @@ Die Erklärung gilt für **Reduce Image Size – Compressor**, eine Anwendung zu
 
 Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium | entsprechend dem jeweiligen Zweck | --- | --- | --- | --- | entsprechend dem jeweiligen Zweck | Lokale Appfunktion | ausgewählte Quellfotos; beschnittene/komprimierte Ergebnisse und temporäre Dateien | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation | entsprechend dem jeweiligen Zweck | Abwicklung freiwilliger In-App-Käufe | Store-Produkt, Kaufstatus und Berechtigungskennung; keine Zahlungskartendaten bei Persie0 | Art. 6 Abs. 1 lit. b DSGVO, soweit der Kaufstatus für den Erwerb benötigt wird | Nach den Storebestimmungen und bis zum Lösch-/Zurücksetzungsereignis der lokalen Berechtigung | entsprechend dem jeweiligen Zweck | Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | Die Daten werden nur solange gespeichert, wie es für den genannten Zweck erforderlich ist |
+| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
+| --- | --- | --- | --- |
+| Lokale Appfunktion | ausgewählte Quellfotos; beschnittene/komprimierte Ergebnisse und temporäre Dateien | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
+| Abwicklung freiwilliger In-App-Käufe | Store-Produkt, Kaufstatus und Berechtigungskennung; keine Zahlungskartendaten bei Persie0 | Art. 6 Abs. 1 lit. b DSGVO, soweit der Kaufstatus für den Erwerb benötigt wird | Nach den Storebestimmungen und bis zum Lösch-/Zurücksetzungsereignis der lokalen Berechtigung |
+| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage für Fehlerereignisse |
 
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
@@ -30,13 +34,11 @@ Kaufpreis und Zahlungsdaten werden vom jeweiligen App-Store verarbeitet. Die App
 
 ### Diagnosedienst – selbst betriebene GlitchTip-Installation
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Die geprüfte App verwendet eine vom Entwickler gehostete Sentry-kompatible GlitchTip-Instanz, nicht zwingend den Dienst Sentry.io. 
-
-Unser GlitchTip-Server befindet sich in der Oracle-Cloud-Region Frankfurt am Main (Deutschland). Fehlerereignisse werden nach der konfigurierten 14-Tage-Frist bereinigt; Webserver-Zugriffslogs werden nach sieben Tagen entfernt.
+Zur Behebung von Programmfehlern verwenden wir eine eigene GlitchTip-Installation auf der Oracle-Cloud-Infrastruktur in Frankfurt am Main (Deutschland, Region eu-frankfurt-1). Hierbei können Fehlerbeschreibungen, Stacktraces, App-/Systemversionen und technische Verbindungsdaten verarbeitet werden. Fehlerereignisse werden 14 Tage gespeichert. Rotierte Webserver-Zugriffsprotokolle werden nach sieben Tagen, technische Wartungsprotokolle nach 30 Tagen bereinigt.
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Dabei werden die Anforderungen der Art. 44 ff. DSGVO berücksichtigt. 
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für diese Übermittlungen gelten die gesetzlichen Anforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 

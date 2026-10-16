@@ -12,30 +12,33 @@ Diese Datenschutzerklärung betrifft **Photo Print Size Editor** und beschreibt 
 
 Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich vom Benutzer lokal ausgeführten Berechnungen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium | entsprechend dem jeweiligen Zweck | --- | --- | --- | --- | entsprechend dem jeweiligen Zweck | Verwendung der App auf Ihrem Gerät | ausgewählte Bilder; Druckmaße, Texte und Seitenlayouts; PDF-Dateien und Projekte | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren | entsprechend dem jeweiligen Zweck | Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | Die Daten werden nur solange gespeichert, wie es für den genannten Zweck erforderlich ist |
+| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium |
+| --- | --- | --- | --- |
+| Verwendung der App auf Ihrem Gerät | ausgewählte Bilder; Druckmaße, Texte und Seitenlayouts; PDF-Dateien und Projekte | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
+| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | 14 Tage für Fehlerereignisse |
 
 ## 4. Lokale Inhalte und Geräteberechtigungen
 
 Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: ausgewählte Bilder, Druckmaße, Texte und Seitenlayouts, PDF-Dateien und Projekte. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
-Geräteberechtigungen sind auf die von Ihnen gewählten Funktionen beschränkt.
+Es werden keine pauschalen Zugriffsrechte auf sämtliche Dateien oder Sensoren angefordert.
 
-Eine Systemberechtigung ist keine Einwilligung in davon unabhängige Werbe- oder Analysezwecke.
+Eine Systemberechtigung erfasst nur den jeweiligen Gerätezugriff und ist keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken.
 
 ## 5. Dienstleister und weitere Empfänger
 
-Für die Kernfunktion werden keine Online-Konto-, Zahlungs- oder Werbedienste genutzt.
+Für die Kernfunktion wird kein Online-Konto-, Zahlungs- oder Werbedienst verwendet.
 ### Fehlerberichte (Selbst gehostetes GlitchTip)
 
-Fehlerberichte werden an unsere GlitchTip-Installation in der Oracle-Cloud-Region Frankfurt (Deutschland) gesendet. Dazu können App- und Systemversion, Stacktrace sowie technische Fehlerangaben gehören. GlitchTip speichert Fehlerereignisse für 14 Tage; rotierte Zugriffsprotokolle des Webservers werden nach sieben Tagen bereinigt. 
+Zur Behebung von Programmfehlern verwenden wir eine eigene GlitchTip-Installation auf der Oracle-Cloud-Infrastruktur in Frankfurt am Main (Deutschland, Region eu-frankfurt-1). Hierbei können Fehlerbeschreibungen, Stacktraces, App-/Systemversionen und technische Verbindungsdaten verarbeitet werden. Fehlerereignisse werden 14 Tage gespeichert. Rotierte Webserver-Zugriffsprotokolle werden nach sieben Tagen, technische Wartungsprotokolle nach 30 Tagen bereinigt.
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
-Die Annahme von Nutzungsbedingungen ersetzt keine erforderliche Einwilligung.
+Die Annahme von Nutzungsbedingungen ersetzt keine gegebenenfalls notwendige Einwilligung.
 
 ## 7. Datenweitergabe, Drittländer und Dauer
 
-Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Für externe Dienste gelten die in den jeweiligen Datenschutzhinweisen beschriebenen Aufbewahrungsregeln.
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Für externe Dienste gelten die in deren Datenschutzhinweisen beschriebenen Aufbewahrungsregeln.
 
 ## 8. Betroffenenrechte und Löschung
 

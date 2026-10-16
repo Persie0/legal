@@ -12,7 +12,9 @@ Die Erklärung gilt für **QR Code Tools (Offline)**, eine Anwendung zur lokales
 
 Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium | entsprechend dem jeweiligen Zweck | --- | --- | --- | --- | entsprechend dem jeweiligen Zweck | Lokale Appfunktion | Kameraframes; QR-Inhalte; lokale Scan-/Generierungshistorie | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
+| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
+| --- | --- | --- | --- |
+| Lokale Appfunktion | Kameraframes; QR-Inhalte; lokale Scan-/Generierungshistorie | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
 
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
@@ -26,11 +28,11 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 5. An wen werden Daten übermittelt?
 
-Für die Kernfunktion werden keine eigenen Werbe-, Analyse- oder Kaufdienste genutzt. Bei einer selbst gestarteten externen Website beziehungsweise einem Betriebssystem-Dialog können trotzdem eigene Datennutzungen des Zielanbieters stattfinden.
+Für die Kernfunktion werden keine externen Werbe-, Analyse- oder Kaufdienste verwendet. Bei einer selbst gestarteten externen Website beziehungsweise einem Betriebssystem-Dialog können trotzdem eigene Datennutzungen des Zielanbieters stattfinden.
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Dabei werden die Anforderungen der Art. 44 ff. DSGVO berücksichtigt. 
+Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für diese Übermittlungen gelten die gesetzlichen Anforderungen. 
 
 ## 7. Speicherung, Löschung und Wahlmöglichkeiten
 
