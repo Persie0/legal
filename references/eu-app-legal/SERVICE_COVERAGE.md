@@ -57,10 +57,10 @@ An Appodeal integration does **not** mean only Appodeal processes advertising da
 | AppLovin | [Privacy](https://legal.applovin.com/privacy/) · [publisher guidelines](https://support.applovin.com/en/growth/introduction/privacy-guidelines) | Source available; activation unknown |
 | Unity Ads | [Game player/app user privacy](https://unity.com/legal/game-player-and-app-user-privacy-policy) | Source available; activation unknown |
 | Meta Audience Network | [Meta privacy policy](https://www.facebook.com/privacy/policy/) | General provider reference; product-specific partner disclosure and active adapter to verify |
-| Mintegral / Mobvista | **Not individually verified in this collection** | Open: validate current privacy/partner terms |
-| Vungle / Liftoff | **Not individually verified in this collection** | Open: validate current privacy/partner terms |
-| DT Exchange | **Not individually verified in this collection** | Open: validate current privacy/partner terms |
-| Bidon | **Not individually verified in this collection** | Open: validate SDK/partner role |
+| Mintegral / Mobvista | [Mintegral privacy](https://www.mintegral.com/en/privacy) | Official source available; deployed activation/consent unknown |
+| Vungle / Liftoff | [Liftoff / Vungle privacy](https://liftoff.ai/privacy-policy/) | Official source available; deployed activation/consent unknown |
+| DT Exchange / Digital Turbine | [Digital Turbine privacy](https://www.digitalturbine.com/legal/privacy-policy) | General website notice available; verify relevant *ad SDK* terms and activation |
+| Bidon | [BidOn Foundation](https://www.bidon.org/) · [BidOn SDK documentation](https://docs.bidon.org/docs/sdk/android/advanced/postbid-for-levelplay) | SDK operator/partner policy and independent data collection not established; verify actual SDK behavior |
 | BIGO Ads | Present in latest Fake GPS Gradle; intended exclusion must be verified. **Not individually verified.** | Open: remove or disclose if truly included/initialized |
 | Sentry ad analytics adapter | Present in latest Fake GPS Gradle; unclear SDK data impact | Open: confirm whether actually active |
 
