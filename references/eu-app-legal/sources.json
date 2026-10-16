@@ -61,6 +61,13 @@
           "url": "https://www.bergfex.at/c/agb/",
           "version_seen": null,
           "monitor": "automatic"
+        },
+        {
+          "id": "bergfex-imprint",
+          "type": "imprint",
+          "url": "https://www.bergfex.at/c/impressum/",
+          "version_seen": null,
+          "monitor": "automatic"
         }
       ]
     },
@@ -91,6 +98,14 @@
           "type": "terms",
           "url": "https://www.willhaben.at/iad/agb",
           "version_seen": "30 September 2026",
+          "monitor": "manual",
+          "notes": "Manual review only; site terms restrict automated copying/crawling."
+        },
+        {
+          "id": "willhaben-imprint",
+          "type": "imprint",
+          "url": "https://www.willhaben.at/iad/impressum",
+          "version_seen": null,
           "monitor": "manual",
           "notes": "Manual review only; site terms restrict automated copying/crawling."
         }
@@ -124,6 +139,13 @@
           "version_seen": null,
           "monitor": "automatic",
           "notes": "Legal index of latest and older agreements; contains links to versions."
+        },
+        {
+          "id": "bitpanda-imprint",
+          "type": "imprint",
+          "url": "https://www.bitpanda.com/de/legal/legal-notice",
+          "version_seen": null,
+          "monitor": "automatic"
         }
       ]
     },
@@ -153,6 +175,13 @@
           "type": "terms",
           "url": "https://wegfinder.at/agb/",
           "version_seen": "Effective 1 July 2025 (new users)",
+          "monitor": "automatic"
+        },
+        {
+          "id": "wegfinder-imprint",
+          "type": "imprint",
+          "url": "https://wegfinder.at/impressum/",
+          "version_seen": null,
           "monitor": "automatic"
         }
       ]
