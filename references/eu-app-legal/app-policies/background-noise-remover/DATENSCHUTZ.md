@@ -30,7 +30,7 @@ Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgend
 - Dateien/Medien: Audio auswählen oder speichern.
 - Benachrichtigungen/Akkuoptimierung, soweit angeboten: einen gewünschten Aufnahmevorgang aufrechterhalten.
 
-Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in eine davon unabhängige Werbe- oder Analysedatenverarbeitung.
 
 ## 5. Dienstleister und weitere Empfänger
 
