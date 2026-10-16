@@ -27,7 +27,7 @@ Curated **primary-source legal documents and store listings**, checked **16 Octo
 | Publisher | Publisher's legal notice |
 | --- | --- |
 | bergfex | [Impressum](https://www.bergfex.at/c/impressum/) |
-| willhaben | [Impressum](https://www.willhaben.at/iad/impressum)  |
+| willhaben | [Impressum](https://www.willhaben.at/iad/impressum) |
 | Bitpanda | [Legal notice](https://www.bitpanda.com/de/legal/legal-notice) |
 | wegfinder | [Impressum](https://wegfinder.at/impressum/) |
 
