@@ -6,6 +6,8 @@ These documents are the full **working drafts** of the app-specific **Datenschut
 
 **Publication restriction:** The documents deliberately contain **[VOR VERÖFFENTLICHUNG]** markers where material facts cannot be inferred reliably from source (such as diagnostic retention, mediation partners and actual store-product terms). Confirm them, delete editorial notes, and have legally sensitive clauses reviewed before using these texts as binding statements. **Selfie Diary and VPN & Proxy Detector** require source identification before they can be published.
 
+**[What was changed after comparing the real Austrian/EU policies](REFERENCE_COMPARISON.md)** — source-by-source comparison and finalization blockers.
+
 ## Legal-document drafts by app
 
 | App | Datenschutzerklärung | Nutzungsbedingungen | Requirements/evidence | Store |
