@@ -28,7 +28,7 @@ Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgend
 - Kamera: das von Ihnen gewünschte Gesichtsbild aufnehmen.
 - Fotos/Dateien: ein vorhandenes Bild auswählen.
 
-Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in unrelated Werbe- oder Analysedatenverarbeitung.
+Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in eine davon unabhängige Werbe- oder Analysedatenverarbeitung.
 
 ## 5. Dienstleister und weitere Empfänger
 
