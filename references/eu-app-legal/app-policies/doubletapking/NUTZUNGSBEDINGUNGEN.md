@@ -1,7 +1,5 @@
 # Nutzungsbedingungen – DoubleTapKing
 
-**Stand: 16. Oktober 2026 · Entwurf zur rechtlichen Prüfung**
-
 ## 1. Anbieter
 
 Die Anwendung wird bereitgestellt durch Marvin Perzi (Persie0), Österreich. Kontakt: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die weiteren Angaben finden Sie in unserem [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
@@ -25,7 +23,3 @@ Wir können kompatible Aktualisierungen zur Fehlerbehebung und Sicherheit bereit
 ## 6. Datenschutz und Support
 
 Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert die Datenverarbeitung. Fragen und Supportanfragen richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com).
-
----
-
-**Interne Prüfung – nicht veröffentlichen:** Prüfen, ob eine zusätzliche Nutzungsvereinbarung für das ausschließlich lokal nutzbare Spiel überhaupt benötigt wird. Die App-Store-Standardlizenz kann ausreichen.

@@ -1,14 +1,12 @@
 # Nutzungsbedingungen – Boost Phone Audio Volume
 
-**Entwurf für die Endprüfung · 16. Oktober 2026**
-
 ## Anbieter und Anwendungsbereich
 
 Anbieter der App ist Marvin Perzi (Persie0), Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Bei einem Download über Apple oder Google ergänzen diese Hinweise die vom jeweiligen Store rechtmäßig verwendete Lizenzvereinbarung; die Apple-Standard-EULA wird durch diese Hinweise nicht ohne Not ersetzt.
 
 ## Was die App bietet
 
-Mit Boost Phone Audio Volume können Sie Klang-, Wiedergabe- und Lautstärkeeinstellungen beeinflussen. Erhöhte Lautstärken können Hörvermögen und Geräte beeinträchtigen. Es gelten die konkret angebotenen Funktionen der erworbenen Plattformversion. Eine nicht angebotene Zukunftsfunktion wird hierdurch nicht Vertragsbestandteil.
+Mit Boost Phone Audio Volume können Sie Klang-, Wiedergabe- und Lautstärkeeinstellungen beeinflussen. Erhöhte Lautstärken können Hörvermögen und Geräte beeinträchtigen. Es gelten die konkret angebotenen Funktionen der erworbenen Plattformversion. Maßgeblich sind die beim Kauf beschriebenen Funktionen.
 
 ## Nutzungsrecht und eigene Inhalte
 
@@ -29,7 +27,3 @@ Gesetzliche Ansprüche bei mangelhaften digitalen Leistungen, Schadenersatz und 
 ## Datenschutz und Beendigung
 
 Die [app-spezifische Datenschutzerklärung](DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.
-
----
-
-**Interne Freigabenotiz:** Funktionen und die tatsächlichen Store-Angebote müssen vor Veröffentlichung gegen die ausgelieferte Version geprüft werden. Auch ist zu klären, ob diese zusätzliche AGB benötigt wird oder die App-Store-Standardlizenz genügt.

@@ -1,10 +1,8 @@
 # Nutzungsbedingungen – Memory Palace Training
 
-**Entwurf zur rechtlichen Prüfung vom 16. Oktober 2026**
-
 ## Anbieter
 
-Verantwortlicher App-Anbieter ist Marvin Perzi (Persie0), Österreich. Kontakt: [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Die vom jeweiligen Store angebotenen Lizenz- und Kaufbedingungen gelten daneben; bei Apple kann die Standard-EULA ausreichen.
+Verantwortlicher App-Anbieter ist Marvin Perzi (Persie0), Österreich. Kontakt: [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Es gelten ergänzend die Bedingungen des jeweiligen App-Stores.
 
 ## Produkt
 
@@ -12,7 +10,7 @@ Die App **Memory Palace Training** dient dazu, Gedächtnispaläste, Lernobjekte 
 
 ## Nutzungsrecht
 
-Die App darf im gesetzlich und vertraglich zulässigen Rahmen auf unterstützten Geräten verwendet werden. Rechte an Ihren eigenen Texten, Fotos und anderen Inhalten bleiben bei den Berechtigten. Für fremde Inhalte benötigen Sie die entsprechenden Nutzungsrechte. Zwingende Verbraucherrechte werden durch diese Regeln nicht eingeschränkt.
+Sie können die App im gesetzlich und vertraglich zulässigen Rahmen auf unterstützten Geräten verwenden. Rechte an Ihren eigenen Texten, Fotos und anderen Inhalten bleiben bei den Berechtigten. Für fremde Inhalte benötigen Sie die entsprechenden Nutzungsrechte. Zwingende Verbraucherrechte werden durch diese Regeln nicht eingeschränkt.
 
 ## Drittanbieter und Inhalte
 
@@ -31,7 +29,3 @@ Bei kostenlosen Funktionen können Anzeigen, darunter freiwillige Werbevideos, v
 Sicherheits- und Kompatibilitätsupdates können nötig sein. Soweit eine Funktion Vertragsinhalt ist, bleiben Ihre gesetzlichen Ansprüche auf vertragsgemäße digitale Leistungen und die vorgesehenen Abhilfen bestehen. Eine allgemeine Freizeichnung für gesetzlich zwingende Haftung ist nicht vereinbart.
 
 Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
-
----
-
-**Redaktionell:** Vor Veröffentlichung den tatsächlich verkauften Funktionsumfang, Preise, Store-Bedingungen und gegebenenfalls Rücktrittsweg prüfen. Bei einfachen Apps können gesonderte Nutzungsbedingungen entbehrlich sein.
