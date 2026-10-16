@@ -22,6 +22,17 @@ Curated **primary-source legal documents and store listings**, checked **16 Octo
 | **YAZIO** · Germany | [iOS](https://apps.apple.com/at/app/yazio-kalorien-z%C3%A4hler-di%C3%A4t/id946099227) · [Android](https://play.google.com/store/apps/details?id=com.yazio.android) | [Combined terms, withdrawal, privacy](https://help.yazio.com/hc/de/articles/203444951-Nutzungsbedingungen-Datenschutzerkl%C3%A4rung) | [Same document](https://help.yazio.com/hc/de/articles/203444951-Nutzungsbedingungen-Datenschutzerkl%C3%A4rung) | Health-related data, advertising, subscription/consumer rights |
 | **Freeletics** · Germany | [iOS](https://apps.apple.com/at/app/freeletics-hiit-fitness-coach/id654810212) | [Freeletics privacy](https://www.freeletics.com/de/pages/privacy/) | Not added (unverified) | Workout data, analytics, behavioral tracking, health/fitness |
 
+## Austrian legal notices / Impressum
+
+| Publisher | Publisher's legal notice |
+| --- | --- |
+| bergfex | [Impressum](https://www.bergfex.at/c/impressum/) |
+| willhaben | [Impressum](https://www.willhaben.at/iad/impressum) *(manual review only)* |
+| Bitpanda | [Legal notice](https://www.bitpanda.com/de/legal/legal-notice) |
+| wegfinder | [Impressum](https://wegfinder.at/impressum/) |
+
+These links are especially useful when checking Austrian business-identification and publisher-contact disclosures; they do not automatically establish what must appear inside each app.
+
 ## Platform baseline (not an app publisher)
 
 **[Apple standard Licensed Application EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)** — compare with the requirements for a custom EULA. Apple's [developer help](https://developer.apple.com/help/app-store-connect/manage-app-information/provide-a-custom-license-agreement) explains that the standard EULA applies if a custom one is not supplied.
