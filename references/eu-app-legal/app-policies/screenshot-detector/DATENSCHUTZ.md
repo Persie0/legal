@@ -28,9 +28,9 @@ Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetz
 
 ## 5. An wen werden Daten übermittelt?
 
-### Diagnosedienst – nur bei aktiviertem SENTRY_DSN
+### Technische Fehlerdiagnose
 
-Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Der Empfänger ist von der zur Veröffentlichungszeit konfigurierten Adresse abhängig; ohne DSN findet über diesen Pfad keine Übermittlung statt. 
+Technische Absturzberichte können Informationen über das Gerät, die App und den Fehlerablauf enthalten. Eine Übermittlung erfolgt nur, wenn die Fehlerdiagnose in der von Ihnen verwendeten App-Version eingeschaltet ist. 
 
 ## 6. Weitergabe ins Ausland und Empfängerkategorien
 

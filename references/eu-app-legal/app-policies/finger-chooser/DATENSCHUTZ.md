@@ -15,7 +15,7 @@ Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler V
 | Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium |
 | --- | --- | --- | --- |
 | Verwendung der App auf Ihrem Gerät | Berührungspositionen und Auswahl; Zufalls-/Cheat-Einstellungen | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
-| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | 14 Tage für Fehlerereignisse |
+| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | Entsprechend der Aufbewahrungsdauer des eingesetzten Dienstes |
 
 ## 4. Lokale Inhalte und Geräteberechtigungen
 
@@ -28,9 +28,9 @@ Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt kei
 ## 5. Dienstleister und weitere Empfänger
 
 Für die Kernfunktion wird kein eigener Online-Konto-, Zahlungs- oder Werbedienst verwendet.
-### Fehlerberichte (Build-abhängiges Sentry-SDK)
+### Technische Fehlerdiagnose
 
-Für die Fehlerbehebung können technische Berichte mit Informationen zur App- und Systemversion, Fehlerbeschreibungen und Stacktraces an den für die Anwendung eingerichteten Diagnosedienst übertragen werden. 
+Soweit eine technische Fehlerdiagnose aktiviert ist, können zur Behebung von Programmfehlern Informationen über die App- und Systemversion, den Fehlerablauf und technische Geräteinformationen an den hierfür eingesetzten Dienst übermittelt werden. 
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 

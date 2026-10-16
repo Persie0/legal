@@ -2,7 +2,7 @@
 
 ## 1. Für wen gilt diese Erklärung?
 
-Die Erklärung gilt für **VPN & Proxy Detector**, eine Anwendung zur Prüfen von VPN-/Proxy-Anzeichen. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
+Die Erklärung gilt für **VPN & Proxy Detector**, eine Anwendung zum Prüfen von VPN- und Proxy-Verbindungen. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
 
 ## 2. Wer ist verantwortlich?
 
@@ -18,9 +18,9 @@ Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres 
 
 ## 4. Daten auf dem Endgerät und Berechtigungen
 
-Für die von Ihnen gestarteten Vorgänge werden insbesondere mögliche Netzwerkindikatoren, mögliche IP-/DNS-Anfrage verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
+Für die von Ihnen gestarteten Vorgänge werden insbesondere die für eine gewählte Prüfung benötigten Netzwerkmerkmale und deren Ergebnis verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
 
-Die konkrete Appfunktion benötigt nach den ausgewerteten Quellen nicht zwingend einen pauschalen Zugriff auf Standort, Kamera oder Mikrofon. Gerätespezifische Berechtigungen und Datei-Dialoge können sich unterscheiden.
+Für eine Netzwerkprüfung können Funktionen des Betriebssystems sowie Netzwerkverbindungen verwendet werden. Gerätespezifische Berechtigungen und Datei-Dialoge können sich unterscheiden.
 
 Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetzt keine weitere Einwilligung für ein anderes Verarbeitungsziel.
 

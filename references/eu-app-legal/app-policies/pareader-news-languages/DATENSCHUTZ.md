@@ -80,9 +80,9 @@ Eine Systemberechtigung erfasst nur den jeweiligen Gerätezugriff und ist keine 
 **Dauer:** Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht.  
 **Informationen:** [Datenschutz des Anbieters](https://proton.me/legal/privacy)
 
-### Fehlerberichte (Build-abhängiges Sentry-SDK)
+### Technische Fehlerdiagnose
 
-Für die Fehlerbehebung können technische Berichte mit Informationen zur App- und Systemversion, Fehlerbeschreibungen und Stacktraces an den für die Anwendung eingerichteten Diagnosedienst übertragen werden. 
+Soweit eine technische Fehlerdiagnose aktiviert ist, können zur Behebung von Programmfehlern Informationen über die App- und Systemversion, den Fehlerablauf und technische Geräteinformationen an den hierfür eingesetzten Dienst übermittelt werden. 
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
