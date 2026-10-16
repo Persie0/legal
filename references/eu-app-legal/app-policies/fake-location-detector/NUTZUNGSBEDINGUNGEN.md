@@ -1,52 +1,39 @@
 # Nutzungsbedingungen – Fake Location Detector
 
-**Entwurf vom 16. Oktober 2026 – noch nicht als Vertragsbedingungen freigegeben**
+**Entwurf für die Endprüfung · 16. Oktober 2026**
 
-## 1. Anbieter und Geltung
+## Anbieter und Anwendungsbereich
 
-Anbieter ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich, E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die rechtlichen Anbieterinformationen finden Sie im [Impressum](https://persie0.github.io/impressum.html). Diese Nutzungsbedingungen gelten für die hier bezeichnete Anwendung **Fake Location Detector** und ergänzen, soweit wirksam einbezogen, die Regelungen des jeweiligen Stores. Soweit auf der Apple-Plattform Apples Standard-EULA gilt, bleibt diese Lizenzvereinbarung unberührt; ein gesonderter Softwarelizenzvertrag soll nicht durch unklare Zusatzklauseln fingiert werden.
+Anbieter der App ist Marvin Perzi (Persie0), Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Bei einem Download über Apple oder Google ergänzen diese Hinweise die vom jeweiligen Store rechtmäßig verwendete Lizenzvereinbarung; die Apple-Standard-EULA wird durch diese Hinweise nicht ohne Not ersetzt.
 
-## 2. Leistungsgegenstand
+## Was die App bietet
 
-Auf Wunsch werden Standort- und Geräteindikatoren auf mögliche Standortmanipulation untersucht.
+Mit Fake Location Detector können Sie Android-Standortsignale auf Hinweise für simulierte Standorte überprüfen. Ein negatives Ergebnis beweist nicht die Echtheit der Standortdaten. Es gelten die konkret angebotenen Funktionen der erworbenen Plattformversion. Eine nicht angebotene Zukunftsfunktion wird hierdurch nicht Vertragsbestandteil.
 
-Der konkrete Leistungsumfang richtet sich nach der im Store beschriebenen und auf Ihrem Gerät installierten Version. Wir bemühen uns um die Funktionsfähigkeit der beschriebenen Merkmale, schulden jedoch keine nicht ausdrücklich vereinbarte technische Eigenschaft oder künftige kostenlose Erweiterung. Gesetzliche Ansprüche bei einer vereinbarten, aber nicht vertragsgemäß bereitgestellten digitalen Leistung bleiben unberührt.
+## Nutzungsrecht und eigene Inhalte
 
-## 3. Nutzungsrecht und eigene Inhalte
+Der Nutzer darf die App im Rahmen der Store-Lizenz auf unterstützten Geräten verwenden. An eigenen Bildern, Medien, Berechnungen und Texten bleiben bestehende Rechte unberührt. Für importierte Inhalte müssen erforderliche Nutzungsrechte bestehen. Gesetzlich erlaubte Nutzung, Interoperabilität und zwingende Verbraucherrechte bleiben bestehen.
 
-Sie dürfen die App im Rahmen des rechtmäßig über den betreffenden Store erworbenen beziehungsweise bereitgestellten Nutzungsrechts und der technischen Plattformbedingungen verwenden. Eine Weitergabe entgegen anwendbaren Lizenzbedingungen oder rechtswidrige Eingriffe in App-Dienste sind nicht erlaubt. Die Rechte an Ihren eigenen Fotos, Texten, Videos, Lernkarten oder anderen Inhalten verbleiben bei Ihnen beziehungsweise den berechtigten Rechteinhabern. Sie müssen über die erforderlichen Rechte verfügen, wenn Sie fremde Inhalte importieren, verbreiten oder teilen.
+## Kostenpflichtige Erweiterungen und Abonnements
 
-## 4. Kostenpflichtige Funktionen, Probezeiträume und Kündigung
+Vor jedem verbindlichen Kauf zeigen der App-Store beziehungsweise die Kaufoberfläche den tatsächlich verfügbaren Artikel und Preis an. Bei automatisch verlängernden Abonnements müssen Laufzeit, gegebenenfalls Testphase, danach geltender Betrag sowie Verlängerungsbedingungen ersichtlich sein. Einmalige Käufe sind nicht mit Abonnements gleichzusetzen. Die Zahlung verarbeitet der jeweilige Store; Berechtigungen können mithilfe eines Kaufstatusdienstes überprüft werden.
 
-Soweit in **Fake Location Detector** kostenpflichtige Funktionen angeboten werden, werden **Preis, Währung, Produktbezeichnung, Abrechnungsperiode, gegebenenfalls Probezeit und danach fälliger Preis** vor einer verbindlichen Kaufbestätigung über den Store beziehungsweise das Paywall-Angebot angezeigt. Es gelten ausschließlich die bei der Bestellung tatsächlich angebotenen Konditionen. Ein dauerhaft kostenloser Zugriff auf Pro-Funktionen wird daraus nicht abgeleitet.
+Abonnements können im [Google-Play-Konto](https://play.google.com/store/account/subscriptions) beziehungsweise im [Apple-Konto](https://apps.apple.com/account/subscriptions) verwaltet werden. Eine Deinstallation kündigt nicht automatisch. Gesetzliche Erstattungs-, Gewährleistungs- und Rücktrittsrechte bleiben unberührt. Kündigung und gesetzlicher Rücktritt sind verschiedene Vorgänge.
 
-Abonnements können sich nach den im Kaufdialog genannten Bedingungen automatisch verlängern, sofern sie nicht fristgerecht über die dafür vorgesehene Verwaltung des jeweiligen Stores beendet werden. [Apple-Abonnements verwalten](https://apps.apple.com/account/subscriptions) · [Google-Play-Abonnements verwalten](https://play.google.com/store/account/subscriptions). Das Löschen der App beendet ein laufendes Store-Abonnement nicht automatisch. Bei Verfügbarkeit einer Wiederherstellungsfunktion können bereits gekaufte Berechtigungen über das jeweilige Storekonto wiederhergestellt werden. Die technische Zahlungsabwicklung wird über den jeweiligen Store durchgeführt; die konkrete Verkäufer- und Vertragspartnerstellung richtet sich nach dem betreffenden Kaufvertrag und Storemodell.
+## Werbefinanzierte Funktionen
 
-Gesetzliche Gewährleistungs-, Rücktritts- und Erstattungsrechte werden dadurch nicht ausgeschlossen. Die Voraussetzungen eines Rücktritts bei unmittelbar bereitgestellten digitalen Inhalten beziehungsweise des österreichischen § 13a FAGG sind abhängig vom Einzelfall und der Person des vertraglich verpflichteten Unternehmers. Eine Kündigung und ein gesetzlicher Rücktritt sind unterschiedliche Vorgänge.
+Für kostenlose Funktionen können Anzeigen oder freiwillige Werbevideos vorgesehen sein. Eine angebotene Gegenleistung für ein Video wird vor dem Abspielen angezeigt; bei fehlender Anzeigeverfügbarkeit kann diese Leistung technisch nicht über den Werbeweg freigeschaltet werden. Ein erforderlicher Werbedaten-Consent wird getrennt von diesen Bedingungen eingeholt und kann nach Maßgabe der App-Einstellungen geändert werden.
 
-## Werbung und durch Werbung unterstützte Funktionen
+## Verfügbarkeit, Änderungen und Rechte
 
-In der kostenlosen Variante können Anzeigen unterschiedlicher Formate erscheinen. Bei freiwillig angebotenen Werbevideos kann eine angezeigte Freischaltung an das erfolgreiche Abschließen der Werbung gebunden sein; die konkrete Bedingung muss in der App vorab verständlich dargestellt werden. Ein Werbevideo kann aus technischen Gründen nicht verfügbar sein. Individuelle Nutzerentscheidungen zur Werbe-Einwilligung werden über das dafür bereitgestellte Datenschutzmenü verwaltet. Eine gegebenenfalls erforderliche Einwilligung in die Verarbeitung von Werbedaten ist **nicht Bestandteil** der Annahme dieser Nutzungsbedingungen. Die Datenverarbeitung ist in der [Datenschutzerklärung](DATENSCHUTZ.md) beschrieben.
+Updates können Fehler korrigieren und die Kompatibilität erhalten. Verbindlich zugesagte Funktionen und gesetzliche Aktualisierungspflichten bleiben hiervon unberührt. Eine ununterbrochene Verfügbarkeit unabhängiger Online-Dienste ist nicht pauschal zugesagt. Einschränkungen durch Gerät, Betriebssystem oder Netzverbindung können auftreten.
 
-## Qualität, Grenzen und wichtige Hinweise
+Gesetzliche Ansprüche bei mangelhaften digitalen Leistungen, Schadenersatz und zwingender Verbraucherschutz dürfen durch diese Nutzungsbedingungen nicht ausgeschlossen werden. Für Fragen ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar.
 
-Technische Indikatoren können falsch positiv oder falsch negativ sein. Die App kann weder einen Standort noch die Integrität des gesamten Geräts rechtsverbindlich bestätigen.
+## Datenschutz und Beendigung
 
-Eine Softwarefunktion kann durch Gerätewechsel, veränderte Betriebssystemrechte, externe Schnittstellen oder Netzwerkstörungen zeitweilig eingeschränkt sein. Wir werden zwingende Verbraucherrechte bei mangelnder Vertragsmäßigkeit und Sicherheitsupdates achten; pauschale Haftungsausschlüsse für gesetzlich zwingende Ansprüche gelten nicht.
-
-## Datenschutz, Fehler und Support
-
-Die Verarbeitung personenbezogener Daten, etwa zur App-Funktion, für optionale externe Dienste und zur technischen Fehlerbehebung, wird in der zugehörigen [Datenschutzerklärung](DATENSCHUTZ.md) erläutert. Diese Bedingungen ersetzen weder Datenschutzinformationen noch nötige gesonderte Einwilligungen. Bei Funktionsfehlern können Sie sich mit einer Problembeschreibung an [persie0@protonmail.com](mailto:persie0@protonmail.com) wenden. Senden Sie dabei keine Passwörter oder vertraulichen Inhalte mit, sofern dies zur Bearbeitung nicht notwendig ist.
-
-## Gesetzliche Verbraucherrechte und Schlussbestimmungen
-
-Zwingende österreichische und europäische Verbraucherrechte bleiben uneingeschränkt bestehen, insbesondere gesetzliche Gewährleistung, wirksame Rücktrittsrechte und die zwingenden Regelungen des Staats Ihres gewöhnlichen Aufenthalts, soweit diese anwendbar sind. Allgemeine Hinweise in der App oder diesen Bedingungen führen nicht zu einem Verzicht auf solche Rechte. Bei Änderungen, die Verbraucherrechte berühren, informieren wir im rechtlich notwendigen Umfang; eine bloße Fortbenutzung ersetzt keine gesetzlich nötige Zustimmung zu nachteiligen Vertragsänderungen.
+Die [app-spezifische Datenschutzerklärung](DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.
 
 ---
 
-### Interne Freigabehinweise – vor öffentlicher Veröffentlichung entfernen
-
-- Diese zusätzliche AGB ist **nicht für jede App gesetzlich vorgeschrieben**. Bei rein lokalen Spielen oder Tools genügt regelmäßig ein sauberer Datenschutzhinweis plus gegebenenfalls die Plattformstandardlizenz. Vor Aufnahme dieser Nutzungsbedingungen prüfen, ob eine wirksame vertragliche Einbeziehung erforderlich und sachgerecht ist.
-- **Fake Location Detector:** Produktfunktion, vorhandene kostenpflichtige Angebote und Klauseln anhand des tatsächlich ausgelieferten Builds und der Store-Produktseite bestätigen.
-- Echte Produktpreise, Probezeiträume, Kündigungswege, Verkäuferstellung und gesetzliche Rücktrittsabwicklung klären.
-- Eigene Formulierungen auf Basis des Projekts; vergleichbare [EU/Austrian-Referenzen](../README.md) dienen nur zur strukturellen Orientierung. Kein Text fremder AGB wurde kopiert.
+**Interne Freigabenotiz:** Funktionen und die tatsächlichen Store-Angebote müssen vor Veröffentlichung gegen die ausgelieferte Version geprüft werden. Auch ist zu klären, ob diese zusätzliche AGB benötigt wird oder die App-Store-Standardlizenz genügt.

@@ -1,40 +1,29 @@
-# Nutzungsbedingungen – Finger Chooser (+cheat mode)
+# Nutzungsbedingungen – Finger Chooser
 
-**Entwurf vom 16. Oktober 2026 – noch nicht als Vertragsbedingungen freigegeben**
+**Entwurf für die Endprüfung · 16. Oktober 2026**
 
-## 1. Anbieter und Geltung
+## Anbieter und Anwendungsbereich
 
-Anbieter ist **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich, E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die rechtlichen Anbieterinformationen finden Sie im [Impressum](https://persie0.github.io/impressum.html). Diese Nutzungsbedingungen gelten für die hier bezeichnete Anwendung **Finger Chooser (+cheat mode)** und ergänzen, soweit wirksam einbezogen, die Regelungen des jeweiligen Stores. Soweit auf der Apple-Plattform Apples Standard-EULA gilt, bleibt diese Lizenzvereinbarung unberührt; ein gesonderter Softwarelizenzvertrag soll nicht durch unklare Zusatzklauseln fingiert werden.
+Anbieter der App ist Marvin Perzi (Persie0), Österreich, [persie0@protonmail.com](mailto:persie0@protonmail.com). [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html). Bei einem Download über Apple oder Google ergänzen diese Hinweise die vom jeweiligen Store rechtmäßig verwendete Lizenzvereinbarung; die Apple-Standard-EULA wird durch diese Hinweise nicht ohne Not ersetzt.
 
-## 2. Leistungsgegenstand
+## Was die App bietet
 
-Die App trifft eine Auswahl aus mehreren Bildschirmberührungen und bietet gegebenenfalls einstellbare oder manipulierbare Auswahlmodi.
+Mit Finger Chooser können Sie aus mehreren Bildschirmberührungen einen Finger auswählen. Bei aktiviertem Cheat-Modus wird kein unabhängiges Zufallsergebnis zugesichert. Es gelten die konkret angebotenen Funktionen der erworbenen Plattformversion. Eine nicht angebotene Zukunftsfunktion wird hierdurch nicht Vertragsbestandteil.
 
-Der konkrete Leistungsumfang richtet sich nach der im Store beschriebenen und auf Ihrem Gerät installierten Version. Wir bemühen uns um die Funktionsfähigkeit der beschriebenen Merkmale, schulden jedoch keine nicht ausdrücklich vereinbarte technische Eigenschaft oder künftige kostenlose Erweiterung. Gesetzliche Ansprüche bei einer vereinbarten, aber nicht vertragsgemäß bereitgestellten digitalen Leistung bleiben unberührt.
+## Nutzungsrecht und eigene Inhalte
 
-## 3. Nutzungsrecht und eigene Inhalte
+Der Nutzer darf die App im Rahmen der Store-Lizenz auf unterstützten Geräten verwenden. An eigenen Bildern, Medien, Berechnungen und Texten bleiben bestehende Rechte unberührt. Für importierte Inhalte müssen erforderliche Nutzungsrechte bestehen. Gesetzlich erlaubte Nutzung, Interoperabilität und zwingende Verbraucherrechte bleiben bestehen.
 
-Sie dürfen die App im Rahmen des rechtmäßig über den betreffenden Store erworbenen beziehungsweise bereitgestellten Nutzungsrechts und der technischen Plattformbedingungen verwenden. Eine Weitergabe entgegen anwendbaren Lizenzbedingungen oder rechtswidrige Eingriffe in App-Dienste sind nicht erlaubt. Die Rechte an Ihren eigenen Fotos, Texten, Videos, Lernkarten oder anderen Inhalten verbleiben bei Ihnen beziehungsweise den berechtigten Rechteinhabern. Sie müssen über die erforderlichen Rechte verfügen, wenn Sie fremde Inhalte importieren, verbreiten oder teilen.
+## Verfügbarkeit, Änderungen und Rechte
 
-## Qualität, Grenzen und wichtige Hinweise
+Updates können Fehler korrigieren und die Kompatibilität erhalten. Verbindlich zugesagte Funktionen und gesetzliche Aktualisierungspflichten bleiben hiervon unberührt. Eine ununterbrochene Verfügbarkeit unabhängiger Online-Dienste ist nicht pauschal zugesagt. Einschränkungen durch Gerät, Betriebssystem oder Netzverbindung können auftreten.
 
-Bei aktivierten Cheat-/Voreinstellungsfunktionen besteht keine zufällige oder faire Auswahl. Ergebnisse eignen sich nicht als Beweis für unabhängige Zufallsverfahren.
+Gesetzliche Ansprüche bei mangelhaften digitalen Leistungen, Schadenersatz und zwingender Verbraucherschutz dürfen durch diese Nutzungsbedingungen nicht ausgeschlossen werden. Für Fragen ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar.
 
-Eine Softwarefunktion kann durch Gerätewechsel, veränderte Betriebssystemrechte, externe Schnittstellen oder Netzwerkstörungen zeitweilig eingeschränkt sein. Wir werden zwingende Verbraucherrechte bei mangelnder Vertragsmäßigkeit und Sicherheitsupdates achten; pauschale Haftungsausschlüsse für gesetzlich zwingende Ansprüche gelten nicht.
+## Datenschutz und Beendigung
 
-## Datenschutz, Fehler und Support
-
-Die Verarbeitung personenbezogener Daten, etwa zur App-Funktion, für optionale externe Dienste und zur technischen Fehlerbehebung, wird in der zugehörigen [Datenschutzerklärung](DATENSCHUTZ.md) erläutert. Diese Bedingungen ersetzen weder Datenschutzinformationen noch nötige gesonderte Einwilligungen. Bei Funktionsfehlern können Sie sich mit einer Problembeschreibung an [persie0@protonmail.com](mailto:persie0@protonmail.com) wenden. Senden Sie dabei keine Passwörter oder vertraulichen Inhalte mit, sofern dies zur Bearbeitung nicht notwendig ist.
-
-## Gesetzliche Verbraucherrechte und Schlussbestimmungen
-
-Zwingende österreichische und europäische Verbraucherrechte bleiben uneingeschränkt bestehen, insbesondere gesetzliche Gewährleistung, wirksame Rücktrittsrechte und die zwingenden Regelungen des Staats Ihres gewöhnlichen Aufenthalts, soweit diese anwendbar sind. Allgemeine Hinweise in der App oder diesen Bedingungen führen nicht zu einem Verzicht auf solche Rechte. Bei Änderungen, die Verbraucherrechte berühren, informieren wir im rechtlich notwendigen Umfang; eine bloße Fortbenutzung ersetzt keine gesetzlich nötige Zustimmung zu nachteiligen Vertragsänderungen.
+Die [app-spezifische Datenschutzerklärung](DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.
 
 ---
 
-### Interne Freigabehinweise – vor öffentlicher Veröffentlichung entfernen
-
-- Diese zusätzliche AGB ist **nicht für jede App gesetzlich vorgeschrieben**. Bei rein lokalen Spielen oder Tools genügt regelmäßig ein sauberer Datenschutzhinweis plus gegebenenfalls die Plattformstandardlizenz. Vor Aufnahme dieser Nutzungsbedingungen prüfen, ob eine wirksame vertragliche Einbeziehung erforderlich und sachgerecht ist.
-- **Finger Chooser (+cheat mode):** Produktfunktion, vorhandene kostenpflichtige Angebote und Klauseln anhand des tatsächlich ausgelieferten Builds und der Store-Produktseite bestätigen.
-- Keine nicht vorhandenen Werbe-, Kauf- oder Kontoobliegenheiten hinzufügen.
-- Eigene Formulierungen auf Basis des Projekts; vergleichbare [EU/Austrian-Referenzen](../README.md) dienen nur zur strukturellen Orientierung. Kein Text fremder AGB wurde kopiert.
+**Interne Freigabenotiz:** Funktionen und die tatsächlichen Store-Angebote müssen vor Veröffentlichung gegen die ausgelieferte Version geprüft werden. Auch ist zu klären, ob diese zusätzliche AGB benötigt wird oder die App-Store-Standardlizenz genügt.
