@@ -6,40 +6,40 @@
 
 ## Open each app's report
 
-| App | Source repository | Source-backed topics and open questions |
-| --- | --- | --- |
-| [3D Face Model Maker](app-checklists/3d-face-model-maker.md) | [`face_scanner`](https://github.com/Persie0/face_scanner) | Ads · RevenueCat · face photos · GlitchTip |
-| [Arbitrage Betting Calculator](app-checklists/arbitrage-betting-calculator.md) | [`surebets_calculator`](https://github.com/Persie0/surebets_calculator) | Odds/history · ads · RevenueCat · GlitchTip |
-| [Background Noise Remover](app-checklists/background-noise-remover.md) | [`noise_remover`](https://github.com/Persie0/noise_remover) | Audio/media · ads · subscriptions · GlitchTip |
-| [Boost Phone Audio Volume](app-checklists/boost-phone-audio-volume.md) | [`Audiobooster`](https://github.com/Persie0/Audiobooster) | Audio service/permissions · RevenueCat · GlitchTip |
-| [DoubleTapKing](app-checklists/doubletapking.md) | [`double_tap_king`](https://github.com/Persie0/double_tap_king) | Touch timings · local high scores |
-| [EarnMeter: Work Motivator](app-checklists/earnmeter.md) | [`paymeter`](https://github.com/Persie0/paymeter) | Work-time / wage calculator · local preferences |
-| [Fake Location Detector](app-checklists/fake-location-detector.md) | [`fake_gps_detector`](https://github.com/Persie0/fake_gps_detector) | GPS/device diagnostics · Appodeal mediation · purchases |
-| [Finger Chooser (+cheat mode)](app-checklists/finger-chooser.md) | [`finger_chooser`](https://github.com/Persie0/finger_chooser) | Touch selection · optional build-time diagnostics |
-| [Image Upscaler Offline](app-checklists/image-upscaler-offline.md) | [`image_enhancer`](https://github.com/Persie0/image_enhancer) | On-device images · ads · subscriptions · downloads |
-| [Live Noise Cancellation Demo](app-checklists/live-noise-cancellation-demo.md) | [`live_noise_cancelling`](https://github.com/Persie0/live_noise_cancelling) | Microphone/audio · ads · hosted Sentry |
-| [Memory Palace Training](app-checklists/memory-palace-training.md) | [`Memory_Palace_Builder`](https://github.com/Persie0/Memory_Palace_Builder) | Google Drive · Anki · ads · purchases · GlitchTip |
-| [MoWa: Language Learning](app-checklists/mowa-language-learning.md) | [`mowa`](https://github.com/Persie0/mowa) | External translation endpoints · hosted Sentry |
-| [Neon Snake](app-checklists/neon-snake.md) | [`neon_snake_matrix`](https://github.com/Persie0/neon_snake_matrix) | Local scores and audio preferences |
-| [NomadRank](app-checklists/nomadrank.md) | [`skratch_clone`](https://github.com/Persie0/skratch_clone) | Oracle account/social backend · Firebase · Gemini · maps |
-| [Pareader](app-checklists/pareader-news-languages.md) | [`pareader`](https://github.com/Persie0/pareader) | RSS/websites · AI keys · Anki · microphone |
-| [Photo Print Size Editor](app-checklists/photo-print-size-editor.md) | [`ImagePdfScaler`](https://github.com/Persie0/ImagePdfScaler) | Photo layouts · local projects · billing currently disabled |
-| [PureMic](app-checklists/puremic-remove-recorder-noise.md) | [`recorder_noise_remove`](https://github.com/Persie0/recorder_noise_remove) | Microphone/media · ads · subscriptions |
-| [QR Code Tools (Offline)](app-checklists/qr-code-tools-offline.md) | [`QR-Code-Scanner`](https://github.com/Persie0/QR-Code-Scanner) | Camera/QR content · local/history · external handoffs |
-| [Recipe Price Calculator](app-checklists/recipe-price-calculator.md) | [`Food-Portion-Price-Calulator`](https://github.com/Persie0/Food-Portion-Price-Calulator) | Recipes/prices · optional diagnostics |
-| [Reduce Image Size – Compressor](app-checklists/reduce-image-size-compressor.md) | [`image_compressor`](https://github.com/Persie0/image_compressor) | Local image compression · native in-app purchases |
-| [Resistor Color Code Scanner](app-checklists/resistor-color-code-scanner.md) | [`resistor-scanner-android`](https://github.com/Persie0/resistor-scanner-android) | Native camera model · RevenueCat · GlitchTip |
-| [Resistor Finder](app-checklists/resistor-finder.md) | [`resistor-calc`](https://github.com/Persie0/resistor-calc) | Local calculations · Appodeal · native IAP |
-| [Root & Phone Mods Detection](app-checklists/root-phone-mods-detection.md) | [`root_detection_app`](https://github.com/Persie0/root_detection_app) | Integrity checks · ad mediation · purchases |
-| [Screenshot Detector](app-checklists/screenshot-detector.md) | [`screendetector`](https://github.com/Persie0/screendetector) | Capture events · optional diagnostic DSN |
-| [Secret Audio Messages](app-checklists/secret-audio-messages.md) | [`secret_audio_message`](https://github.com/Persie0/secret_audio_message) | Mic/audio encoding · locally generated messages |
-| [Selfie Diary](app-checklists/selfie-diary.md) | Not identified | **Provisional:** exact source repo not identified |
-| [Toilet Compass](app-checklists/toilet-compass-wc-finder.md) | [`toiletcompass`](https://github.com/Persie0/toiletcompass) | Location · GitHub toilet datasets · CARTO maps |
-| [UniMinder](app-checklists/uniminder-uni-companion.md) | [`student`](https://github.com/Persie0/student) | TU Wien calendars/auth · alarm permissions · Sentry |
-| [Vitamin D Tracker](app-checklists/vitamin-d-tracker.md) | [`vitamindtracker`](https://github.com/Persie0/vitamindtracker) | Health data · OpenWeather · Drive · RevenueCat |
-| [VPN & Proxy Detector](app-checklists/vpn-proxy-detector.md) | Not identified | **Provisional:** exact source repo not identified |
-| [Yoyillo: Learn Chinese Offline](app-checklists/yoyillo-learn-chinese-offline.md) | [`hanzi_hero`](https://github.com/Persie0/hanzi_hero) | On-device lessons · Drive/iCloud · RevenueCat |
-| [Video Upscaler Offline (macOS)](app-checklists/video-upscaler-offline-macos.md) | [`video_upscaler`](https://github.com/Persie0/video_upscaler) | Local video processing · RevenueCat · GlitchTip |
+| App report | Source repository | Source-backed topics and open questions | Store |
+| --- | --- | --- | --- |
+| [3D Face Model Maker](3d-face-model-maker.md) | [`face_scanner`](https://github.com/Persie0/face_scanner) | Ads · RevenueCat · face photos · GlitchTip | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.face_scanner) |
+| [Arbitrage Betting Calculator](arbitrage-betting-calculator.md) | [`surebets_calculator`](https://github.com/Persie0/surebets_calculator) | Odds/history · ads · RevenueCat · GlitchTip | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.surebets_calculator) |
+| [Background Noise Remover](background-noise-remover.md) | [`noise_remover`](https://github.com/Persie0/noise_remover) | Audio/media · ads · subscriptions · GlitchTip | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.noise_remover) |
+| [Boost Phone Audio Volume](boost-phone-audio-volume.md) | [`Audiobooster`](https://github.com/Persie0/Audiobooster) | Audio service/permissions · RevenueCat · GlitchTip | [Google Play](https://play.google.com/store/apps/details?id=com.persie0.audiobooster) |
+| [DoubleTapKing](doubletapking.md) | [`double_tap_king`](https://github.com/Persie0/double_tap_king) | Touch timings · local high scores | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.double_tap_king) |
+| [EarnMeter: Work Motivator](earnmeter.md) | [`paymeter`](https://github.com/Persie0/paymeter) | Work-time / wage calculator · local preferences | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.paymeter) |
+| [Fake Location Detector](fake-location-detector.md) | [`fake_gps_detector`](https://github.com/Persie0/fake_gps_detector) | GPS/device diagnostics · Appodeal mediation · purchases | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.fake_gps_detector_app) |
+| [Finger Chooser (+cheat mode)](finger-chooser.md) | [`finger_chooser`](https://github.com/Persie0/finger_chooser) | Touch selection · optional build-time diagnostics | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.finger_chooser) |
+| [Image Upscaler Offline](image-upscaler-offline.md) | [`image_enhancer`](https://github.com/Persie0/image_enhancer) | On-device images · ads · subscriptions · downloads | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.image_enhancer) |
+| [Live Noise Cancellation Demo](live-noise-cancellation-demo.md) | [`live_noise_cancelling`](https://github.com/Persie0/live_noise_cancelling) | Microphone/audio · ads · hosted Sentry | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.live_noise_cancelling) |
+| [Memory Palace Training](memory-palace-training.md) | [`Memory_Palace_Builder`](https://github.com/Persie0/Memory_Palace_Builder) | Google Drive · Anki · ads · purchases · GlitchTip | [Google Play](https://play.google.com/store/apps/details?id=com.austriao.memory_palace_builder) |
+| [MoWa: Language Learning](mowa-language-learning.md) | [`mowa`](https://github.com/Persie0/mowa) | External translation endpoints · hosted Sentry | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.mowa) |
+| [Neon Snake](neon-snake.md) | [`neon_snake_matrix`](https://github.com/Persie0/neon_snake_matrix) | Local scores and audio preferences | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.neon_snake_matrix) |
+| [NomadRank](nomadrank.md) | [`skratch_clone`](https://github.com/Persie0/skratch_clone) | Oracle account/social backend · Firebase · Gemini · maps | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.nomadrank) |
+| [Pareader](pareader-news-languages.md) | [`pareader`](https://github.com/Persie0/pareader) | RSS/websites · AI keys · Anki · microphone | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.pareader) |
+| [Photo Print Size Editor](photo-print-size-editor.md) | [`ImagePdfScaler`](https://github.com/Persie0/ImagePdfScaler) | Photo layouts · local projects · billing currently disabled | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.imageprintsize) |
+| [PureMic](puremic-remove-recorder-noise.md) | [`recorder_noise_remove`](https://github.com/Persie0/recorder_noise_remove) | Microphone/media · ads · subscriptions | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.recordernoiseremover) |
+| [QR Code Tools (Offline)](qr-code-tools-offline.md) | [`QR-Code-Scanner`](https://github.com/Persie0/QR-Code-Scanner) | Camera/QR content · local/history · external handoffs | [Google Play](https://play.google.com/store/apps/details?id=at.austrianapps.qr_code_scanner) |
+| [Recipe Price Calculator](recipe-price-calculator.md) | [`Food-Portion-Price-Calulator`](https://github.com/Persie0/Food-Portion-Price-Calulator) | Recipes/prices · optional diagnostics | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.food_portion_price_calulator) |
+| [Reduce Image Size – Compressor](reduce-image-size-compressor.md) | [`image_compressor`](https://github.com/Persie0/image_compressor) | Local image compression · native in-app purchases | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.image_compress) |
+| [Resistor Color Code Scanner](resistor-color-code-scanner.md) | [`resistor-scanner-android`](https://github.com/Persie0/resistor-scanner-android) | Native camera model · RevenueCat · GlitchTip | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.resistor_scanner) |
+| [Resistor Finder](resistor-finder.md) | [`resistor-calc`](https://github.com/Persie0/resistor-calc) | Local calculations · Appodeal · native IAP | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.resistor_calc) |
+| [Root & Phone Mods Detection](root-phone-mods-detection.md) | [`root_detection_app`](https://github.com/Persie0/root_detection_app) | Integrity checks · ad mediation · purchases | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.root_detection_app) |
+| [Screenshot Detector](screenshot-detector.md) | [`screendetector`](https://github.com/Persie0/screendetector) | Capture events · optional diagnostic DSN | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.screenchecker) |
+| [Secret Audio Messages](secret-audio-messages.md) | [`secret_audio_message`](https://github.com/Persie0/secret_audio_message) | Mic/audio encoding · locally generated messages | [Google Play](https://play.google.com/store/apps/details?id=at.austriao.secret_audio_message) |
+| [Selfie Diary](selfie-diary.md) | Not identified | **Provisional:** exact source repo not identified | [Google Play](https://play.google.com/store/apps/details?id=com.persie0.selfie_diary) |
+| [Toilet Compass](toilet-compass-wc-finder.md) | [`toiletcompass`](https://github.com/Persie0/toiletcompass) | Location · GitHub toilet datasets · CARTO maps | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.toiletcompass) |
+| [UniMinder](uniminder-uni-companion.md) | [`student`](https://github.com/Persie0/student) | TU Wien calendars/auth · alarm permissions · Sentry | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.uniminder) |
+| [Vitamin D Tracker](vitamin-d-tracker.md) | [`vitamindtracker`](https://github.com/Persie0/vitamindtracker) | Health data · OpenWeather · Drive · RevenueCat | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.vitamindtracker) |
+| [VPN & Proxy Detector](vpn-proxy-detector.md) | Not identified | **Provisional:** exact source repo not identified | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.vpn_proxy_detector) |
+| [Yoyillo: Learn Chinese Offline](yoyillo-learn-chinese-offline.md) | [`hanzi_hero`](https://github.com/Persie0/hanzi_hero) | On-device lessons · Drive/iCloud · RevenueCat | [Google Play](https://play.google.com/store/apps/details?id=at.persie0.hanziHero) |
+| [Video Upscaler Offline (macOS)](video-upscaler-offline-macos.md) | [`video_upscaler`](https://github.com/Persie0/video_upscaler) | Local video processing · RevenueCat · GlitchTip |
 
 ## How to use these documents
 
