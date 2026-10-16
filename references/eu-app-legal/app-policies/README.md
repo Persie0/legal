@@ -8,6 +8,8 @@ These documents are the full **working drafts** of the app-specific **Datenschut
 
 **[What was changed after comparing the real Austrian/EU policies](REFERENCE_COMPARISON.md)** — source-by-source comparison and finalization blockers.
 
+**Hinweis:** Die Datenschutz- und Vertragstexte sind ausschließlich für Endnutzer formuliert; ungeklärte Fakten, Sicherheitsfragen und Prüfaufgaben stehen separat unter [Offene Infrastruktur- und Release-Fakten (nur interne Prüfung)](../INTERNAL_OPEN_QUESTIONS.md).
+
 ## Legal-document drafts by app
 
 | App | Datenschutzerklärung | Nutzungsbedingungen | Requirements/evidence | Store |
