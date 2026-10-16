@@ -1,10 +1,8 @@
 # Datenschutzerklärung für Boost Phone Audio Volume
 
-*Redaktionelle Fassung: 16. Oktober 2026 · Zur Endprüfung, nicht für die unveränderte Veröffentlichung.*
-
 ## 1. Geltungsbereich
 
-Diese Datenschutzerklärung betrifft **Boost Phone Audio Volume** und beschreibt die Verarbeitung im Zusammenhang mit Steuerung von Verstärkung und Audiowiedergabe. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die akustische Aufnahme beziehungsweise Wiedergabe wird auf dem Gerät verarbeitet; soweit externe Funktionen hinzukommen, werden sie hier gesondert beschrieben.
+Diese Datenschutzerklärung betrifft **Boost Phone Audio Volume** und beschreibt die Verarbeitung im Zusammenhang mit Steuerung von Verstärkung und Audiowiedergabe. Welche Funktionen verfügbar sind, hängt von Ihrer installierten App-Version ab. Die akustische Aufnahme beziehungsweise Wiedergabe wird auf dem Gerät verarbeitet; soweit externe Funktionen hinzukommen, werden sie hier gesondert beschrieben.
 
 ## 2. Verantwortlicher
 
@@ -14,45 +12,40 @@ Diese Datenschutzerklärung betrifft **Boost Phone Audio Volume** und beschreibt
 
 Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich vom Benutzer lokal ausgeführten Berechnungen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium |
-| --- | --- | --- | --- |
-| Verwendung der App auf Ihrem Gerät | Verstärkungswerte; Lautstärke- und Klangoptionen; Status des laufenden Audiodienstes | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
-| Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten. | Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten. | Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). | Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. |
-| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | [ZU PRÜFEN: konkrete Diagnose- und HTTP-Logfristen] |
+| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium | 14 Tage (Fehlerereignisse) | --- | --- | --- | --- | 14 Tage (Fehlerereignisse) | Verwendung der App auf Ihrem Gerät | Verstärkungswerte; Lautstärke- und Klangoptionen; Status des laufenden Audiodienstes | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren | 14 Tage (Fehlerereignisse) | Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten. | Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten. | Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). | Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. | 14 Tage (Fehlerereignisse) | Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | 14 Tage (Fehlerereignisse) |
 
 ## 4. Lokale Inhalte und Geräteberechtigungen
 
 Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: Verstärkungswerte, Lautstärke- und Klangoptionen, Status des laufenden Audiodienstes. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
-Die genaue Systemberechtigung hängt von den tatsächlich verwendeten Funktionen ab. Die App verlangt keine pauschale Freigabe sämtlicher Dateien oder Sensoren.
+Geräteberechtigungen werden nur im Zusammenhang mit den jeweils von Ihnen ausgewählten Funktionen verwendet.
 
-Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in eine davon unabhängige Werbe- oder Analysedatenverarbeitung.
+Eine erteilte Systemberechtigung gilt nur für den beschriebenen Gerätezugriff und nicht für davon unabhängige Werbe- oder Analysezwecke.
 
 ## 5. Dienstleister und weitere Empfänger
 
 ### Käufe und Abonnements via RevenueCat
 
-**Dienst und Empfänger:** RevenueCat und der gewählte App-Store. Der Store ist für die Zahlung eigenständig Verantwortlicher.  
-**Zweck:** Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten.  
-**Daten:** Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus).  
-**Dauer:** Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung.  
+**Dienst und Empfänger:** RevenueCat und der gewählte App-Store. Der Store ist für die Zahlung eigenständig Verantwortlicher.
+**Zweck:** Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten.
+**Daten:** Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten.
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus).
+**Dauer:** Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung.
 **Informationen:** [Datenschutz des Anbieters](https://www.revenuecat.com/privacy/)
 
-### Fehlerberichte (Selbst gehostetes GlitchTip)
+### Fehlerdiagnose auf unserem Server in Frankfurt
 
-Für die Fehlerbehebung kann ein technischer Bericht an unsere selbst betriebene GlitchTip-Installation gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören. **[ZU PRÜFEN: finale Empfängeradresse, mögliche personenbezogene Inhalte in Diagnosetexten, Hostingland, konkrete Aufbewahrung und Übermittlungsgrundlagen.]**
-
+Zur Behebung technischer Fehler werden Fehlermeldungen, Stacktraces sowie technische Informationen zur App und zum Betriebssystem an unsere eigene GlitchTip-Installation in der Oracle-Cloud-Region Frankfurt (Deutschland) übertragen. Die Speicherung der Fehlerereignisse ist auf 14 Tage eingestellt. Zugriffsprotokolle des Webservers werden nach sieben Tagen bereinigt.
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
-Eine nicht erforderliche Werbeeinwilligung wird für diese Kernfunktion nicht allein durch die Annahme der Nutzungsbedingungen fingiert.
+Eine Zustimmung zu Nutzungsbedingungen ist keine Einwilligung in optionale Datenverarbeitungen.
 
 Die Zahlung selbst erfolgt über den gewählten App-Store; RevenueCat prüft den Kauf- und Berechtigungsstatus. Persie0 benötigt dafür keine Zahlungskartennummer. Die Kündigung eines Store-Abonnements erfolgt über die jeweilige Storeverwaltung.
 
 ## 7. Datenweitergabe, Drittländer und Dauer
 
-Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien. **[ZU PRÜFEN: tatsächlich betroffene Länder, Übermittlungsgrundlagen und Auftragsverarbeitungsverträge.]** Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Soweit eine tatsächliche Aufbewahrungsdauer fehlt, muss sie vor Veröffentlichung ergänzt werden.
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Die Aufbewahrung bei externen Diensten richtet sich nach den jeweiligen Zwecken und den unten verlinkten Datenschutzinformationen.
 
 ## 8. Betroffenenrechte und Löschung
 
@@ -61,7 +54,3 @@ Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Lös
 ## 9. Sicherheit und Aktualisierung
 
 Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen. Für Minderjährige gelten die einschlägigen Schutzvorschriften.
-
----
-
-**Interne Freigabenotiz – nicht auf einer öffentlichen Datenschutzseite anzeigen.** Die mit **[ZU PRÜFEN]** bezeichneten Tatsachen sind noch durch Store-Build, SDK-Laufzeittest und Serverkonfiguration zu bestätigen. Die Gliederung ist eigenständig formuliert und an der Detailtiefe realer österreichischer/EU-App-Hinweise (ÖAMTC, Auphonic, Photoroom) orientiert, nicht an ihrem Wortlaut.

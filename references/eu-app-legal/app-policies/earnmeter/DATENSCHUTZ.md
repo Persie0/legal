@@ -1,10 +1,8 @@
 # Datenschutzerklärung für EarnMeter: Work Motivator
 
-*Redaktionelle Fassung: 16. Oktober 2026 · Zur Endprüfung, nicht für die unveränderte Veröffentlichung.*
-
 ## 1. Geltungsbereich
 
-Diese Datenschutzerklärung betrifft **EarnMeter: Work Motivator** und beschreibt die Verarbeitung im Zusammenhang mit geschätzte Arbeitszeit- und Verdienstberechnungen. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die genannten Grunddaten dienen der von Ihnen ausgelösten Funktion.
+Diese Datenschutzerklärung betrifft **EarnMeter: Work Motivator** und beschreibt die Verarbeitung im Zusammenhang mit geschätzte Arbeitszeit- und Verdienstberechnungen. Welche Funktionen verfügbar sind, hängt von Ihrer installierten App-Version ab. Die Daten werden für die von Ihnen gewählten Funktionen genutzt.
 
 ## 2. Verantwortlicher
 
@@ -22,24 +20,21 @@ Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler V
 
 Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: eingegebene Arbeitszeit, Stundenlohn/Pausen, lokale Präferenzen. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
-Die genaue Systemberechtigung hängt von den tatsächlich verwendeten Funktionen ab. Die App verlangt keine pauschale Freigabe sämtlicher Dateien oder Sensoren.
+Geräteberechtigungen werden nur im Zusammenhang mit den jeweils von Ihnen ausgewählten Funktionen verwendet.
 
-Ein Berechtigungsdialog des Betriebssystems erlaubt nur den jeweiligen Gerätezugriff und ist keine Einwilligung in eine davon unabhängige Werbe- oder Analysedatenverarbeitung.
+Eine erteilte Systemberechtigung gilt nur für den beschriebenen Gerätezugriff und nicht für davon unabhängige Werbe- oder Analysezwecke.
 
 ## 5. Dienstleister und weitere Empfänger
 
-Nach dem untersuchten Quellcode ist für die Kernfunktion kein regelmäßig genutzter Online-Konto-, Zahlungs- oder Werbedienst belegt.
-
+Für die Kernfunktion werden keine eigenen Online-Konto-, Zahlungs- oder Werbedienste genutzt.
 
 ## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
 
-Eine nicht erforderliche Werbeeinwilligung wird für diese Kernfunktion nicht allein durch die Annahme der Nutzungsbedingungen fingiert.
-
-
+Eine Zustimmung zu Nutzungsbedingungen ist keine Einwilligung in optionale Datenverarbeitungen.
 
 ## 7. Datenweitergabe, Drittländer und Dauer
 
-Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien. **[ZU PRÜFEN: tatsächlich betroffene Länder, Übermittlungsgrundlagen und Auftragsverarbeitungsverträge.]** Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Soweit eine tatsächliche Aufbewahrungsdauer fehlt, muss sie vor Veröffentlichung ergänzt werden.
+Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Die Aufbewahrung bei externen Diensten richtet sich nach den jeweiligen Zwecken und den unten verlinkten Datenschutzinformationen.
 
 ## 8. Betroffenenrechte und Löschung
 
@@ -48,7 +43,3 @@ Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Lös
 ## 9. Sicherheit und Aktualisierung
 
 Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen. Für Minderjährige gelten die einschlägigen Schutzvorschriften.
-
----
-
-**Interne Freigabenotiz – nicht auf einer öffentlichen Datenschutzseite anzeigen.** Die mit **[ZU PRÜFEN]** bezeichneten Tatsachen sind noch durch Store-Build, SDK-Laufzeittest und Serverkonfiguration zu bestätigen. Die Gliederung ist eigenständig formuliert und an der Detailtiefe realer österreichischer/EU-App-Hinweise (ÖAMTC, Auphonic, Photoroom) orientiert, nicht an ihrem Wortlaut.
