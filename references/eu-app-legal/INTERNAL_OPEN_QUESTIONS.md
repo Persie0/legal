@@ -1,41 +1,55 @@
-# Offene technische Fakten für die Freigabe der App-Rechtstexte (INTERN)
+# Interne Faktenprüfung der App-Rechtstexte
 
-**Prüfstand:** 16. Oktober 2026 · **Nicht in öffentliche Datenschutzerklärungen/AGB kopieren.**
+**Stand: 16. Oktober 2026. Nur für die Prüfung — nicht Bestandteil der App-Datenschutzerklärungen oder AGB.**
 
-Die 32 Datenschutzerklärungen und 32 Nutzungsbedingungen unter [app-policies](app-policies/README.md) sind Endnutzertexte. Ungeklärte Infrastrukturdetails und Nachweisaufgaben werden **ausschließlich hier** erfasst. Fehlende Beweise wurden nicht durch Vermutungen oder Fristen anderer Publisher ersetzt.
+Die [Endnutzertexte](app-policies/README.md) enthalten keine Prüfanweisungen. Offen gebliebene Tatsachen werden hier geführt, statt eine unbelegte Pflichtangabe zu erfinden.
 
-## Bereits geklärt / anhand GitHub überprüft
+## Vom Betreiber beantwortet und anhand des Quellcodes eingeordnet
 
-| Thema | Nachweis | Bewertung |
+| Frage | Antwort / Nachweis | Konsequenz |
 | --- | --- | --- |
-| GlitchTip-Hauptserver | Nutzer bestätigt Oracle Cloud Frankfurt; [GlitchTip Compose](https://github.com/Persie0/glitchtip_setup/blob/main/docker-compose.yml) | Hauptinstanz auf OCI Frankfurt; das schließt weitere Datenkopien **nicht** aus |
-| GlitchTip-Ereignisse/Transaktionen/Dateien | [Compose](https://github.com/Persie0/glitchtip_setup/blob/main/docker-compose.yml) | Jeweils `GLITCHTIP_*_RETENTION_DAYS=14`, Release-Daten `30`; **Konfiguration**, nicht garantierte erfolgreiche physische Löschung |
-| Webserver-/Systemlogs | [cleanup.sh](https://github.com/Persie0/glitchtip_setup/blob/main/cleanup.sh) | Löscht Caddy-Logdateien älter als 7 Tage, GlitchTip-Protokolldateien älter als 30 Tage; System-Journal älter als 7 Tage/Größenlimit **sofern Skript ausgeführt wird** |
-| GlitchTip-Sicherungsmechanismus | [backup.sh](https://github.com/Persie0/glitchtip_setup/blob/main/backup.sh) | Erstellt Datenbankdump, .env-Kopie und Upload-Archiv; löscht Backups im Script erst nach >14 Tagen **sofern es läuft** |
-| GitHub-Sicherungen | [Private repository tree](https://github.com/Persie0/glitchtip_setup/tree/main/backups) | Commit enthält `backups/20260916_134525/glitchtip_db.dump` (~909 KB) und `.env.backup`; **keine Inhalte oder Zugangsdaten ausgelesen**. Git-Historie verlängert die Aufbewahrung unabhängig vom Backup-Prune. Sicherheit/Datenschutz klären! |
-| NomadRank-Hauptserver | Nutzer bestätigt Oracle Frankfurt; [Oracle backend](https://github.com/Persie0/skratch_clone/tree/master/oracle_backend_server) | Oracle Cloud Frankfurt; kein pauschaler Retentionwert für Kontodaten/Backups nachgewiesen |
-| NomadRank-Kontolösch-Client | [oracle_account_service.dart](https://github.com/Persie0/skratch_clone/blob/master/lib/services/oracle_account_service.dart) | App sendet `POST api/account/delete`. Nicht bewiesen ist damit eine vollständige Löschung in Oracle, Firebase und Backups |
-| NomadRank API-Fehler | [ords_error_logging.sql](https://github.com/Persie0/skratch_clone/blob/master/oracle_backend_server/ords_error_logging.sql) | Beinhaltet `user_id_hash` (SHA-256) und Fehlertexte; Löschintervall aus Quellcode nicht belegt |
-| Optionales Crash-SDK | Finger Chooser, Pareader, Recipe Price Calculator, Screenshot Detector | In Quellen wird SDK über `SENTRY_DSN` zur Buildzeit eingeschaltet; konkrete Release-Konfiguration unbekannt. **14-Tage-Frist für diese Apps nicht unterstellen.** |
-| Selfie Diary und VPN & Proxy Detector | [App-Checklisten](app-checklists/README.md) | Zugehörige Quellrepos in GitHub-Installation nicht identifiziert; darf nicht als vollständiger Codeaudit gelten |
+| Hauptserver GlitchTip | Oracle Cloud Infrastructure Frankfurt, vom Betreiber bestätigt | Frankfurt für den Hauptserver angeben; andere Dienste/Backups getrennt |
+| GlitchTip-Speicherfristen | [Compose](https://github.com/Persie0/glitchtip_setup/blob/main/docker-compose.yml): Fehlerereignisse 14 Tage; Releases 30 Tage; [cleanup.sh](https://github.com/Persie0/glitchtip_setup/blob/main/cleanup.sh): alte Caddy-Logs nach 7 Tagen, GlitchTip-Dateilogs nach 30 Tagen | Fristen als Konfiguration angeben; Betriebserfolg nicht aus Code allein ableiten |
+| GlitchTip-Skripte | Betreiber bestätigt **ja**, sowohl `cleanup.sh` als auch `backup.sh` werden regelmäßig ausgeführt | Zeitgesteuerter Betrieb als bestätigt; tatsächliche Backup-Ziele/Logfristen bleiben teils offen |
+| GitHub-GlitchTip-Sicherungen | Betreiber antwortet auf zwei separate Nachfragen gemeinsam **„nein“**; Aussage kann sich auf Echtdaten und/oder Gültigkeit früherer Zugangsdaten beziehen | Beides ohne getrennte Antwort nicht als sicher festgestellt behandeln. Das private Repo enthält weiterhin einen versionierten Dump und `.env.backup`; Git-Historie verlängert die Aufbewahrung |
+| NomadRank | OCI Frankfurt, Betreiber antwortet auf Fragen zu Löschfunktion und Fristen pauschal **„ja“** | Existenz einer Löschfunktion bestätigt; **keine konkrete Zahl von Tagen** für Logs und Sicherungen genannt. Firebase-/Oracle-/Backup-Löschung getrennt prüfen |
+| Sentry bei vier Apps | Betreiber: **„ja, sentry“** für Finger Chooser, Pareader, Recipe Price Calculator und Screenshot Detector | Alle vier Datenschutzerklärungen nennen Sentry statt eines rein hypothetischen Empfängers. Sentry-Datenschutzlink ergänzt; nicht die GlitchTip-14-Tage-Frist übernehmen |
+| Appodeal-Partner | Betreiber: Android-Kotlin-Abhängigkeiten stellen die aktivierten Partner dar | Partner je tatsächlich geprüfter Android-Gradle-Konfiguration in zehn App-Datenschutzerklärungen aufgenommen |
+| Quellcode Selfie Diary und VPN & Proxy Detector | Betreiber kennt derzeit kein dazugehöriges Repository | Weiterhin kein verbindlicher Audit der Datenflüsse möglich; keine erfundenen konkreten Drittdienste |
 
-## Antworten benötigt – keine Passwörter oder Tokens zusenden
+## Appodeal-Partner: Android-Konfiguration vom 16. Oktober 2026
 
-1. **GlitchTip GitHub-Backups:** Enthält der ältere DB-Dump echte Produktions-/Nutzerdaten? Wurden Backup-Dateien absichtlich in Git übernommen? Sind .env-Zugangsdaten aus diesem Commit noch gültig? Nur **ja/nein** antworten; keine Geheimnisse teilen. Falls echt: Repo/Git-Historie bereinigen, Credentials rotieren und Backups mit geeigneter Zugriffskontrolle außerhalb des regulären Git-Repositorys speichern. Vorher keine ausschließliche Frankfurt-Speicherung behaupten.
-2. **Betriebsfristen:** Sind `cleanup.sh` und `backup.sh` auf dem laufenden Server zeitgesteuert aktiv? Welche zusätzlichen GlitchTip-Dumps/Backups sind vorhanden und wo liegen sie? Ein Repository-Skript allein beweist keine tatsächlich eingehaltene Löschfrist.
-3. **NomadRank:** Wie lange werden Oracle-Autobackups, Oracle-/ORDS-/Reverse-Proxy-Logs und `NOMADRANK_API_ERRORS` aufbewahrt? Entfernt `api/account/delete` auch Firebase-Identität, Social/Trip-Daten und etwaige Backups (ggf. verzögert)? Wo sind NomadRank-Backups gespeichert?
-4. **Bedingte Diagnostik:** Ist Fehlerdiagnose in den veröffentlichten Builds von **Finger Chooser, Pareader, Recipe Price Calculator und Screenshot Detector** eingeschaltet? Wenn ja, welcher Empfänger (eigener GlitchTip, Sentry.io oder anderer Dienst) und welche Löschfrist? Kein DSN-Token nötig.
-5. **Fehlende Repositories:** Unter welchem Github-Repository/Branch liegen **Selfie Diary** (Paket `com.persie0.selfie_diary`) und **VPN & Proxy Detector** (Paket `at.persie0.vpn_proxy_detector`)? Wenn nicht auf GitHub, Quellarchiv bereitstellen. Ohne Source kann die Datenschutzerklärung keine belegten negativen Datenfluss-Aussagen treffen.
-6. **Appodeal-Partner im tatsächlich veröffentlichten Build:** Gibt es ein Dashboard-/SDK-Protokoll oder Export der aktiven Netzwerke je App? SDK-Adapter allein belegen keine Datenübermittlung. Ein Screenshot der aktiven Partner ohne vertrauliche Werbe-IDs reicht.
-7. **Zusätzliche Dienst- und Produktgrenzen:** Sind alle in der veröffentlichten Android/iOS/macOS-App aktiven Clouddienste, Datenspeicher und Bezahlmodelle identisch mit dem aktuell eingesehenen GitHub-Stand? Falls nicht: Version/Branch pro Ausnahme nennen.
+Basiskette für die genannten Apps: Appodeal, AppLovin, BidMachine, Bidon, BIGO Ads, DT Exchange, Meta Audience Network, Mintegral, Unity Ads und Vungle. Die IAB-/Consent- und Sentry-Analytics-Adapter sind keine zusätzlichen Werbenetzwerke und werden nicht als solche gezählt.
 
-## Verbindliche Regeln für die Endnutzertexte
+| App | Quellnachweis | Abweichung von der Basiskette |
+| --- | --- | --- |
+| Background Noise Remover | [Gradle](https://github.com/Persie0/noise_remover/blob/master/android/app/build.gradle.kts) | Keine |
+| Image Upscaler Offline | [Gradle](https://github.com/Persie0/image_enhancer/blob/main/android/app/build.gradle.kts) | **Mintegral ausgeschlossen** |
+| 3D Face Model Maker | [Gradle](https://github.com/Persie0/face_scanner/blob/master/android/app/build.gradle) | Keine |
+| Arbitrage Betting Calculator | [Gradle](https://github.com/Persie0/surebets_calculator/blob/master/android/app/build.gradle.kts) | Keine |
+| PureMic | [Gradle](https://github.com/Persie0/recorder_noise_remove/blob/main/android/app/build.gradle.kts) | Keine |
+| Memory Palace Training | [Gradle](https://github.com/Persie0/Memory_Palace_Builder/blob/main/android/app/build.gradle) | Keine |
+| Resistor Finder | [Gradle](https://github.com/Persie0/resistor-calc/blob/master/android/app/build.gradle) | Keine |
+| Live Noise Cancellation Demo | [Gradle](https://github.com/Persie0/live_noise_cancelling/blob/master/android/app/build.gradle) | Keine |
+| Root & Phone Mods Detection | [Gradle](https://github.com/Persie0/root_detection_app/blob/master/app/build.gradle.kts) | **BIGO ausgeschlossen** |
+| Fake Location Detector | [Gradle](https://github.com/Persie0/fake_gps_detector/blob/master/app/build.gradle.kts) | Keine |
 
-- Keine **[OFFEN]**, `SENTRY_DSN`, Entwicklerhinweise, Codeaudit-Statements, internen Freigabevermerke oder technischen Arbeitsanweisungen in App-`DATENSCHUTZ.md`/`NUTZUNGSBEDINGUNGEN.md`.
-- Frankfurt nur für die nachgewiesenen *primären* OCI-Dienste nennen, nicht pauschal für Drittanbieter oder etwaige ausgelagerte Backups.
-- GlitchTip-**Fehlerereignisse 14 Tage** und **rotierte Webserver-Logs 7 Tage (bei Ausführung des Cleanup-Skripts)** differenzieren; GlitchTip-Dateilogs 30 Tage, Release-Metadaten 30 Tage, Backups 14 Tage im Skript — **Git-Historie ist keine 14-Tage-Löschung**.
-- Nicht von lokalen Fotos oder Audiodaten auf Cloudübertragung schließen; umgekehrt keine vollständige Offline-Verarbeitung aller SDK-Verbindungsdaten behaupten.
-- Für optionalen Crashreporting-Code ohne nachgewiesene Release-Konfiguration keine konkrete Anbieteradresse oder 14-Tage-Frist zusichern.
-- Veröffentlichung erst, wenn tatsächliche Datenwege, DSGVO-Rechtsgrundlagen, Drittlandgarantien, Store-Datenlabels und die erforderlichen Kontakt-/Löschwege stimmen.
+**Wichtig:** Diese Feststellung betrifft die **Android-Einbindungen**. Eine im SDK vorhandene Verbindung muss nicht bei jeder Anzeigenauktion aktiv werden; die iOS-Mediation ist hiermit nicht nachgewiesen. Der aktuelle native Kotlin-[Resistor Scanner](https://github.com/Persie0/resistor-scanner-android/blob/main/app/build.gradle.kts) verfügt nicht über die frühere Flutter-Appodeal-Integration.
 
-**Referenzen:** [App-Quellcodechecklisten](app-checklists/README.md), [alle Endnutzertexte](app-policies/README.md), [Serviceinventar](../../SERVICES_AND_DATA.md).
+## Verbleibende Angaben, die nur der Betreiber bestätigen kann
+
+1. **NomadRank-Löschfristen in Tagen:** Aufbewahrungsdauer von Oracle-Backups, ORDS-/Reverse-Proxy-Logs und `NOMADRANK_API_ERRORS`. Der [Client](https://github.com/Persie0/skratch_clone/blob/master/lib/services/oracle_account_service.dart) ruft `POST api/account/delete`; aus dem Client ist nicht bewiesen, ob auch Firebase-Identity, alle Datensätze und Sicherungen erfasst werden.
+2. **Sentry-Datenaufbewahrung:** Welcher Sentry-Tarif bzw. in der Sentry-Organisation eingestellter Retention-Wert gilt für die vier benannten Apps? Nicht den eigenen GlitchTip-Retention-Wert verwenden.
+3. **Historische GlitchTip-Backups:** Bei „nein“ bitte unterscheiden: *keine echten Nutzerdaten* **und** *keine mehr gültigen Zugangsdaten*, oder nur eines davon? Die Repo-Kopie wird trotz laufender Skript-Bereinigung nicht automatisch aus der Git-Historie gelöscht.
+4. **Andere Backup-Ziele:** Existieren zusätzliche GlitchTip-/NomadRank-Kopien außerhalb der OCI-Frankfurt-Instanz, und welche Aufbewahrungsfrist gilt dort?
+5. **Selfie Diary / VPN & Proxy Detector:** Exakte Quellrepos/Store-Builds oder ein Quellarchiv sind nötig für eine definitive Erklärung zu Netzwerkverbindungen, SDKs und Löschung.
+6. **Andere Plattformen:** Die aktiven iOS-/macOS-Adapter und die veröffentlichten Release-Binaries können sich von den überprüften Android-Gradle-Dateien unterscheiden.
+
+## Nachweise und Sicherheitsbefund
+
+- [GlitchTip-backup.sh](https://github.com/Persie0/glitchtip_setup/blob/main/backup.sh) erstellt Dumps, eine `.env`-Kopie und Upload-Archiv und löscht Verzeichnisse älter als 14 Tage **bei Ausführung**. Ein `git`-Commit unter `backups/20260916_134525/` enthält historische Versionen solcher Dateien. Die Inhalte wurden nicht geöffnet und keine Zugangsdaten ausgelesen.
+- Ein als privat gekennzeichnetes Repository vermindert die Zugänglichkeit, ersetzt aber keine sichere Geheimnis-/Backup-Verwaltung. Bei echten personenbezogenen Daten beziehungsweise noch gültigen Zugangsdaten müssen Schutzmaßnahmen und gegebenenfalls Git-Historienbereinigung/Rotation bewertet werden.
+- Appodeal dokumentiert ausdrücklich die Verantwortung des App-Anbieters für eine eigene Datenschutzerklärung, Identifikatoren und transparente Partnerangaben: https://docs.appodeal.com/onboarding/data-protection/privacy-policy
+- Die Datenschutz- und Aufbewahrungshinweise von Sentry sind unter https://sentry.io/privacy/ abrufbar. Spezifische Aufbewahrungswerte können von Tarif/Organisation abhängen; daher keine 14-Tage-Zusage.
+
+**Endnutzertexte:** [alle 32 Apps](app-policies/README.md). **Quellcodebasierte App-Checklisten:** [App-Checklisten](app-checklists/README.md).

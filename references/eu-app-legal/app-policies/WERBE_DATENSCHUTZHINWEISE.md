@@ -1,17 +1,21 @@
-# Hinweise zu Werbedaten und Datenschutzoptionen – Appodeal-Apps
+# Werbung, Anzeigenanbieter und Ihre Datenschutzentscheidung
 
-**Stand des Entwurfs:** 16. Oktober 2026
+In einigen unserer Apps wird die kostenlose Nutzung durch Werbeanzeigen finanziert. Dabei verwenden wir **Appodeal** als Plattform zur Auswahl und Auslieferung von Anzeigen. Die in der jeweiligen App eingebundenen Anbieter können unter anderem die IP-Adresse, technische Informationen über das Gerät und die App, gegebenenfalls zulässige Werbekennungen sowie Daten über Anzeigenaufrufe und Interaktionen verarbeiten. Dabei kommen je nach Anzeigenauktion nicht bei jeder Einblendung alle Anbieter zum Einsatz.
 
-Bestimmte kostenlose Persie0-Apps finanzieren einen Teil ihres Angebots über Banner, Interstitials oder freiwillig angesehene Werbevideos. Zur Ausspielung und Vermittlung von Anzeigen kann der Dienst **Appodeal** zusammen mit den in der jeweiligen App-Version tatsächlich aktiven Werbepartnern eingesetzt werden.
+## Eingebundene Anbieter der Android-Apps
 
-Bei diesen Vorgängen können abhängig von Freigaben und SDK-Konfiguration Netzwerk- und Gerätedaten sowie Werbekennungen und Interaktionsinformationen verarbeitet werden. Eine personenbezogene oder personalisierte Werbung, die der Einwilligung bedarf, setzt die entsprechenden Datenschutzentscheidungen voraus.
+Zu den Anzeigen- und Vermittlungsanbietern gehören [Appodeal](https://appodeal.com/privacy-policy/), [AppLovin](https://legal.applovin.com/privacy/), [BidMachine](https://www.bidmachine.com/privacy-policy), Bidon, [BIGO Ads](https://www.adsbigo.com/privacy.html), [DT Exchange (Digital Turbine)](https://www.digitalturbine.com/legal), [Meta Audience Network](https://www.facebook.com/privacy/policy/), [Mintegral](https://www.mintegral.com/en/privacy/), [Unity Ads](https://unity.com/legal/privacy-policy) und [Vungle/Liftoff](https://liftoff.io/privacy-policy/).
 
-Für die Verwaltung Ihrer Werbeeinwilligung nutzen wir, soweit vorgesehen, eine von Appodeal unterstützte Einwilligungslösung (Stack Consent Manager). Über die **Datenschutz- bzw. Anzeigen-Einstellungen innerhalb der betreffenden App** können Sie eine mögliche Wahl erneut aufrufen oder ändern. Unter iOS kann zusätzlich die separate Tracking-Erlaubnis (ATT) des Betriebssystems erforderlich sein.
+Die beteiligten Unternehmen unterscheiden sich je nach App: **Image Upscaler Offline** enthält keinen Mintegral-Adapter, während **Root & Phone Mods Detection** keinen BIGO-Adapter enthält. Andere Apps mit Anzeigen können über eine andere Auswahl an Anbietern verfügen. Die [Datenschutzerklärung der jeweiligen App](README.md) nennt die zugehörigen Anbieter.
 
-Bei freiwilligen Werbevideos wird die konkrete Bedingung einer möglichen Freischaltung vor dem Abspielen erläutert. Ein Werbeangebot kann wegen fehlender Verbindung, fehlender Verfügbarkeit oder wegen datenschutzrechtlicher Auswahl ausbleiben.
+## Einwilligung und Einstellungen
 
-Die **konkreten aktivierten Werbeunternehmen, Aufbewahrungsfristen, Länder und Datenkategorien** gehören in die individuelle [Datenschutzerklärung jeder App](README.md). [Appodeal Datenschutzhinweise](https://appodeal.com/privacy-policy/). Fragen richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Soweit Ihre Einwilligung für optionale Endgerätezugriffe oder personalisierte Werbung erforderlich ist, wird diese über die in der App angebotene Datenschutz- beziehungsweise Einwilligungsverwaltung abgefragt. Dort können Sie Ihre Auswahl für die Zukunft ändern. Unter iOS kann zusätzlich eine gesonderte Betriebssystemfreigabe für App-Tracking nötig sein.
 
----
+Ihre Zustimmung zu allgemeinen Nutzungsbedingungen ist **keine** Einwilligung in personalisierte Werbung. Die Nutzung einer App-Funktion erlaubt nicht automatisch, eigene Fotos, Audiodateien oder sensible Informationen an Werbeanbieter zu senden.
 
-**Redaktioneller Hinweis:** Dieses Informationsblatt ist **keine Einwilligungserklärung oder Ersatzoberfläche für einen CMP**. Die tatsächliche App muss die Wahlmöglichkeiten und deren Widerruf wirksam ermöglichen. Die SDK-Partnerliste darf nicht aus einer Gradle-Abhängigkeit allein als tatsächlicher Datentransfer abgeleitet werden.
+## Wie lange die Daten gespeichert werden
+
+Ihre Wahl zur Werbeeinwilligung kann lokal gespeichert werden, bis Sie sie ändern beziehungsweise die betreffenden App-Daten entfernen. Werbeanbieter legen die von ihnen verarbeiteten Daten entsprechend ihren eigenen dokumentierten Zwecken und Aufbewahrungsregeln ab. Einzelheiten, Rechte und Kontaktwege finden Sie in den oben verlinkten Datenschutzhinweisen.
+
+Für datenschutzbezogene Anliegen erreichen Sie uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).

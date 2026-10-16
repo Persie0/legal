@@ -2,9 +2,7 @@
 
 **Portfolio date: 16 October 2026 · 32 applications · original German drafting text.**
 
-These documents are the full **working drafts** of the app-specific **Datenschutzerklärungen** and **Nutzungsbedingungen**, not checklists. They include the responsible Austrian provider, actual identified data categories, the relevant store/SDK providers, legal bases and user rights. They have not been published to the live legal website.
-
-**Publication restriction:** The documents deliberately contain **[VOR VERÖFFENTLICHUNG]** markers where material facts cannot be inferred reliably from source (such as diagnostic retention, mediation partners and actual store-product terms). Confirm them, delete editorial notes, and have legally sensitive clauses reviewed before using these texts as binding statements. **Selfie Diary and VPN & Proxy Detector** require source identification before they can be published.
+These files contain the individual **Datenschutzerklärungen** and **Nutzungsbedingungen**, without technical editorial instructions inside the app-facing text. The separate [internal verification log](../INTERNAL_OPEN_QUESTIONS.md) identifies facts that still need confirmation. They have not replaced the live privacy pages.
 
 **[What was changed after comparing the real Austrian/EU policies](REFERENCE_COMPARISON.md)** — source-by-source comparison and finalization blockers.
 
