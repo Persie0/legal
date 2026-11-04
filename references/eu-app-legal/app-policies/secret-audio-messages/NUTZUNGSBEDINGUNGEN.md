@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Secret Audio Messages"
+package_id: "at.austriao.secret_audio_message"
+title: "Nutzungsbedingungen – Secret Audio Messages"
+permalink: /terms/secret-audio-messages/
+---
+
 # Nutzungsbedingungen – Secret Audio Messages
 
 ## Anbieter und Geltung
@@ -13,4 +22,4 @@ Die Rechte an eigenen Nachrichten bleiben beim jeweiligen Berechtigten. Fremde A
 Audioqualität und Erkennung können durch Geräteeigenschaften und Umgebungsgeräusche eingeschränkt werden. Notwendige Sicherheitsupdates können bereitgestellt werden. Zwingende Gewährleistungs-, Schadenersatz- und Rücktrittsrechte bleiben bestehen.
 
 ## Datenschutz und Kontakt
-Die [Datenschutzerklärung](DATENSCHUTZ.md) erklärt die Verarbeitung von Texten und Audiosignalen. Für Support: [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/secret-audio-messages/DATENSCHUTZ.md) erklärt die Verarbeitung von Texten und Audiosignalen. Für Support: [persie0@protonmail.com](mailto:persie0@protonmail.com).

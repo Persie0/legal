@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "NomadRank: Rate Visited Places"
+package_id: "at.persie0.nomadrank"
+title: "Nutzungsbedingungen – NomadRank: Rate Visited Places"
+permalink: /terms/nomadrank/
+---
+
 # Nutzungsbedingungen – NomadRank
 
 ## 1. Vertragspartner und Geltungsbereich
@@ -22,4 +31,4 @@ Eine App kann wegen Betriebssystemänderungen oder Störungen bei freiwillig ver
 
 ## 6. Verbraucherrechte und Support
 
-Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](DATENSCHUTZ.md); selbst gespeicherte Exporte oder Cloud-Kopien sind gegebenenfalls gesondert zu löschen.
+Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/nomadrank/DATENSCHUTZ.md); selbst gespeicherte Exporte oder Cloud-Kopien sind gegebenenfalls gesondert zu löschen.

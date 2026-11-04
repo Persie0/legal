@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Background Noise Remover"
+package_id: "at.persie0.noise_remover"
+title: "Nutzungsbedingungen – Background Noise Remover"
+permalink: /terms/background-noise-remover/
+---
+
 # Nutzungsbedingungen – Background Noise Remover
 
 ## Anbieter und Anwendungsbereich
@@ -30,4 +39,4 @@ Gesetzliche Ansprüche bei mangelhaften digitalen Leistungen, Schadenersatz und 
 
 ## Datenschutz und Beendigung
 
-Die [app-spezifische Datenschutzerklärung](DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.
+Die [app-spezifische Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/background-noise-remover/DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.

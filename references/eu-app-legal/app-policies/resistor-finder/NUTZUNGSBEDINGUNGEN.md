@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Resistor Finder"
+package_id: "at.austriao.resistor_calc"
+title: "Nutzungsbedingungen – Resistor Finder"
+permalink: /terms/resistor-finder/
+---
+
 # Nutzungsbedingungen – Resistor Finder
 
 ## Anbieter, Store und Lizenz
@@ -26,4 +35,4 @@ Technische Updates können erforderlich werden, um Fehler zu beheben oder Sicher
 
 ## Datenschutz, Datenlöschung und Support
 
-Die [Datenschutzerklärung](DATENSCHUTZ.md) nennt die beim Gerätetest beziehungsweise bei der Berechnung relevanten Daten, Empfänger und Löschmöglichkeiten. Bitte richten Sie Beschwerden oder Fragen an [persie0@protonmail.com](mailto:persie0@protonmail.com). Selbst exportierte Dateien oder bestehende Store-Abonnements werden durch eine App-Deinstallation nicht automatisch gelöscht beziehungsweise gekündigt.
+Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/resistor-finder/DATENSCHUTZ.md) nennt die beim Gerätetest beziehungsweise bei der Berechnung relevanten Daten, Empfänger und Löschmöglichkeiten. Bitte richten Sie Beschwerden oder Fragen an [persie0@protonmail.com](mailto:persie0@protonmail.com). Selbst exportierte Dateien oder bestehende Store-Abonnements werden durch eine App-Deinstallation nicht automatisch gelöscht beziehungsweise gekündigt.

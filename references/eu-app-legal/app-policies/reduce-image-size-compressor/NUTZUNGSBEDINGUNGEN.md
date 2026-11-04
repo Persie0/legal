@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Reduce Image Size - Compressor"
+package_id: "at.persie0.image_compress"
+title: "Nutzungsbedingungen – Reduce Image Size - Compressor"
+permalink: /terms/reduce-image-size-compressor/
+---
+
 # Nutzungsbedingungen – Reduce Image Size – Compressor
 
 ## Anbieter
@@ -22,4 +31,4 @@ Fehlerkorrekturen oder technische Sicherheitsupdates können zur Aufrechterhaltu
 
 ## Datenschutz und Hilfe
 
-Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert, welche lokalen und technischen Daten die App verarbeitet. Eigene Exporte können nach Deinstallation weiter am gewählten Speicherort verbleiben. Supportanfragen und Beschwerden erreichen uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/reduce-image-size-compressor/DATENSCHUTZ.md) erläutert, welche lokalen und technischen Daten die App verarbeitet. Eigene Exporte können nach Deinstallation weiter am gewählten Speicherort verbleiben. Supportanfragen und Beschwerden erreichen uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).

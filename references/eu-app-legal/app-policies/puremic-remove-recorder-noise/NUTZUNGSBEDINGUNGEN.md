@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "PureMic: Remove Recorder Noise"
+package_id: "at.persie0.recordernoiseremover"
+title: "Nutzungsbedingungen – PureMic: Remove Recorder Noise"
+permalink: /terms/puremic-remove-recorder-noise/
+---
+
 # Nutzungsbedingungen – PureMic
 
 ## Anbieter
@@ -26,4 +35,4 @@ Fehlerkorrekturen oder technische Sicherheitsupdates können zur Aufrechterhaltu
 
 ## Datenschutz und Hilfe
 
-Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert, welche lokalen und technischen Daten die App verarbeitet. Eigene Exporte können nach Deinstallation weiter am gewählten Speicherort verbleiben. Supportanfragen und Beschwerden erreichen uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/puremic-remove-recorder-noise/DATENSCHUTZ.md) erläutert, welche lokalen und technischen Daten die App verarbeitet. Eigene Exporte können nach Deinstallation weiter am gewählten Speicherort verbleiben. Supportanfragen und Beschwerden erreichen uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).

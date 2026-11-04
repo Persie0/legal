@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Memory Palace Training"
+package_id: "com.austriao.memory_palace_builder"
+title: "Nutzungsbedingungen – Memory Palace Training"
+permalink: /terms/memory-palace-training/
+---
+
 # Nutzungsbedingungen – Memory Palace Training
 
 ## Anbieter
@@ -28,4 +37,4 @@ Bei kostenlosen Funktionen können Anzeigen, darunter freiwillige Werbevideos, v
 
 Sicherheits- und Kompatibilitätsupdates können nötig sein. Soweit eine Funktion Vertragsinhalt ist, bleiben Ihre gesetzlichen Ansprüche auf vertragsgemäße digitale Leistungen und die vorgesehenen Abhilfen bestehen. Eine allgemeine Freizeichnung für gesetzlich zwingende Haftung ist nicht vereinbart.
 
-Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/memory-palace-training/DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).

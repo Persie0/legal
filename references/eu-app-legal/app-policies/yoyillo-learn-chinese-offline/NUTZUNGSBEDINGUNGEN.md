@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Yoyillo: Learn Chinese Offline"
+package_id: "at.persie0.hanziHero"
+title: "Nutzungsbedingungen – Yoyillo: Learn Chinese Offline"
+permalink: /terms/yoyillo-learn-chinese-offline/
+---
+
 # Nutzungsbedingungen – Yoyillo: Learn Chinese Offline
 
 ## Anbieter und Lizenz
@@ -13,4 +22,4 @@ Für angebotene Pro-Funktionen werden Preise, gegebenenfalls Probezeit, Laufzeit
 Sie behalten Ihre Rechte an eigenen Lern-/Videodateien. Für fremde Inhalte benötigen Sie die passenden Nutzungsrechte. Exporte sowie bei freiwillig aktivierter Synchronisierung vorhandene Cloudkopien können nach Deinstallation bestehen bleiben. Dienste externer Anbieter können zusätzlich eigene Bedingungen haben.
 
 ## Updates, Verbraucherrechte und Support
-Sicherheits- oder Kompatibilitätsupdates können notwendig sein. Zwingende Ansprüche bei mangelhaft bereitgestellten digitalen Leistungen und gesetzlich vorgesehene Haftung werden nicht ausgeschlossen. Zur Datenverarbeitung siehe [Datenschutzerklärung](DATENSCHUTZ.md). Für Fragen: [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Sicherheits- oder Kompatibilitätsupdates können notwendig sein. Zwingende Ansprüche bei mangelhaft bereitgestellten digitalen Leistungen und gesetzlich vorgesehene Haftung werden nicht ausgeschlossen. Zur Datenverarbeitung siehe [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/yoyillo-learn-chinese-offline/DATENSCHUTZ.md). Für Fragen: [persie0@protonmail.com](mailto:persie0@protonmail.com).

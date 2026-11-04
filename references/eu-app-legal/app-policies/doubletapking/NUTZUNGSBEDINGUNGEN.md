@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "DoubleTapKing - Clicking Game"
+package_id: "at.austriao.double_tap_king"
+title: "Nutzungsbedingungen – DoubleTapKing - Clicking Game"
+permalink: /terms/doubletapking/
+---
+
 # Nutzungsbedingungen – DoubleTapKing
 
 ## 1. Anbieter
@@ -22,4 +31,4 @@ Wir können kompatible Aktualisierungen zur Fehlerbehebung und Sicherheit bereit
 
 ## 6. Datenschutz und Support
 
-Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert die Datenverarbeitung. Fragen und Supportanfragen richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/doubletapking/DATENSCHUTZ.md) erläutert die Datenverarbeitung. Fragen und Supportanfragen richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com).

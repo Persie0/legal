@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Photo Print Size Editor"
+package_id: "at.persie0.imageprintsize"
+title: "Nutzungsbedingungen – Photo Print Size Editor"
+permalink: /terms/photo-print-size-editor/
+---
+
 # Nutzungsbedingungen – Photo Print Size Editor
 
 ## 1. Vertragspartner und Geltungsbereich
@@ -18,4 +27,4 @@ Eine App kann wegen Betriebssystemänderungen oder Störungen bei freiwillig ver
 
 ## 6. Verbraucherrechte und Support
 
-Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](DATENSCHUTZ.md); selbst gespeicherte Exporte oder Cloud-Kopien sind gegebenenfalls gesondert zu löschen.
+Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/photo-print-size-editor/DATENSCHUTZ.md); selbst gespeicherte Exporte oder Cloud-Kopien sind gegebenenfalls gesondert zu löschen.

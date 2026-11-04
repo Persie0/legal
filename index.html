@@ -1,0 +1,14 @@
+---
+layout: legal
+title: "App Terms of Service"
+description: "Terms of Service for individual Persie0 apps."
+permalink: /
+---
+<h1>Nutzungsbedingungen für Persie0-Apps</h1>
+<p>Wählen Sie die App aus, deren Nutzungsbedingungen Sie lesen möchten. Jede App hat ein eigenes Dokument. Die Texte sind derzeit auf Deutsch verfügbar.</p>
+{% assign apps = site.pages | where: "legal_kind", "terms" | sort: "app_name" %}
+<ul class="apps">
+  {% for app in apps %}
+  <li><a href="{{ app.url | relative_url }}">{{ app.app_name | escape }}</a>{% if app.package_id %}<div class="meta">Google Play · {{ app.package_id | escape }}</div>{% else %}<div class="meta">macOS</div>{% endif %}</li>
+  {% endfor %}
+</ul>

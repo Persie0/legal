@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Fake Location Detector"
+package_id: "at.austriao.fake_gps_detector_app"
+title: "Nutzungsbedingungen – Fake Location Detector"
+permalink: /terms/fake-location-detector/
+---
+
 # Nutzungsbedingungen – Fake Location Detector
 
 ## Anbieter und Anwendungsbereich
@@ -30,4 +39,4 @@ Gesetzliche Ansprüche bei mangelhaften digitalen Leistungen, Schadenersatz und 
 
 ## Datenschutz und Beendigung
 
-Die [app-spezifische Datenschutzerklärung](DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.
+Die [app-spezifische Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/fake-location-detector/DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.

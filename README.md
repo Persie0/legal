@@ -88,3 +88,16 @@ See **[references/eu-app-legal/](references/eu-app-legal/)** for Austrian and ot
 ### Full app-specific legal text drafts
 
 [Open all 32 written privacy policies and terms](references/eu-app-legal/app-policies/README.md). Each app has its own editable German Datenschutzerklärung and Nutzungsbedingungen; the folder also contains a common Impressum and special documents for account deletion, health consent and advertising. **These are unapproved drafts with outstanding verification markers, not live policies.**
+
+
+## App-specific Google Play Terms of Service URLs
+
+This repository contains individual terms for all 31 Google Play production apps and the macOS-only Video Upscaler. The GitHub Pages source is **the main branch, root directory**, using Jekyll without a custom GitHub Actions workflow.
+
+- Site: https://persie0.github.io/legal/
+- App URL format: `https://persie0.github.io/legal/terms/<app-slug>/` (for example, `https://persie0.github.io/legal/terms/background-noise-remover/`).
+- **Deployment prerequisite:** Repository **Settings → Pages → Build and deployment → Deploy from a branch → main → / (root)**. Until Pages is configured and successfully deployed, these are intended URLs, **not verified working links**.
+- App-specific legal text is maintained in `references/eu-app-legal/app-policies/<app-slug>/NUTZUNGSBEDINGUNGEN.md`; the Pages output reuses those documents, so edits do not require duplicating the legal wording.
+- **Legal review is still required** before putting the URLs in Play Console. The existing texts are drafts; check actual production features, products/renewals and the internal unresolved issues in `references/eu-app-legal/INTERNAL_OPEN_QUESTIONS.md`. GitHub Pages generation is not a legal compliance audit.
+- The currently linked app-specific privacy documents are research drafts and must **not** replace verified, deployed privacy-policy links without separate review.
+

@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "MoWa: Language Learning"
+package_id: "at.austriao.mowa"
+title: "Nutzungsbedingungen – MoWa: Language Learning"
+permalink: /terms/mowa-language-learning/
+---
+
 # Nutzungsbedingungen – MoWa: Language Learning
 
 ## Anbieter
@@ -20,4 +29,4 @@ Soweit freiwillige Cloud-, Übersetzungs- oder externe Inhaltsdienste verwendet 
 
 Sicherheits- und Kompatibilitätsupdates können nötig sein. Soweit eine Funktion Vertragsinhalt ist, bleiben Ihre gesetzlichen Ansprüche auf vertragsgemäße digitale Leistungen und die vorgesehenen Abhilfen bestehen. Eine allgemeine Freizeichnung für gesetzlich zwingende Haftung ist nicht vereinbart.
 
-Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/mowa-language-learning/DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
