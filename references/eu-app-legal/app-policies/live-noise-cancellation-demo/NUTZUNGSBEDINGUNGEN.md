@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Live Noise Cancellation Demo"
+package_id: "at.austriao.live_noise_cancelling"
+title: "Nutzungsbedingungen – Live Noise Cancellation Demo"
+permalink: /terms/live-noise-cancellation-demo/
+---
+
 # Nutzungsbedingungen – Live Noise Cancellation Demo
 
 ## Anbieter
@@ -24,4 +33,4 @@ Bei kostenlosen Funktionen können Anzeigen, darunter freiwillige Werbevideos, v
 
 Sicherheits- und Kompatibilitätsupdates können nötig sein. Soweit eine Funktion Vertragsinhalt ist, bleiben Ihre gesetzlichen Ansprüche auf vertragsgemäße digitale Leistungen und die vorgesehenen Abhilfen bestehen. Eine allgemeine Freizeichnung für gesetzlich zwingende Haftung ist nicht vereinbart.
 
-Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/live-noise-cancellation-demo/DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
