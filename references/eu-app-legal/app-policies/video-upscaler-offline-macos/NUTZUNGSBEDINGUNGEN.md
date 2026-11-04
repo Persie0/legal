@@ -1,3 +1,11 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Video Upscaler Offline (macOS)"
+title: "Nutzungsbedingungen – Video Upscaler Offline (macOS)"
+permalink: /terms/video-upscaler-offline-macos/
+---
+
 # Nutzungsbedingungen – Video Upscaler Offline (macOS)
 
 ## Anbieter und Lizenz
@@ -13,4 +21,4 @@ Der Mac App Store zeigt die tatsächlich angebotenen kostenpflichtigen Produkte 
 Sie behalten Ihre Rechte an eigenen Lern-/Videodateien. Für fremde Inhalte benötigen Sie die passenden Nutzungsrechte. Exporte sowie bei freiwillig aktivierter Synchronisierung vorhandene Cloudkopien können nach Deinstallation bestehen bleiben. Dienste externer Anbieter können zusätzlich eigene Bedingungen haben.
 
 ## Updates, Verbraucherrechte und Support
-Sicherheits- oder Kompatibilitätsupdates können notwendig sein. Zwingende Ansprüche bei mangelhaft bereitgestellten digitalen Leistungen und gesetzlich vorgesehene Haftung werden nicht ausgeschlossen. Zur Datenverarbeitung siehe [Datenschutzerklärung](DATENSCHUTZ.md). Für Fragen: [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Sicherheits- oder Kompatibilitätsupdates können notwendig sein. Zwingende Ansprüche bei mangelhaft bereitgestellten digitalen Leistungen und gesetzlich vorgesehene Haftung werden nicht ausgeschlossen. Zur Datenverarbeitung siehe [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/video-upscaler-offline-macos/DATENSCHUTZ.md). Für Fragen: [persie0@protonmail.com](mailto:persie0@protonmail.com).

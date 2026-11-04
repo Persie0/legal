@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "VPN & Proxy Detector"
+package_id: "at.persie0.vpn_proxy_detector"
+title: "Nutzungsbedingungen – VPN & Proxy Detector"
+permalink: /terms/vpn-proxy-detector/
+---
+
 # Nutzungsbedingungen – VPN & Proxy Detector
 
 ## Anbieter
@@ -10,4 +19,4 @@ Die App ist zur Prüfung von Anzeichen einer VPN- oder Proxy-Konfiguration gedac
 Die Verwendung erfolgt entsprechend den rechtmäßigen Store-Lizenzbedingungen. Verbraucherrechte und gesetzlich zulässige technische Nutzung bleiben erhalten. Eine zusätzliche individuelle Lizenzvereinbarung wird hiermit nicht fingiert.
 
 ## Updates und Support
-Technische Aktualisierungen können erforderlich werden. Gesetzlich zwingende Gewährleistungs- und Schadenersatzrechte bleiben bestehen. Support: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die [Datenschutzerklärung](DATENSCHUTZ.md) enthält Informationen über eine mögliche Verarbeitung von Netzwerkdaten.
+Technische Aktualisierungen können erforderlich werden. Gesetzlich zwingende Gewährleistungs- und Schadenersatzrechte bleiben bestehen. Support: [persie0@protonmail.com](mailto:persie0@protonmail.com). Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/vpn-proxy-detector/DATENSCHUTZ.md) enthält Informationen über eine mögliche Verarbeitung von Netzwerkdaten.

@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Selfie Diary"
+package_id: "com.persie0.selfie_diary"
+title: "Nutzungsbedingungen – Selfie Diary"
+permalink: /terms/selfie-diary/
+---
+
 # Nutzungsbedingungen – Selfie Diary
 
 ## 1. Anbieter
@@ -13,4 +22,4 @@ Eine rechtmäßige Nutzung ist nach den jeweils eingeräumten Store-Lizenzbeding
 Wir können notwendige Sicherheits- und Kompatibilitätsupdates bereitstellen. Gesetzlich geschuldete Eigenschaften digitaler Leistungen und zwingende Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz werden nicht ausgeschlossen. Fremde Inhalte können vorübergehend unerreichbar sein; gesetzliche Ansprüche bei einer vertraglich geschuldeten Funktion bleiben bestehen.
 
 ## 5. Datenschutz und Support
-Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert die Datenverarbeitung. Für Fragen oder Beschwerden kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Exporte und fremde Cloud-Daten werden nicht immer durch das Entfernen der App beseitigt.
+Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/selfie-diary/DATENSCHUTZ.md) erläutert die Datenverarbeitung. Für Fragen oder Beschwerden kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Exporte und fremde Cloud-Daten werden nicht immer durch das Entfernen der App beseitigt.
