@@ -1,0 +1,8 @@
+title: "Persie0 App Legal"
+description: "App-specific terms of service for Persie0 apps"
+url: "https://persie0.github.io"
+baseurl: "/legal"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - references/eu-app-legal/INTERNAL_OPEN_QUESTIONS.md

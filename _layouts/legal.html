@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <title>{{ page.title | default: site.title | escape }} · Persie0</title>
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/legal.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="container" aria-label="Hauptnavigation">
+      <a class="brand" href="{{ '/' | relative_url }}">Persie0 · Legal</a>
+      <a href="{{ '/' | relative_url }}">Alle Apps</a>
+      <a href="https://persie0.github.io/translations_imprint/imprint-de.html">Impressum</a>
+    </nav>
+  </header>
+  <main class="container document" id="main-content">
+    {% if page.legal_kind == 'terms' %}
+      <p class="eyebrow">App-spezifische Nutzungsbedingungen</p>
+    {% endif %}
+    {{ content }}
+  </main>
+  <footer class="container site-footer">
+    <p>Marvin Perzi (Persie0) · <a href="mailto:persie0@protonmail.com">Kontakt</a> · <a href="https://persie0.github.io/translations_imprint/imprint-de.html">Impressum</a></p>
+  </footer>
+</body>
+</html>
