@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "Finger Chooser (+cheat mode)"
+package_id: "at.persie0.finger_chooser"
+title: "Nutzungsbedingungen – Finger Chooser (+cheat mode)"
+permalink: /terms/finger-chooser/
+---
+
 # Nutzungsbedingungen – Finger Chooser
 
 ## Anbieter und Anwendungsbereich
@@ -20,4 +29,4 @@ Gesetzliche Ansprüche bei mangelhaften digitalen Leistungen, Schadenersatz und 
 
 ## Datenschutz und Beendigung
 
-Die [app-spezifische Datenschutzerklärung](DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.
+Die [app-spezifische Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/finger-chooser/DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.
