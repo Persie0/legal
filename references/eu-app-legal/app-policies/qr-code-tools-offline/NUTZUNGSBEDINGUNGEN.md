@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: terms
+app_name: "QR Code Tools (Offline)"
+package_id: "at.austrianapps.qr_code_scanner"
+title: "Nutzungsbedingungen – QR Code Tools (Offline)"
+permalink: /terms/qr-code-tools-offline/
+---
+
 # Nutzungsbedingungen – QR Code Tools
 
 ## Anbieter
@@ -18,4 +27,4 @@ Fehlerkorrekturen oder technische Sicherheitsupdates können zur Aufrechterhaltu
 
 ## Datenschutz und Hilfe
 
-Die [Datenschutzerklärung](DATENSCHUTZ.md) erläutert, welche lokalen und technischen Daten die App verarbeitet. Eigene Exporte können nach Deinstallation weiter am gewählten Speicherort verbleiben. Supportanfragen und Beschwerden erreichen uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/qr-code-tools-offline/DATENSCHUTZ.md) erläutert, welche lokalen und technischen Daten die App verarbeitet. Eigene Exporte können nach Deinstallation weiter am gewählten Speicherort verbleiben. Supportanfragen und Beschwerden erreichen uns unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
