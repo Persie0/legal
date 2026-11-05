@@ -1,13 +1,13 @@
 # Reference comparison and redrafting decisions
 
-**16 October 2026** · Companion to the [32 policy/terms pairs](README.md)
+**16 October 2026 · restructuring pass 5 November 2026** · Companion to the [32 policy/terms pairs](README.md)
 
 The previous drafts were replaced after a closer reading of **real Austrian/EU publisher policies**, particularly:
 
 | Real publisher document | Useful structural model | How this was adapted for Persie0 |
 | --- | --- | --- |
 | [ÖAMTC – privacy for its specific app](https://www.oeamtc.at/mitgliedschaft/leistungen/datenschutzerklaerung-oeamtc-app-28493389) | Specific app scope, local/location processing, purposes, legal grounds, retention, registration/deletion and complaints | Each draft names its **own** app and separates local processing and external data flows; location only appears in relevant apps |
-| [Photoroom – privacy policy](https://www.photoroom.com/legal/privacy) | **Purpose / data / legal basis / retention** table and named recipient classes | Each new `DATENSCHUTZ.md` contains a purpose-by-purpose table populated from relevant source/service inventory; external vendors also have dedicated descriptions |
+| [Photoroom – privacy policy](https://www.photoroom.com/legal/privacy) | **Purpose / data / legal basis / retention** coverage and named recipient classes | Each `DATENSCHUTZ.md` presents every purpose as its own block with Daten, Zweck, Rechtsgrundlage, Empfänger and Speicherdauer bullets; the earlier table layout was replaced by these purpose blocks (list form preferred by the operator); external vendors also have dedicated descriptions |
 | [Auphonic – privacy](https://eu1.auphonic.com/privacy) | Distinction among media content, account data, external service tokens, subscriptions and provider roles | Noise Remover and PureMic distinguish audio processed on-device from payments, advertising and diagnostics; media is not assumed uploaded merely because network SDKs exist |
 | [willhaben – privacy](https://www.willhaben.at/iad/datenschutzerklaerung) | Specific account/social-processing disclosures, advertising and consent discussions | NomadRank has social sharing/account-specific language, and ad-supported apps explain that consent is a separate act from an EULA |
 | [Bitpanda – Group Privacy Notice](https://www.bitpanda.com/de/legal/bitpanda-group-privacy-notice) | Structured explanations of the legal basis and the reason for requesting information | Avoids claiming that every app collects every kind of data; local calculators/games have much narrower drafts |
@@ -18,7 +18,7 @@ The previous drafts were replaced after a closer reading of **real Austrian/EU p
 
 ## What materially changed
 
-- The **32 Datenschutzerklärungen** now have purpose/data/legal-basis/retention tables, relevant provider-level subsections, and distinct descriptions of local data and internet requests.
+- The **32 Datenschutzerklärungen** follow one ten-section skeleton (1 Geltungsbereich, 2 Verantwortlicher, 3 Kurzübersicht, 4 Datenverarbeitung nach Zwecken, 5 Verarbeitung auf dem Gerät und Berechtigungen, 6 Externe Dienste und Empfänger, 7 Speicherdauer und Löschung, 8 Übermittlung in Drittländer, 9 Ihre Rechte, 10 Kinder, Sicherheit und Aktualisierung) aligned with the recommended structure in [APP_LEGAL_REQUIREMENTS_AT_EU.md](../APP_LEGAL_REQUIREMENTS_AT_EU.md) §2; each processing purpose is a bullet block instead of a table.
 - The **32 Nutzungsbedingungen** were rewritten around actual app functions and the relevant payment/consent/account distinctions rather than assuming every app needs an oversized EULA.
 - The **Austrian Impressum URL** in the new texts is the actual [published page](https://persie0.github.io/translations_imprint/imprint-de.html), not the broken shortcut path used in the previous drafts.
 - The app-checklist index points directly to existing app files and to all Android Play listings.
@@ -27,6 +27,18 @@ The previous drafts were replaced after a closer reading of **real Austrian/EU p
 - For **NomadRank**, authentication and the app-operated Oracle backend are separate recipients; sharing and account deletion require their own treatment.
 - For **Vitamin D Tracker**, health records, weather requests, and optional cloud backups require separate treatment; Article 9 must not be presented as a universal rule for purely private on-device computations.
 - For **Selfie Diary** and **VPN & Proxy Detector**, the exact published source remains unidentified, so these cannot be truthfully finalized.
+
+## Restructuring pass — 5 November 2026
+
+All 32 `DATENSCHUTZ.md` drafts were restructured to the shared skeleton above. All wording is original German drafting; no reference-publisher text was copied.
+
+- **Lists instead of tables:** the purpose/data/legal-basis/retention tables were replaced by one block per processing purpose with bullets (Daten, Zweck, Rechtsgrundlage, Empfänger, Speicherdauer). Device and permission notes are bullet lists as well.
+- **New Kurzübersicht (§3):** each policy opens with a short at-a-glance list of what stays on-device, which optional services exist and where diagnostics go.
+- **Deduplicated recipients (§6):** the old section combined an "Anzeigenanbieter" list with a second near-identical "Advertising (Appodeal)" block; these were merged into one service block that references §4 for data and legal basis instead of repeating it. Empty stub sections and per-vendor purpose/data/legal-basis repetitions were removed; service blocks now keep only recipient-specific facts (links, hosting location, retention details).
+- **Concrete third-country statements (§8):** the generic "manche Dienstleister können Informationen außerhalb des EWR speichern" boilerplate was replaced with app-specific statements naming which recipients can process data outside the EEA (Appodeal partner networks, RevenueCat, Sentry.io, GitHub, Google/Apple, Microsoft, external websites) and stating that the self-operated GlitchTip installation in Frankfurt am Main involves no third-country transfer. Apps with no external services say so explicitly.
+- **Diagnostics recipients now app-specific:** Sentry.io apps (Finger Chooser, Live Noise Cancellation Demo, MoWa, Pareader, Recipe Price Calculator, Screenshot Detector, UniMinder) reference Sentry's own agreed retention rules rather than the self-hosted 14-day GlitchTip figure; GlitchTip apps keep the Frankfurt 14-day statement.
+- **Terms fixes:** numbering gaps in Neon Snake and Photo Print Size Editor (3 → 5 → 6) were corrected to sequential numbering; the irrelevant content-rights clause was removed from the Neon Snake game terms.
+- **Conventions:** `**Stand:** 5. November 2026` under the title; §9 lists rights, revocation, the complaint route (DSB) and contact; §10 covers children, security and updates.
 
 ## Publication blockers
 
