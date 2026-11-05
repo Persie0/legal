@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "3D Face Model Maker"
+package_id: "at.austriao.face_scanner"
+title: "Datenschutzerklärung – 3D Face Model Maker"
+permalink: /privacy/3d-face-model-maker/
+---
+
 # Datenschutzerklärung für 3D Face Model Maker
 
 **Stand:** 5. November 2026

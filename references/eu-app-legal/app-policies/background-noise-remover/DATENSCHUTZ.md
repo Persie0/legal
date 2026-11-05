@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "Background Noise Remover"
+package_id: "at.persie0.noise_remover"
+title: "Datenschutzerklärung – Background Noise Remover"
+permalink: /privacy/background-noise-remover/
+---
+
 # Datenschutzerklärung für Background Noise Remover
 
 **Stand:** 5. November 2026

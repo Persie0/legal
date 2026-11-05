@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Arbitrage Betting Calculator"
+package_id: "at.persie0.surebets_calculator"
+title: "Privacy Policy – Arbitrage Betting Calculator (English)"
+permalink: /privacy/arbitrage-betting-calculator/en/
+---
+
 # Privacy Policy for Arbitrage Betting Calculator
 
 **Last updated:** 5 November 2026

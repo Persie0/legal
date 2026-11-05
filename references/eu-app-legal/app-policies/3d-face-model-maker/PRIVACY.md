@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "3D Face Model Maker"
+package_id: "at.austriao.face_scanner"
+title: "Privacy Policy – 3D Face Model Maker (English)"
+permalink: /privacy/3d-face-model-maker/en/
+---
+
 # Privacy Policy for 3D Face Model Maker
 
 **Last updated:** 5 November 2026

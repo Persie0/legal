@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Boost Phone Audio Volume"
+package_id: "com.persie0.audiobooster"
+title: "Privacy Policy – Boost Phone Audio Volume (English)"
+permalink: /privacy/boost-phone-audio-volume/en/
+---
+
 # Privacy Policy for Boost Phone Audio Volume
 
 **Last updated:** 5 November 2026

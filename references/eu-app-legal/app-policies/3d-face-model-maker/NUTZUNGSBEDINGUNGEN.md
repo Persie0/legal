@@ -39,4 +39,4 @@ Gesetzliche Ansprüche bei mangelhaften digitalen Leistungen, Schadenersatz und 
 
 ## Datenschutz und Beendigung
 
-Die [app-spezifische Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/3d-face-model-maker/DATENSCHUTZ.md) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.
+Die [app-spezifische Datenschutzerklärung](https://persie0.github.io/legal/privacy/3d-face-model-maker/) erläutert Datenkategorien, Empfänger und Löschung. Ein Löschen der App entfernt nicht automatisch selbst exportierte Dateien, optionale externe Sicherungen oder laufende Store-Abonnements.

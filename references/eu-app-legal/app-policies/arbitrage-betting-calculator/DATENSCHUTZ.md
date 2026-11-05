@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "Arbitrage Betting Calculator"
+package_id: "at.persie0.surebets_calculator"
+title: "Datenschutzerklärung – Arbitrage Betting Calculator"
+permalink: /privacy/arbitrage-betting-calculator/
+---
+
 # Datenschutzerklärung für Arbitrage Betting Calculator
 
 **Stand:** 5. November 2026
