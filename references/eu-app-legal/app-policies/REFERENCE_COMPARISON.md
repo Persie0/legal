@@ -40,6 +40,10 @@ All 32 `DATENSCHUTZ.md` drafts were restructured to the shared skeleton above. A
 - **Terms fixes:** numbering gaps in Neon Snake and Photo Print Size Editor (3 → 5 → 6) were corrected to sequential numbering; the irrelevant content-rights clause was removed from the Neon Snake game terms.
 - **Conventions:** `**Stand:** 5. November 2026` under the title; §9 lists rights, revocation, the complaint route (DSB) and contact; §10 covers children, security and updates.
 
+## English drafts — 5 November 2026
+
+Each app folder additionally contains an English translation pair: `PRIVACY.md` (privacy policy, same ten-section skeleton) and `TERMS.md` (terms of service, `legal_kind: terms-en`, served at `/terms/<app-slug>/en/`). The English texts are original translations written for this project; no reference-publisher wording was copied. They mirror the restructured German drafts — per-purpose bullet blocks, Kurzübersicht, deduplicated recipients, concrete third-country statements — and remain unpublished working texts like the German drafts. The root index [APP_POLICY_LINKS.md](../../APP_POLICY_LINKS.md) links every app to its live-website policy URLs (privacy, terms DE, terms EN).
+
 ## Publication blockers
 
 These are **working legal texts** rather than production-approved policies. Their internal markers are an intentional warning, not an invitation to publish them unchanged.

@@ -2,6 +2,8 @@
 
 These are the intended GitHub Pages URLs for the existing German Terms of Service. **Enable Pages on `main` → `/ (root)` before using them in store dashboards.** Existing terms must be checked against the released app and legal obligations before submission. The URLs are not verified as live until Pages has deployed.
 
+**English versions:** each app also has an English terms draft (`TERMS.md`, `legal_kind: terms-en`) served at the German URL with `en/` appended, e.g. https://persie0.github.io/legal/terms/neon-snake/en/. The English privacy drafts (`PRIVACY.md`) are not Jekyll pages; they live in the app folders under `references/eu-app-legal/app-policies/`. Live-website links for every app (privacy, terms DE, terms EN) are indexed in [APP_POLICY_LINKS.md](APP_POLICY_LINKS.md).
+
 | App | Package ID | Terms URL |
 | --- | --- | --- |
 | 3D Face Model Maker | `at.austriao.face_scanner` | https://persie0.github.io/legal/terms/3d-face-model-maker/ |
