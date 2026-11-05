@@ -30,7 +30,7 @@ Processing is organised by function. A distinction must be drawn between purely 
 
 ## 5. On-device processing and permissions
 
-The device storage is used in particular for the following data for the functions you request: undefined. You can remove stored content via the app function offered for that purpose or reset local app data via the operating system. Exported copies may continue to exist outside the app.
+The device storage is used in particular for the following data for the functions you request: entered working time, hourly wage/breaks, local preferences. You can remove stored content via the app function offered for that purpose or reset local app data via the operating system. Exported copies may continue to exist outside the app.
 
 
 

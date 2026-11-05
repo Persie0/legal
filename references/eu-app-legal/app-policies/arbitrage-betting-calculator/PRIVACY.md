@@ -59,7 +59,7 @@ Processing is organised by function. A distinction must be drawn between purely 
 
 ## 5. On-device processing and permissions
 
-The device storage is used in particular for the following data for the functions you request: undefined. You can remove stored content via the app function offered for that purpose or reset local app data via the operating system. Exported copies may continue to exist outside the app.
+The device storage is used in particular for the following data for the functions you request: odds, stakes, calculation results and history, currency, design and consent settings. You can remove stored content via the app function offered for that purpose or reset local app data via the operating system. Exported copies may continue to exist outside the app.
 
 - Network: country/currency localisation, advertising, diagnostics and purchases.
 - Files, where offered: export or import the local history.
