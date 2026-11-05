@@ -42,7 +42,7 @@ All 32 `DATENSCHUTZ.md` drafts were restructured to the shared skeleton above. A
 
 ## English drafts — 5 November 2026
 
-Each app folder additionally contains an English translation pair: `PRIVACY.md` (privacy policy, same ten-section skeleton) and `TERMS.md` (terms of service, `legal_kind: terms-en`, served at `/terms/<app-slug>/en/`). The English texts are original translations written for this project; no reference-publisher wording was copied. They mirror the restructured German drafts — per-purpose bullet blocks, Kurzübersicht, deduplicated recipients, concrete third-country statements — and remain unpublished working texts like the German drafts. The root index [APP_POLICY_LINKS.md](../../APP_POLICY_LINKS.md) links every app to its policy and terms drafts in this repository (privacy and terms, German and English).
+Each app folder additionally contains an English translation pair: `PRIVACY.md` (privacy policy, same ten-section skeleton) and `TERMS.md` (terms of service, `legal_kind: terms-en`, served at `/terms/<app-slug>/en/`). The English texts are original translations written for this project; no reference-publisher wording was copied. They mirror the restructured German drafts — per-purpose bullet blocks, Kurzübersicht, deduplicated recipients, concrete third-country statements — and remain unpublished working texts like the German drafts. The root index [APP_POLICY_LINKS.md](../../APP_POLICY_LINKS.md) links every app to its live-website policy URLs (privacy, terms DE, terms EN).
 
 ## Publication blockers
 
