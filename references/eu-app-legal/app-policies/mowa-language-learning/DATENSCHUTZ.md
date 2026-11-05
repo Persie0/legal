@@ -1,49 +1,80 @@
 # Datenschutzerklärung für MoWa: Language Learning
 
+**Stand:** 5. November 2026
+
 ## 1. Geltungsbereich
 
-Diese Datenschutzerklärung betrifft **MoWa: Language Learning** und beschreibt die Verarbeitung im Zusammenhang mit Lernvokabular und externe Onlineübersetzung. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Bei einer ausdrücklich gestarteten Übersetzung werden gewählte Wörter, Sprachrichtungen und technische Verbindungsdaten an einen Lingva-/SimplyTranslate-Endpunkt übermittelt. 
+Diese Datenschutzerklärung betrifft **MoWa: Language Learning** und beschreibt die Verarbeitung im Zusammenhang mit Lernvokabular und externer Onlineübersetzung. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Bei einer ausdrücklich gestarteten Übersetzung werden gewählte Wörter, Sprachrichtungen und technische Verbindungsdaten an einen Lingva-/SimplyTranslate-Endpunkt übermittelt.
 
 ## 2. Verantwortlicher
 
 **Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-## 3. Datenarten, Zwecke, Grundlagen und Speicherung
+## 3. Kurzübersicht
 
-Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich vom Benutzer lokal ausgeführten Berechnungen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
+- Vokabeln, Lernfortschritt und Übersetzungen bleiben auf Ihrem Gerät; ein Nutzerkonto ist nicht erforderlich.
+- Übersetzungen werden nur auf Ihre Anforderung an den eingestellten Lingva-/SimplyTranslate-Endpunkt übermittelt.
+- In der überprüften Version sind kein Werbe- und kein Zahlungsdienst eingebunden.
+- Fehlerberichte können an Sentry.io übermittelt werden.
 
-| Zweck | Verarbeitete Informationen | Rechtsgrundlage bzw. Verarbeitungsvoraussetzung | Aufbewahrungs-/Löschkriterium |
-| --- | --- | --- | --- |
-| Verwendung der App auf Ihrem Gerät | Wörter und Spracheinstellungen; Lernfortschritt und Übersetzungen | Angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO | Bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren |
-| Technische Fehlerdiagnose | App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten | Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch | Entsprechend den Speicherregeln des beauftragten Diagnosedienstes |
+## 4. Datenverarbeitung nach Zwecken
 
-## 4. Lokale Inhalte und Geräteberechtigungen
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich lokal ausgeführten Vorgängen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: Wörter und Spracheinstellungen, Lernfortschritt und Übersetzungen. Sie können selbst gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
+**Verwendung der App auf Ihrem Gerät**
 
-Es werden keine pauschalen Zugriffsrechte auf sämtliche Dateien oder Sensoren angefordert.
+- Daten: Wörter und Spracheinstellungen; Lernfortschritt und Übersetzungen.
+- Zweck: Bereitstellung der App-Funktion auf Ihrem Gerät.
+- Rechtsgrundlage: von Ihnen angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO.
+- Empfänger: keine; die Daten verbleiben auf Ihrem Gerät.
+- Speicherdauer/Löschung: bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren.
 
-Eine Systemberechtigung erfasst nur den jeweiligen Gerätezugriff und ist keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken.
+**Von Ihnen gestartete Übersetzung durchführen** *(optional)*
 
-## 5. Dienstleister und weitere Empfänger
+- Daten: gewählte Wörter, Sprachrichtungen und technische Verbindungsdaten.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO für die von Ihnen angeforderte Funktion.
+- Empfänger: der in der App eingestellte Lingva-/SimplyTranslate-Endpunkt (siehe Abschnitt 6).
+- Speicherdauer: Persie0 speichert Übersetzungsanfragen nicht; für den Endpunkt gelten dessen eigene Richtlinien.
 
-Für die Kernfunktion wird kein Online-Konto-, Zahlungs- oder Werbedienst verwendet.
+**Technische Fehlerdiagnose**
+
+- Daten: App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch.
+- Empfänger: Sentry.io (Functional Software, Inc.; siehe Abschnitt 6).
+- Speicherdauer: 14 Tage für Fehlerereignisse; für Aufbewahrung und mögliche Übermittlungen außerhalb des EWR gelten die mit Sentry vereinbarten Speicherregeln.
+
+## 5. Verarbeitung auf dem Gerät und Berechtigungen
+
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: Wörter und Spracheinstellungen, Lernfortschritt und Übersetzungen. Sie können gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
+
+Für die angebotenen Funktionen werden keine pauschalen Zugriffsrechte auf alle Dateien oder Sensoren angefordert.
+
+Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken dar.
+
+## 6. Externe Dienste und Empfänger
+
+Für die Kernfunktion wird kein Online-Konto-, Zahlungs- oder Werbedienst verwendet. Externe Verbindungen bestehen nur für die von Ihnen gestartete Übersetzung sowie die Fehlerdiagnose.
+
+### Übersetzungsdienst (Lingva/SimplyTranslate)
+
+Die von Ihnen gestartete Übersetzung sendet die ausgewählten Wörter und Sprachrichtungen an den eingestellten Lingva- oder SimplyTranslate-Endpunkt. Welche Datenschutzhinweise gelten, hängt vom jeweiligen Endpunkt ab.
+
 ### Fehlerberichte (Sentry.io)
 
-Für die Fehlerbehebung kann ein technischer Bericht an Sentry.io (Functional Software, Inc.) gehen. Hierzu können Geräte-/Appversion, Stacktrace, Fehlertext und Netzwerkdaten gehören. 
+Zur Behebung von Programmfehlern kann ein technischer Bericht an Sentry.io (Functional Software, Inc.) übermittelt werden; dazu können Fehlermeldungen, Stacktraces, App- und Betriebssystemversionen sowie technische Verbindungs- und Geräteinformationen gehören. Für Aufbewahrung und mögliche Übermittlungen außerhalb des EWR gelten die mit Sentry vereinbarten Speicherregeln und die gesetzlichen Datenschutzanforderungen. [Datenschutzhinweise von Sentry](https://sentry.io/privacy/)
 
-## 6. Entscheidungen bei Werbung, Käufen oder externen Funktionen
+## 7. Speicherdauer und Löschung
 
-Die Annahme von Nutzungsbedingungen ersetzt keine gegebenenfalls notwendige Einwilligung.
+Lokale Datensätze bleiben bis zu Ihrer Löschung bestehen. Mit dem Zurücksetzen der App-Daten oder der Deinstallation werden die im Gerät gespeicherten Inhalte entfernt; selbst exportierte Kopien bleiben davon unberührt.
 
-## 7. Datenweitergabe, Drittländer und Dauer
+## 8. Übermittlung in Drittländer
 
-Wir geben Daten nur im Rahmen der beschriebenen Vorgänge oder auf Ihre ausdrückliche Veranlassung weiter. Verwendete externe Dienste können Daten außerhalb des EWR verarbeiten. Dafür gelten die Anforderungen von Art. 44 ff. DSGVO, etwa ein einschlägiger Angemessenheitsbeschluss oder geeignete Vertragsgarantien.  Lokale Daten bleiben regelmäßig bis zu Ihrer Löschung bestehen; für Server-/SDK-Daten gelten die jeweils genannten Regeln. Für externe Dienste gelten die in deren Datenschutzhinweisen beschriebenen Aufbewahrungsregeln.
+Übersetzungsanfragen gehen an den eingestellten Lingva-/SimplyTranslate-Endpunkt; je nach Endpunkt kann eine Verarbeitung außerhalb des EWR erfolgen. Fehlerberichte können an Sentry.io übermittelt werden; dabei kann eine Verarbeitung außerhalb des EWR erfolgen. Soweit die DSGVO anwendbar ist, beruhen solche Übermittlungen auf einer zulässigen Grundlage nach Art. 44 ff. DSGVO, etwa einem einschlägigen Angemessenheitsbeschluss oder geeigneten Vertragsgarantien.
 
-## 8. Betroffenenrechte und Löschung
+## 9. Ihre Rechte
 
-Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com). Beachten Sie, dass die Deinstallation nicht automatisch Ihre separat gespeicherten Exporte, Cloud-Kopien oder laufende Abonnements beendet.
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com).
 
-## 9. Sicherheit und Aktualisierung
+## 10. Kinder, Sicherheit und Aktualisierung
 
-Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen. Für Minderjährige gelten die einschlägigen Schutzvorschriften.
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Für Minderjährige gelten die einschlägigen Schutzvorschriften. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen.
