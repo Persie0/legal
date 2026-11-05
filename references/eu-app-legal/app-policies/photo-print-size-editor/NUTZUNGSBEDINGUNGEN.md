@@ -27,4 +27,4 @@ Eine App kann wegen Betriebssystemänderungen oder Störungen zeitweise eingesch
 
 ## 5. Verbraucherrechte und Support
 
-Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/photo-print-size-editor/DATENSCHUTZ.md); selbst gespeicherte Exporte sind gegebenenfalls gesondert zu löschen.
+Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](https://persie0.github.io/legal/privacy/photo-print-size-editor/); selbst gespeicherte Exporte sind gegebenenfalls gesondert zu löschen.

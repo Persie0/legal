@@ -31,4 +31,4 @@ An app may be temporarily limited due to operating-system changes or disruptions
 
 ## 6. Consumer rights and support
 
-These terms do not exclude any statutory claims to warranty, rescission or damages. Statutory consumer provisions take precedence. For support, errors and complaints, [persie0@protonmail.com](mailto:persie0@protonmail.com) is available. The [privacy policy](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/pareader-news-languages/PRIVACY.md) applies to the processing of data; exports or cloud copies you stored yourself may need to be deleted separately.
+These terms do not exclude any statutory claims to warranty, rescission or damages. Statutory consumer provisions take precedence. For support, errors and complaints, [persie0@protonmail.com](mailto:persie0@protonmail.com) is available. The [privacy policy](https://persie0.github.io/legal/privacy/pareader-news-languages/en/) applies to the processing of data; exports or cloud copies you stored yourself may need to be deleted separately.

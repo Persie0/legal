@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "Neon Snake"
+package_id: "at.persie0.neon_snake_matrix"
+title: "Datenschutzerklärung – Neon Snake"
+permalink: /privacy/neon-snake/
+---
+
 # Datenschutzerklärung für Neon Snake
 
 **Stand:** 5. November 2026

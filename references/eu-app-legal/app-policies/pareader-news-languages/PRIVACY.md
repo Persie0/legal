@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Pareader: News & Languages"
+package_id: "at.austriao.pareader"
+title: "Privacy Policy – Pareader: News & Languages (English)"
+permalink: /privacy/pareader-news-languages/en/
+---
+
 # Privacy Policy for Pareader
 
 **Last updated:** 5 November 2026

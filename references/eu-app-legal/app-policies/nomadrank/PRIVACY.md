@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "NomadRank: Rate Visited Places"
+package_id: "at.persie0.nomadrank"
+title: "Privacy Policy – NomadRank: Rate Visited Places (English)"
+permalink: /privacy/nomadrank/en/
+---
+
 # Privacy Policy for NomadRank
 
 **Last updated:** 5 November 2026

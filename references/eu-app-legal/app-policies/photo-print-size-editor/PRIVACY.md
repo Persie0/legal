@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Photo Print Size Editor"
+package_id: "at.persie0.imageprintsize"
+title: "Privacy Policy – Photo Print Size Editor (English)"
+permalink: /privacy/photo-print-size-editor/en/
+---
+
 # Privacy Policy for Photo Print Size Editor
 
 **Last updated:** 5 November 2026

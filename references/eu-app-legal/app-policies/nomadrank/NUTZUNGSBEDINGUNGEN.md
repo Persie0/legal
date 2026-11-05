@@ -31,4 +31,4 @@ Eine App kann wegen Betriebssystemänderungen oder Störungen bei freiwillig ver
 
 ## 6. Verbraucherrechte und Support
 
-Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/nomadrank/DATENSCHUTZ.md); selbst gespeicherte Exporte oder Cloud-Kopien sind gegebenenfalls gesondert zu löschen.
+Diese Bedingungen schließen keine gesetzlich zwingenden Ansprüche auf Gewährleistung, Rücktritt oder Schadenersatz aus. Die gesetzlichen Bestimmungen für Verbraucher haben Vorrang. Für Support, Fehler und Beschwerden ist [persie0@protonmail.com](mailto:persie0@protonmail.com) erreichbar. Zur Verarbeitung von Daten gilt die [Datenschutzerklärung](https://persie0.github.io/legal/privacy/nomadrank/); selbst gespeicherte Exporte oder Cloud-Kopien sind gegebenenfalls gesondert zu löschen.
