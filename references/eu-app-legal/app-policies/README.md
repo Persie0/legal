@@ -4,7 +4,7 @@
 
 These files contain the individual **Datenschutzerklärungen** and **Nutzungsbedingungen**, without technical editorial instructions inside the app-facing text. The separate [internal verification log](../INTERNAL_OPEN_QUESTIONS.md) identifies facts that still need confirmation. They have not replaced the live privacy pages.
 
-**English drafts:** each app folder additionally contains an English translation of both documents: PRIVACY.md (privacy policy) and TERMS.md (terms of service, legal_kind: terms-en, served at /terms/<app-slug>/en/). They mirror the restructured German drafts and are original translations written for this project; no reference-publisher wording was copied. Live-website links per app are indexed in the root [APP_POLICY_LINKS.md](../../APP_POLICY_LINKS.md).
+**English drafts:** each app folder additionally contains an English translation of both documents: PRIVACY.md (privacy policy) and TERMS.md (terms of service, legal_kind: terms-en, served at /terms/<app-slug>/en/). They mirror the restructured German drafts and are original translations written for this project; no reference-publisher wording was copied. Links to each app's policy and terms documents (German and English) are indexed in the root [APP_POLICY_LINKS.md](../../APP_POLICY_LINKS.md).
 
 **[What was changed after comparing the real Austrian/EU policies](REFERENCE_COMPARISON.md)** — source-by-source comparison and finalization blockers.
 
