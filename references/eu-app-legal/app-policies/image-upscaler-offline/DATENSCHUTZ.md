@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "Image Upscaler Offline"
+package_id: "at.persie0.image_enhancer"
+title: "Datenschutzerklärung – Image Upscaler Offline"
+permalink: /privacy/image-upscaler-offline/
+---
+
 # Datenschutzerklärung für Image Upscaler Offline
 
 **Stand:** 5. November 2026

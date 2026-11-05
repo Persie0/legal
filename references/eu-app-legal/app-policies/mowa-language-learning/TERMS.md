@@ -29,4 +29,4 @@ Where voluntary cloud, translation or external content services are used, the te
 
 Security and compatibility updates may be necessary. Insofar as a function is part of the contract, your statutory claims to contractually compliant digital content or services and the remedies provided remain in force. A general exclusion of mandatory statutory liability is not agreed.
 
-The [privacy policy](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/mowa-language-learning/PRIVACY.md) contains details of the processing of your data. Support and complaints: [persie0@protonmail.com](mailto:persie0@protonmail.com).
+The [privacy policy](https://persie0.github.io/legal/privacy/mowa-language-learning/en/) contains details of the processing of your data. Support and complaints: [persie0@protonmail.com](mailto:persie0@protonmail.com).

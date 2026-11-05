@@ -37,4 +37,4 @@ Bei kostenlosen Funktionen können Anzeigen, darunter freiwillige Werbevideos, v
 
 Sicherheits- und Kompatibilitätsupdates können nötig sein. Soweit eine Funktion Vertragsinhalt ist, bleiben Ihre gesetzlichen Ansprüche auf vertragsgemäße digitale Leistungen und die vorgesehenen Abhilfen bestehen. Eine allgemeine Freizeichnung für gesetzlich zwingende Haftung ist nicht vereinbart.
 
-Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/memory-palace-training/DATENSCHUTZ.md). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Angaben zur Verarbeitung Ihrer Daten enthält die [Datenschutzerklärung](https://persie0.github.io/legal/privacy/memory-palace-training/). Support und Beschwerden: [persie0@protonmail.com](mailto:persie0@protonmail.com).

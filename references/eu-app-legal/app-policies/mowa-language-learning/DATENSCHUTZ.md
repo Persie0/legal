@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "MoWa: Language Learning"
+package_id: "at.austriao.mowa"
+title: "Datenschutzerklärung – MoWa: Language Learning"
+permalink: /privacy/mowa-language-learning/
+---
+
 # Datenschutzerklärung für MoWa: Language Learning
 
 **Stand:** 5. November 2026

@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "Live Noise Cancellation Demo"
+package_id: "at.austriao.live_noise_cancelling"
+title: "Datenschutzerklärung – Live Noise Cancellation Demo"
+permalink: /privacy/live-noise-cancellation-demo/
+---
+
 # Datenschutzerklärung für Live Noise Cancellation Demo
 
 **Stand:** 5. November 2026

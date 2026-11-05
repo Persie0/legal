@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "Memory Palace Training"
+package_id: "com.austriao.memory_palace_builder"
+title: "Datenschutzerklärung – Memory Palace Training"
+permalink: /privacy/memory-palace-training/
+---
+
 # Datenschutzerklärung für Memory Palace Training
 
 **Stand:** 5. November 2026

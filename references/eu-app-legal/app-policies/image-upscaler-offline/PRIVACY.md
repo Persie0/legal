@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Image Upscaler Offline"
+package_id: "at.persie0.image_enhancer"
+title: "Privacy Policy – Image Upscaler Offline (English)"
+permalink: /privacy/image-upscaler-offline/en/
+---
+
 # Privacy Policy for Image Upscaler Offline
 
 **Last updated:** 5 November 2026
