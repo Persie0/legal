@@ -1,43 +1,56 @@
-# Datenschutzerklärung – Selfie Diary
+# Datenschutzerklärung für Selfie Diary
 
-## 1. Für wen gilt diese Erklärung?
+**Stand:** 5. November 2026
 
-Die Erklärung gilt für **Selfie Diary**, eine Anwendung für ein persönliches Foto-Tagebuch. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
+## 1. Geltungsbereich
 
-## 2. Wer ist verantwortlich?
+Diese Datenschutzerklärung betrifft **Selfie Diary** und beschreibt die Verarbeitung im Zusammenhang mit einem persönlichen Foto-Tagebuch. Die Verarbeitung gewählter Fotos erfolgt im dafür bereitgestellten App-Workflow; die Auswahl über die Systemgalerie ist keine Einwilligung zum Upload Ihrer Fotos. Maßgeblich ist die tatsächlich veröffentlichte App-Version.
 
-**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weiterführende [Anbieterkennzeichnung und Kontaktmöglichkeiten](https://persie0.github.io/translations_imprint/imprint-de.html).
+## 2. Verantwortlicher
 
-## 3. Verarbeitungszwecke und Datenübersicht
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
+## 3. Kurzübersicht
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
-| --- | --- | --- | --- |
-| Foto-Tagebuch führen | Von Ihnen ausgewählte Fotos, Notizen und Datumsangaben | Bereitstellung der gewählten Tagebuchfunktion | Im App-Speicher bis zur Löschung durch Sie |
+- Von Ihnen ausgewählte Fotos, Notizen und Datumsangaben bleiben auf Ihrem Gerät; ein Nutzerkonto ist nicht erforderlich.
+- In der überprüften Version ist kein externer Werbe-, Analyse- oder Kaufdienst eingebunden.
 
-## 4. Daten auf dem Endgerät und Berechtigungen
+## 4. Datenverarbeitung nach Zwecken
 
-Für die von Ihnen gestarteten Vorgänge werden insbesondere von Ihnen ausgewählte Fotos und verfasste Tagebucheinträge verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich lokal ausgeführten Vorgängen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-Für die von Ihnen genutzten Funktionen können die entsprechenden Foto- und Dateiberechtigungen erforderlich sein. Gerätespezifische Berechtigungen und Datei-Dialoge können sich unterscheiden.
+**Foto-Tagebuch führen**
 
-Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetzt keine weitere Einwilligung für ein anderes Verarbeitungsziel.
+- Daten: von Ihnen ausgewählte Fotos; Notizen; Datumsangaben.
+- Zweck: Bereitstellung der App-Funktion auf Ihrem Gerät.
+- Rechtsgrundlage: von Ihnen angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO.
+- Empfänger: keine; die Daten verbleiben auf Ihrem Gerät.
+- Speicherdauer/Löschung: bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren.
 
-## 5. An wen werden Daten übermittelt?
+## 5. Verarbeitung auf dem Gerät und Berechtigungen
 
-## 6. Weitergabe ins Ausland und Empfängerkategorien
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: von Ihnen ausgewählte Fotos und verfasste Tagebucheinträge. Sie können gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
+- Fotos/Dateien: Bilder für Tagebucheinträge auswählen.
 
-## 7. Speicherung, Löschung und Wahlmöglichkeiten
+Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken dar.
 
-Lokale Datensätze bleiben in der Regel bis zur freiwilligen Entfernung oder Deinstallation. Für Netzwerkdienste richten sich Speicher- und Löschfristen nach dem in Abschnitt 3 beschriebenen Zweck und gegebenenfalls den eigenen Regelungen des betreffenden Empfängers. Die Deinstallation beendet kein über den Store bezogenes Abonnement und löscht nicht automatisch gesondert exportierte Dateien oder Backups. Wo eine Funktion mit Einwilligung eingerichtet wurde, ist ein Widerruf für die Zukunft möglich. Wir unterstützen die Ausübung von Betroffenenrechten für Daten in unserem Verantwortungsbereich unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
+## 6. Externe Dienste und Empfänger
 
-## 8. Ihre Rechte
+In der überprüften Version sind keine externen Dienste eingebunden; Fotos und Einträge verbleiben auf Ihrem Gerät.
 
-Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und gegebenenfalls Datenübertragbarkeit verlangen. Die Verarbeitung aufgrund Einwilligung kann durch deren Widerruf für die Zukunft beendet werden, ohne dass die Rechtmäßigkeit der bereits erfolgten Verarbeitung entfällt. Zuständige Beschwerdebehörde ist unter anderem die [Österreichische Datenschutzbehörde](https://www.dsb.gv.at/).
+## 7. Speicherdauer und Löschung
 
-## 9. Datensicherheit, Kinder und Aktualisierungen
+Lokale Datensätze bleiben bis zu Ihrer Löschung bestehen. Mit dem Zurücksetzen der App-Daten oder der Deinstallation werden die im Gerät gespeicherten Inhalte entfernt; selbst exportierte Kopien bleiben davon unberührt.
 
-Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
+## 8. Übermittlung in Drittländer
+
+In der überprüften Version übermittelt die App keine Daten an externe Dienste. Sollten künftig Dienste hinzukommen, gelten die Anforderungen der Art. 44 ff. DSGVO.
+
+## 9. Ihre Rechte
+
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com).
+
+## 10. Kinder, Sicherheit und Aktualisierung
+
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Für Minderjährige gelten die einschlägigen Schutzvorschriften. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen.

@@ -1,58 +1,78 @@
-# Datenschutzerklärung – Video Upscaler Offline (macOS)
+# Datenschutzerklärung für Video Upscaler Offline (macOS)
 
-## 1. Für wen gilt diese Erklärung?
+**Stand:** 5. November 2026
 
-Die Erklärung gilt für **Video Upscaler Offline (macOS)**, eine Anwendung zur lokales Upscaling selbst ausgewählter Videos auf dem Mac. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
+## 1. Geltungsbereich
 
-## 2. Wer ist verantwortlich?
+Diese Datenschutzerklärung betrifft **Video Upscaler Offline (macOS)** und beschreibt die Verarbeitung im Zusammenhang mit dem lokalen Upscaling selbst ausgewählter Videos auf dem Mac. Die Verarbeitung gewählter Videodateien erfolgt auf dem Gerät; die Auswahl über den System-Dialog ist keine Einwilligung zum Upload Ihrer Videos. Maßgeblich ist die tatsächlich veröffentlichte App-Version.
 
-**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weiterführende [Anbieterkennzeichnung und Kontaktmöglichkeiten](https://persie0.github.io/translations_imprint/imprint-de.html).
+## 2. Verantwortlicher
 
-## 3. Verarbeitungszwecke und Datenübersicht
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
+## 3. Kurzübersicht
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
-| --- | --- | --- | --- |
-| Lokale Appfunktion | ausgewählte Videodateien; Vorschauen und Modelle; fertige Videos | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
-| Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten. | Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten. | Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). | Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage für Fehlerereignisse |
+- Ausgewählte Videos werden lokal auf Ihrem Mac verarbeitet und gespeichert; ein Upload der Originalvideos findet nicht statt.
+- Pro-Freischaltungen werden über den Mac App Store abgerechnet und über RevenueCat geprüft.
+- In der überprüften Version ist kein Werbedienst eingebunden.
+- Fehlerberichte gehen an eine selbst betriebene GlitchTip-Installation in Frankfurt am Main.
 
-## 4. Daten auf dem Endgerät und Berechtigungen
+## 4. Datenverarbeitung nach Zwecken
 
-Für die von Ihnen gestarteten Vorgänge werden insbesondere ausgewählte Videodateien, Vorschauen und Modelle, fertige Videos verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich lokal ausgeführten Vorgängen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-Die konkrete Appfunktion benötigt nach den ausgewerteten Quellen nicht zwingend einen pauschalen Zugriff auf Standort, Kamera oder Mikrofon. Gerätespezifische Berechtigungen und Datei-Dialoge können sich unterscheiden.
+**Verwendung der App auf Ihrem Gerät**
 
-Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetzt keine weitere Einwilligung für ein anderes Verarbeitungsziel.
+- Daten: ausgewählte Videodateien; Vorschauen und Modelle; fertige Videos.
+- Zweck: Bereitstellung der App-Funktion auf Ihrem Gerät.
+- Rechtsgrundlage: von Ihnen angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO.
+- Empfänger: keine; die Daten verbleiben auf Ihrem Gerät.
+- Speicherdauer/Löschung: bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren.
 
-## 5. An wen werden Daten übermittelt?
+**Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten** *(optional)*
 
-### In-app purchases (RevenueCat) – RevenueCat, Inc.; Apple App Store or Google Play
+- Daten: pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus).
+- Empfänger: RevenueCat und der gewählte App-Store; der Store ist für die Zahlung eigenständig verantwortlich (siehe Abschnitt 6).
+- Speicherdauer: für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung.
 
-**Wofür:** Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten.  
-**Datenarten:** Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten.  
-**Empfänger:** RevenueCat und der gewählte App-Store. Der Store ist für die Zahlung eigenständig Verantwortlicher.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus).  
-**Aufbewahrung:** Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung.  
-[Datenschutzhinweise des Dienstes](https://www.revenuecat.com/privacy/)
+**Technische Fehlerdiagnose**
 
-### Diagnosedienst – selbst betriebene GlitchTip-Installation
+- Daten: App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch.
+- Empfänger: selbst betriebene GlitchTip-Installation (siehe Abschnitt 6).
+- Speicherdauer: 14 Tage für Fehlerereignisse.
 
-Zur Fehlerbehebung verwenden wir eine eigene GlitchTip-Installation auf Oracle Cloud Infrastructure in Frankfurt am Main (Deutschland, Region eu-frankfurt-1). Technische Fehlerberichte können Stacktraces, App-/Systemversionen und Verbindungsdaten enthalten. Die Fehlerereignisse werden 14 Tage gespeichert. Rotierte Webserver-Zugriffsprotokolle werden nach sieben Tagen und Wartungsprotokolle nach 30 Tagen bereinigt.
+## 5. Verarbeitung auf dem Gerät und Berechtigungen
 
-## 6. Weitergabe ins Ausland und Empfängerkategorien
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: ausgewählte Videodateien, Vorschauen und Modelle sowie fertige Videos. Sie können gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
+- Dateien/Medien: Videodateien auswählen und Ergebnisse speichern (macOS-Zugriffsdialoge).
 
-## 7. Speicherung, Löschung und Wahlmöglichkeiten
+Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken dar.
 
-Lokale Datensätze bleiben in der Regel bis zur freiwilligen Entfernung oder Deinstallation. Für Netzwerkdienste richten sich Speicher- und Löschfristen nach dem in Abschnitt 3 beschriebenen Zweck und gegebenenfalls den eigenen Regelungen des betreffenden Empfängers. Die Deinstallation beendet kein über den Store bezogenes Abonnement und löscht nicht automatisch gesondert exportierte Dateien oder Backups. Wo eine Funktion mit Einwilligung eingerichtet wurde, ist ein Widerruf für die Zukunft möglich. Wir unterstützen die Ausübung von Betroffenenrechten für Daten in unserem Verantwortungsbereich unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
+## 6. Externe Dienste und Empfänger
 
-## 8. Ihre Rechte
+### Käufe und Berechtigungen (RevenueCat)
 
-Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und gegebenenfalls Datenübertragbarkeit verlangen. Die Verarbeitung aufgrund Einwilligung kann durch deren Widerruf für die Zukunft beendet werden, ohne dass die Rechtmäßigkeit der bereits erfolgten Verarbeitung entfällt. Zuständige Beschwerdebehörde ist unter anderem die [Österreichische Datenschutzbehörde](https://www.dsb.gv.at/).
+Zur Prüfung erworbener Freischaltungen verwenden wir RevenueCat; Kauf und Zahlungsdaten verarbeitet der jeweilige App-Store. [Datenschutzhinweise des Dienstes](https://www.revenuecat.com/privacy/)
 
-## 9. Datensicherheit, Kinder und Aktualisierungen
+### Fehlerberichte (GlitchTip, selbst betrieben)
 
-Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
+Zur Behebung von Programmfehlern verwenden wir eine eigene GlitchTip-Installation auf der Oracle-Cloud-Infrastruktur in Frankfurt am Main (Deutschland, Region eu-frankfurt-1). Hierbei können die App- und Systemversion, Fehlermeldungen, Stacktraces sowie technische Verbindungsdaten verarbeitet werden. Fehlerereignisse werden 14 Tage gespeichert; rotierte Webserver-Zugriffsprotokolle werden nach sieben Tagen, technische Wartungsprotokolle nach 30 Tagen bereinigt.
+
+## 7. Speicherdauer und Löschung
+
+Lokale Datensätze bleiben bis zu Ihrer Löschung bestehen. Mit dem Zurücksetzen der App-Daten oder der Deinstallation werden die im Gerät gespeicherten Inhalte entfernt; selbst exportierte Kopien bleiben davon unberührt.
+
+## 8. Übermittlung in Drittländer
+
+Die selbst betriebene GlitchTip-Installation steht in Frankfurt am Main (Deutschland); für diese Fehlerdaten besteht keine Übermittlung in ein Drittland. RevenueCat und der jeweilige App-Store können Daten auch außerhalb des EWR verarbeiten, etwa bei Anbietern mit Sitz in den USA. Soweit die DSGVO anwendbar ist, beruhen solche Übermittlungen auf einer zulässigen Grundlage nach Art. 44 ff. DSGVO, etwa einem einschlägigen Angemessenheitsbeschluss oder geeigneten Vertragsgarantien.
+
+## 9. Ihre Rechte
+
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com).
+
+## 10. Kinder, Sicherheit und Aktualisierung
+
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Für Minderjährige gelten die einschlägigen Schutzvorschriften. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen.

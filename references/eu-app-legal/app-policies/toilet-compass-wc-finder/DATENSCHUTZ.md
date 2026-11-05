@@ -1,80 +1,103 @@
-# Datenschutzerklärung – Toilet Compass
+# Datenschutzerklärung für Toilet Compass: WC Finder
 
-## 1. Für wen gilt diese Erklärung?
+**Stand:** 5. November 2026
 
-Die Erklärung gilt für **Toilet Compass**, eine Anwendung zur Suche nach WCs anhand von Standort und Kompass. Der Geräte-Standort, Download des regionalen WC-Datensatzes und Netzwerkzugriff auf eine Kartenkachel sind unterschiedliche technische Vorgänge. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
+## 1. Geltungsbereich
 
-## 2. Wer ist verantwortlich?
+Diese Datenschutzerklärung betrifft **Toilet Compass** und beschreibt die Verarbeitung im Zusammenhang mit der Suche nach WCs anhand von Standort und Kompass. Der Geräte-Standort, der Download des regionalen WC-Datensatzes und der Netzwerkzugriff auf eine Kartenkachel sind unterschiedliche technische Vorgänge. Maßgeblich ist die tatsächlich veröffentlichte App-Version.
 
-**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weiterführende [Anbieterkennzeichnung und Kontaktmöglichkeiten](https://persie0.github.io/translations_imprint/imprint-de.html).
+## 2. Verantwortlicher
 
-## 3. Verarbeitungszwecke und Datenübersicht
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
+## 3. Kurzübersicht
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
-| --- | --- | --- | --- |
-| Lokale Appfunktion | heruntergeladene regionale Toilettendatenbanken; aktueller Standort und Kompassrichtung während der Nutzung; zwischengespeicherte Treffer und Einstellungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
-| Die ausgewählte Offline-Datenbank laden und ihre Integrität prüfen. | IP, Anfragemetadaten und angeforderte Kontinentdatenbank; die Download-URL enthält keine Live-GPS-Koordinate. | Art. 6 Abs. 1 lit. b DSGVO und Art. 6 Abs. 1 lit. f für sichere Verteilung. | Datenbank bleibt bis zur Entfernung/Deinstallation auf dem Gerät. GitHub speichert Downloadprotokolle nach seiner Richtlinie; Persie0 führt kein separates Protokoll. |
-| Den von Ihnen gewünschten Kartenbereich anzeigen. | IP, User-Agent, Anfragezeit und angeforderte Kartenkachelkoordinaten/Zoomstufe, aus denen das betrachtete Gebiet hervorgehen kann. Der Kartenanbieter erhält kein Persie0-Kontopasswort. | Art. 6 Abs. 1 lit. b DSGVO für die gewünschte Karte und Art. 6 Abs. 1 lit. f für effiziente Auslieferung. | Persie0 führt keine Kartenkachel-Anfrageprotokolle; es gelten Anbieterfristen. Lokaler Cache wird durch App/Betriebssystem oder Deinstallation gelöscht. |
-| Auf Ihre Anforderung eine Route öffnen. | Ziel sowie aktueller Standort/Kontext, den die gewählte Karten-App nach Ihrem Öffnen hinzufügt; IP- und Geräte-/Kontodaten nach deren Einstellungen. | Art. 6 Abs. 1 lit. b DSGVO; der gewählte externe Anbieter ist eigenständig Verantwortlicher. | Nach Konto-/Datenschutzeinstellungen des externen Anbieters; Persie0 erhält die Route nicht. |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage für Fehlerereignisse |
+- Toiletten, Standort und Kompassdaten bleiben auf Ihrem Gerät; ein Nutzerkonto ist nicht erforderlich.
+- Regionale Offline-Datenbanken werden über GitHub geladen; die Download-URL enthält keine Live-GPS-Koordinate.
+- Kartenkacheln werden von CARTO auf Basis von OpenStreetMap-Daten geladen.
+- Auf Wunsch wird eine Route in der von Ihnen gewählten Karten-App geöffnet; dann ist deren Anbieter verantwortlich.
+- Fehlerberichte gehen an eine selbst betriebene GlitchTip-Installation in Frankfurt am Main.
 
-## 4. Daten auf dem Endgerät und Berechtigungen
+## 4. Datenverarbeitung nach Zwecken
 
-Für die von Ihnen gestarteten Vorgänge werden insbesondere heruntergeladene regionale Toilettendatenbanken, aktueller Standort und Kompassrichtung während der Nutzung, zwischengespeicherte Treffer und Einstellungen verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich lokal ausgeführten Vorgängen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
+
+**Verwendung der App auf Ihrem Gerät**
+
+- Daten: heruntergeladene regionale Toilettendatenbanken; aktueller Standort und Kompassrichtung während der Nutzung; zwischengespeicherte Treffer und Einstellungen.
+- Zweck: Bereitstellung der App-Funktion auf Ihrem Gerät.
+- Rechtsgrundlage: von Ihnen angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO.
+- Empfänger: keine; die Daten verbleiben auf Ihrem Gerät.
+- Speicherdauer/Löschung: bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren.
+
+**Die ausgewählte Offline-Datenbank laden und ihre Integrität prüfen**
+
+- Daten: IP, Anfragemetadaten und angeforderte Kontinentdatenbank; die Download-URL enthält keine Live-GPS-Koordinate.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO und Art. 6 Abs. 1 lit. f für sichere Verteilung.
+- Empfänger: GitHub (siehe Abschnitt 6).
+- Speicherdauer: die Datenbank bleibt bis zur Entfernung/Deinstallation auf dem Gerät; GitHub speichert Downloadprotokolle nach dessen Richtlinie, Persie0 führt kein separates Protokoll.
+
+**Den von Ihnen gewünschten Kartenbereich anzeigen**
+
+- Daten: IP, User-Agent, Anfragezeit und angeforderte Kartenkachelkoordinaten/Zoomstufe, aus denen das betrachtete Gebiet hervorgehen kann. Der Kartenanbieter erhält kein Persie0-Kontopasswort.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO für die gewünschte Karte und Art. 6 Abs. 1 lit. f für effiziente Auslieferung.
+- Empfänger: CARTO/CartoCDN und bei direkter Abfrage OpenStreetMap-bezogene Dienste (siehe Abschnitt 6).
+- Speicherdauer: Persie0 führt keine Kartenkachel-Anfrageprotokolle; es gelten Anbieterfristen. Der lokale Cache wird mit der App/dem Betriebssystem oder der Deinstallation gelöscht.
+
+**Auf Ihre Anforderung eine Route öffnen** *(optional)*
+
+- Daten: Ziel sowie aktueller Standort/Kontext, den die gewählte Karten-App nach Ihrem Öffnen hinzufügt; IP- und Geräte-/Kontodaten nach deren Einstellungen.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO; der gewählte externe Anbieter ist eigenständig verantwortlich.
+- Empfänger: die von Ihnen gewählte Karten-App/-Website (siehe Abschnitt 6).
+- Speicherdauer: nach Konto-/Datenschutzeinstellungen des externen Anbieters; Persie0 erhält die Route nicht.
+
+**Technische Fehlerdiagnose**
+
+- Daten: App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch.
+- Empfänger: selbst betriebene GlitchTip-Installation (siehe Abschnitt 6).
+- Speicherdauer: 14 Tage für Fehlerereignisse.
+
+## 5. Verarbeitung auf dem Gerät und Berechtigungen
+
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: heruntergeladene regionale Toilettendatenbanken, aktueller Standort und Kompassrichtung während der Nutzung, zwischengespeicherte Treffer und Einstellungen. Sie können gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
 - Genauer/ungefährer Standort: Toiletten in der Nähe finden und sortieren.
 - Kompass-/Bewegungssensoren: in Richtung einer Toilette zeigen.
 - Netzwerk: Toilettendatenbanken, Kartenkacheln und Diagnose laden.
 
-Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetzt keine weitere Einwilligung für ein anderes Verarbeitungsziel.
+Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken dar.
 
-## 5. An wen werden Daten übermittelt?
+## 6. Externe Dienste und Empfänger
 
-### Regional toilet database downloads – GitHub Releases hosted for Persie0
+### Toiletten-Datenbanken (GitHub Releases)
 
-**Wofür:** Die ausgewählte Offline-Datenbank laden und ihre Integrität prüfen.  
-**Datenarten:** IP, Anfragemetadaten und angeforderte Kontinentdatenbank; die Download-URL enthält keine Live-GPS-Koordinate.  
-**Empfänger:** GitHub.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO und Art. 6 Abs. 1 lit. f für sichere Verteilung.  
-**Aufbewahrung:** Datenbank bleibt bis zur Entfernung/Deinstallation auf dem Gerät. GitHub speichert Downloadprotokolle nach seiner Richtlinie; Persie0 führt kein separates Protokoll.  
-[Datenschutzhinweise des Dienstes](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+Die regionalen Offline-Datenbanken werden über GitHub Releases bereitgestellt; dabei können IP-Adresse, Anfragezeit und User-Agent verarbeitet werden. [Datenschutzhinweise des Dienstes](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
-### Map tiles and geographic content – CARTO/CartoCDN and OpenStreetMap contributors/services
+### Kartenkacheln (CARTO/CartoCDN)
 
-**Wofür:** Den von Ihnen gewünschten Kartenbereich anzeigen.  
-**Datenarten:** IP, User-Agent, Anfragezeit und angeforderte Kartenkachelkoordinaten/Zoomstufe, aus denen das betrachtete Gebiet hervorgehen kann. Der Kartenanbieter erhält kein Persie0-Kontopasswort.  
-**Empfänger:** CARTO/CDN und bei direkter Abfrage OpenStreetMap-bezogene Dienste.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO für die gewünschte Karte und Art. 6 Abs. 1 lit. f für effiziente Auslieferung.  
-**Aufbewahrung:** Persie0 führt keine Kartenkachel-Anfrageprotokolle; es gelten Anbieterfristen. Lokaler Cache wird durch App/Betriebssystem oder Deinstallation gelöscht.  
-[Datenschutzhinweise des Dienstes](https://carto.com/privacy/)
+Für die Kartenanzeige werden Kacheln über CARTO auf Basis von OpenStreetMap-Daten geladen. [Datenschutzhinweise des Dienstes](https://carto.com/privacy/)
 
-### External directions/map action – Google Maps or another app/site selected by your device
+### Externe Routenführung
 
-**Wofür:** Auf Ihre Anforderung eine Route öffnen.  
-**Datenarten:** Ziel sowie aktueller Standort/Kontext, den die gewählte Karten-App nach Ihrem Öffnen hinzufügt; IP- und Geräte-/Kontodaten nach deren Einstellungen.  
-**Empfänger:** Die von Ihnen gewählte Karten-App/-Website.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO; der gewählte externe Anbieter ist eigenständig Verantwortlicher.  
-**Aufbewahrung:** Nach Konto-/Datenschutzeinstellungen des externen Anbieters; Persie0 erhält die Route nicht.  
-[Datenschutzhinweise des Dienstes](https://policies.google.com/privacy)
+Auf Ihre Anforderung öffnet die App die Ziel-Toilette in der von Ihnen gewählten Karten-App oder Website (etwa Google Maps); deren Datennutzung regelt der jeweilige Anbieter. [Datenschutzhinweise von Google](https://policies.google.com/privacy)
 
-### Diagnosedienst – selbst betriebene GlitchTip-Installation
+### Fehlerberichte (GlitchTip, selbst betrieben)
 
-Zur Fehlerbehebung verwenden wir eine eigene GlitchTip-Installation auf Oracle Cloud Infrastructure in Frankfurt am Main (Deutschland, Region eu-frankfurt-1). Technische Fehlerberichte können Stacktraces, App-/Systemversionen und Verbindungsdaten enthalten. Die Fehlerereignisse werden 14 Tage gespeichert. Rotierte Webserver-Zugriffsprotokolle werden nach sieben Tagen und Wartungsprotokolle nach 30 Tagen bereinigt.
+Zur Behebung von Programmfehlern verwenden wir eine eigene GlitchTip-Installation auf der Oracle-Cloud-Infrastruktur in Frankfurt am Main (Deutschland, Region eu-frankfurt-1). Hierbei können die App- und Systemversion, Fehlermeldungen, Stacktraces sowie technische Verbindungsdaten verarbeitet werden. Fehlerereignisse werden 14 Tage gespeichert; rotierte Webserver-Zugriffsprotokolle werden nach sieben Tagen, technische Wartungsprotokolle nach 30 Tagen bereinigt.
 
-## 6. Weitergabe ins Ausland und Empfängerkategorien
+## 7. Speicherdauer und Löschung
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
+Lokale Datensätze bleiben bis zu Ihrer Löschung bestehen. Mit dem Zurücksetzen der App-Daten oder der Deinstallation werden die im Gerät gespeicherten Inhalte entfernt; selbst exportierte Kopien bleiben davon unberührt.
 
-## 7. Speicherung, Löschung und Wahlmöglichkeiten
+## 8. Übermittlung in Drittländer
 
-Lokale Datensätze bleiben in der Regel bis zur freiwilligen Entfernung oder Deinstallation. Für Netzwerkdienste richten sich Speicher- und Löschfristen nach dem in Abschnitt 3 beschriebenen Zweck und gegebenenfalls den eigenen Regelungen des betreffenden Empfängers. Die Deinstallation beendet kein über den Store bezogenes Abonnement und löscht nicht automatisch gesondert exportierte Dateien oder Backups. Wo eine Funktion mit Einwilligung eingerichtet wurde, ist ein Widerruf für die Zukunft möglich. Wir unterstützen die Ausübung von Betroffenenrechten für Daten in unserem Verantwortungsbereich unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Die selbst betriebene GlitchTip-Installation steht in Frankfurt am Main (Deutschland); für diese Fehlerdaten besteht keine Übermittlung in ein Drittland. GitHub und CARTO können Daten auch außerhalb des EWR verarbeiten, etwa bei Anbietern mit Sitz in den USA. Beim Öffnen einer Route in einer externen Karten-App gilt die Verarbeitung des jeweiligen Anbieters, die ebenfalls außerhalb des EWR erfolgen kann. Soweit die DSGVO anwendbar ist, beruhen solche Übermittlungen auf einer zulässigen Grundlage nach Art. 44 ff. DSGVO, etwa einem einschlägigen Angemessenheitsbeschluss oder geeigneten Vertragsgarantien.
 
-## 8. Ihre Rechte
+## 9. Ihre Rechte
 
-Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und gegebenenfalls Datenübertragbarkeit verlangen. Die Verarbeitung aufgrund Einwilligung kann durch deren Widerruf für die Zukunft beendet werden, ohne dass die Rechtmäßigkeit der bereits erfolgten Verarbeitung entfällt. Zuständige Beschwerdebehörde ist unter anderem die [Österreichische Datenschutzbehörde](https://www.dsb.gv.at/).
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com).
 
-## 9. Datensicherheit, Kinder und Aktualisierungen
+## 10. Kinder, Sicherheit und Aktualisierung
 
-Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Für Minderjährige gelten die einschlägigen Schutzvorschriften. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen.

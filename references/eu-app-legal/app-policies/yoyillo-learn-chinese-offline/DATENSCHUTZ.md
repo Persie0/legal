@@ -1,100 +1,125 @@
-# Datenschutzerklärung – Yoyillo: Learn Chinese Offline
+# Datenschutzerklärung für Yoyillo: Learn Chinese Offline
 
-## 1. Für wen gilt diese Erklärung?
+**Stand:** 5. November 2026
 
-Die Erklärung gilt für **Yoyillo: Learn Chinese Offline**, eine Anwendung zur Vokabeltraining mit optionalem Lernstandsabgleich. Die Lernfunktion kann offline sein, während ein ausdrücklich aktivierter Google-Drive- beziehungsweise iCloud-Abgleich einen Netzzugang benötigt. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
+## 1. Geltungsbereich
 
-## 2. Wer ist verantwortlich?
+Diese Datenschutzerklärung betrifft **Yoyillo: Learn Chinese Offline** und beschreibt die Verarbeitung im Zusammenhang mit Vokabeltraining und optionalem Lernstandsabgleich. Die Lernfunktion kann offline genutzt werden, während ein ausdrücklich aktivierter Google-Drive- beziehungsweise iCloud-Abgleich einen Netzzugang benötigt. Maßgeblich ist die tatsächlich veröffentlichte App-Version.
 
-**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weiterführende [Anbieterkennzeichnung und Kontaktmöglichkeiten](https://persie0.github.io/translations_imprint/imprint-de.html).
+## 2. Verantwortlicher
 
-## 3. Verarbeitungszwecke und Datenübersicht
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
+## 3. Kurzübersicht
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
-| --- | --- | --- | --- |
-| Lokale Appfunktion | Vokabelfortschritt, Antworten, Bewertungen und Wiederholungsplan; Einstellungen, ausgewählte Sprache und Wiedergabestatus; vorgemerkte Synchronisierungsänderungen | Vom Nutzer angeforderte Funktion; soweit wir personenbezogene Daten selbst verarbeiten: Art. 6 Abs. 1 lit. b DSGVO | Bis zur vom Nutzer veranlassten Löschung, Zurücksetzen der Appdaten oder Deinstallation |
-| Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten. | Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten. | Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus). | Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung. |
-| Regionale Voreinstellungen, Währung, Sprache oder den passenden Einwilligungsablauf wählen. | Öffentliche IP-Adresse, Anfragemetadaten und aus der IP abgeleitetes Land/Region; kein GPS-Standort. | Art. 6 Abs. 1 lit. f DSGVO (minimale regionale Konfiguration). Regionale Einstellungen können, soweit angeboten, überschrieben werden. | Die Antwort wird vorübergehend verwendet oder lokal zwischengespeichert; Persie0 führt kein Serverprotokoll. Anbieter speichern Anfrageprotokolle nach ihren Richtlinien. |
-| Fortschritt auf Ihre Anforderung sichern und synchronisieren. | Google-Autorisierung/Kontokennung und App-Daten-Zugriff; Vokabelfortschritt, Wiederholungsstatus, Einstellungen und Sync-Metadaten. | Art. 6 Abs. 1 lit. a/b DSGVO. Optional; Trennen widerruft die Einwilligung für künftige Synchronisierung. | Bis zur Löschung aus Drive/App-Daten, Trennung mit Löschung oder Schließung des Google-Kontos; Anbieter-Sicherungszyklen können gelten. |
-| Fortschritt zwischen Ihren Apple-Geräten synchronisieren. | iCloud-kontobezogene Kennung und über Apples iCloud-Dienste übermittelte Lernfortschritte/Einstellungen; Persie0 erhält Ihr Apple-Passwort nicht. | Art. 6 Abs. 1 lit. a/b DSGVO; optional und über App-/iCloud-Einstellungen steuerbar. | Bis zur Löschung der App-iCloud-Daten, Deaktivierung mit Löschung oder Schließung des Apple-Kontos; Apple-Sicherungszyklen können gelten. |
-| Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren. | Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren. | Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr. | Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht. |
-| Fehleranalyse | Fehlermeldung, Stacktrace, Appversion, Systemmerkmale und Netzwerkmetadaten | Art. 6 Abs. 1 lit. f DSGVO, soweit keine andere Rechtsgrundlage erforderlich ist | 14 Tage für Fehlerereignisse |
+- Vokabelfortschritt, Wiederholungsplan und Einstellungen bleiben auf Ihrem Gerät; die Lernfunktion ist offline nutzbar.
+- Optional: Sicherung über Google Drive und Abgleich zwischen Ihren Apple-Geräten über iCloud.
+- Pro-Freischaltungen werden über den App-Store abgerechnet und über RevenueCat geprüft.
+- Für regionale Einstellungen wird ein Ländererkennungsdienst abgefragt.
+- Fehlerberichte gehen an eine selbst betriebene GlitchTip-Installation in Frankfurt am Main.
 
-## 4. Daten auf dem Endgerät und Berechtigungen
+## 4. Datenverarbeitung nach Zwecken
 
-Für die von Ihnen gestarteten Vorgänge werden insbesondere Vokabelfortschritt, Antworten, Bewertungen und Wiederholungsplan, Einstellungen, ausgewählte Sprache und Wiedergabestatus, vorgemerkte Synchronisierungsänderungen verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich lokal ausgeführten Vorgängen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
+
+**Verwendung der App auf Ihrem Gerät**
+
+- Daten: Vokabelfortschritt, Antworten, Bewertungen und Wiederholungsplan; Einstellungen, ausgewählte Sprache und Wiedergabestatus; vorgemerkte Synchronisierungsänderungen.
+- Zweck: Bereitstellung der App-Funktion auf Ihrem Gerät.
+- Rechtsgrundlage: von Ihnen angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO.
+- Empfänger: keine; die Daten verbleiben auf Ihrem Gerät.
+- Speicherdauer/Löschung: bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren.
+
+**Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten** *(optional)*
+
+- Daten: pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus).
+- Empfänger: RevenueCat und der gewählte App-Store; der Store ist für die Zahlung eigenständig verantwortlich (siehe Abschnitt 6).
+- Speicherdauer: für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung.
+
+**Regionale Voreinstellungen, Währung, Sprache oder Einwilligungsablauf wählen**
+
+- Daten: öffentliche IP-Adresse, Anfragemetadaten und ein daraus abgeleitetes Land/eine Region; kein GPS-Standort.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (minimale regionale Konfiguration). Regionale Einstellungen können, soweit angeboten, überschrieben werden.
+- Empfänger: der jeweils zuerst verfügbare Ländererkennungsdienst (siehe Abschnitt 6).
+- Speicherdauer: die Antwort wird vorübergehend verwendet oder lokal zwischengespeichert; Persie0 führt kein Serverprotokoll. Anbieter speichern Anfrageprotokolle nach ihren Richtlinien.
+
+**Fortschritt auf Ihre Anforderung sichern und synchronisieren** *(optional)*
+
+- Daten: Google-Autorisierung/Kontokennung und App-Daten-Zugriff; Vokabelfortschritt, Wiederholungsstatus, Einstellungen und Sync-Metadaten.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. a/b DSGVO; optional, das Trennen widerruft die Einwilligung für künftige Synchronisierungen.
+- Empfänger: Google; die Daten liegen im von Ihnen gewählten Google-Drive-Konto (siehe Abschnitt 6).
+- Speicherdauer: bis zur Löschung aus Drive/App-Daten, Trennung mit Löschung oder Schließung des Google-Kontos; Anbieter-Sicherungszyklen können gelten.
+
+**Fortschritt zwischen Ihren Apple-Geräten synchronisieren** *(optional)*
+
+- Daten: iCloud-kontobezogene Kennung und über Apples iCloud-Dienste übermittelte Lernfortschritte/Einstellungen; Persie0 erhält Ihr Apple-Passwort nicht.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. a/b DSGVO; optional und über App-/iCloud-Einstellungen steuerbar.
+- Empfänger: Apple (siehe Abschnitt 6).
+- Speicherdauer: bis zur Löschung der App-iCloud-Daten, Deaktivierung mit Löschung oder Schließung des Apple-Kontos; Apple-Sicherungszyklen können gelten.
+
+**Supportanfrage beantworten, Fehler untersuchen und Austausch dokumentieren** *(optional, nur wenn Sie uns kontaktieren)*
+
+- Daten: Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr.
+- Empfänger: Ihr E-Mail-Anbieter, E-Mail-Transportdienste und Proton (siehe Abschnitt 6).
+- Speicherdauer: für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht.
+
+**Technische Fehlerdiagnose**
+
+- Daten: App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten.
+- Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch.
+- Empfänger: selbst betriebene GlitchTip-Installation (siehe Abschnitt 6).
+- Speicherdauer: 14 Tage für Fehlerereignisse.
+
+## 5. Verarbeitung auf dem Gerät und Berechtigungen
+
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: Vokabelfortschritt, Antworten, Bewertungen und Wiederholungsplan, Einstellungen, ausgewählte Sprache und Wiedergabestatus sowie vorgemerkte Synchronisierungsänderungen. Sie können gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
 - Dateien: Lerndaten importieren/exportieren, soweit angeboten.
 - Benachrichtigungen/Audiodienst: gewünschte Lektionen und Wiedergabe.
 - Google-/Apple-Anmeldung: nur für die von Ihnen aktivierte Cloud-Synchronisierung.
 
-Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetzt keine weitere Einwilligung für ein anderes Verarbeitungsziel.
+Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken dar.
 
-## 5. An wen werden Daten übermittelt?
+## 6. Externe Dienste und Empfänger
 
-### In-app purchases (RevenueCat) – RevenueCat, Inc.; Apple App Store or Google Play
+### Käufe und Berechtigungen (RevenueCat)
 
-**Wofür:** Bezahlfunktionen aktivieren, Käufe wiederherstellen, Betrug verhindern und Support leisten.  
-**Datenarten:** Pseudonyme/anonyme App-Nutzerkennung, Produkt- und Berechtigungskennungen, Kauf-/Abonnementstatus, Store-Transaktionsmetadaten, technische App-/Gerätedaten und die in Netzwerkprotokollen sichtbare IP. Persie0 erhält keine Zahlungskartendaten.  
-**Empfänger:** RevenueCat und der gewählte App-Store. Der Store ist für die Zahlung eigenständig Verantwortlicher.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Kauf/Dienst) und Art. 6 Abs. 1 lit. f (Betrugsprävention und zuverlässiger Berechtigungsstatus).  
-**Aufbewahrung:** Für die Kauf-/Abonnementbeziehung und soweit für Wiederherstellung, Streitfälle sowie gesetzliche Buchführungs-/Anspruchsfristen nötig; danach Löschung oder De-Identifizierung.  
-[Datenschutzhinweise des Dienstes](https://www.revenuecat.com/privacy/)
+Zur Prüfung erworbener Freischaltungen verwenden wir RevenueCat; Kauf und Zahlungsdaten verarbeitet der jeweilige App-Store. [Datenschutzhinweise des Dienstes](https://www.revenuecat.com/privacy/)
 
-### Country/region detection – ipapi.co, FreeIPAPI and/or ip-api.com
+### Ländererkennung
 
-**Wofür:** Regionale Voreinstellungen, Währung, Sprache oder den passenden Einwilligungsablauf wählen.  
-**Datenarten:** Öffentliche IP-Adresse, Anfragemetadaten und aus der IP abgeleitetes Land/Region; kein GPS-Standort.  
-**Empfänger:** Der jeweils zuerst verfügbare oben genannte Ländererkennungsdienst.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (minimale regionale Konfiguration). Regionale Einstellungen können, soweit angeboten, überschrieben werden.  
-**Aufbewahrung:** Die Antwort wird vorübergehend verwendet oder lokal zwischengespeichert; Persie0 führt kein Serverprotokoll. Anbieter speichern Anfrageprotokolle nach ihren Richtlinien.  
-[Datenschutzhinweise des Dienstes](https://ipapi.co/privacy/)
+Für regionale Voreinstellungen wird der zuerst verfügbare der Dienste ipapi.co, FreeIPAPI oder ip-api.com abgefragt. [Datenschutzhinweise des Dienstes](https://ipapi.co/privacy/)
 
-### Optional Google Drive learning sync – Google Ireland Limited / Google LLC
+### Optionale Google-Drive-Synchronisierung
 
-**Wofür:** Fortschritt auf Ihre Anforderung sichern und synchronisieren.  
-**Datenarten:** Google-Autorisierung/Kontokennung und App-Daten-Zugriff; Vokabelfortschritt, Wiederholungsstatus, Einstellungen und Sync-Metadaten.  
-**Empfänger:** Google; Daten im von Ihnen gewählten Google-Drive-Konto.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a/b DSGVO. Optional; Trennen widerruft die Einwilligung für künftige Synchronisierung.  
-**Aufbewahrung:** Bis zur Löschung aus Drive/App-Daten, Trennung mit Löschung oder Schließung des Google-Kontos; Anbieter-Sicherungszyklen können gelten.  
-[Datenschutzhinweise des Dienstes](https://developers.google.com/terms/api-services-user-data-policy)
+Die Sicherung und Synchronisierung des Lernfortschritts erfolgt in das von Ihnen gewählte Google-Drive-Konto. [Datenschutzhinweise des Dienstes](https://developers.google.com/terms/api-services-user-data-policy)
 
-### Optional iCloud learning sync – Apple Distribution International Ltd. / Apple Inc.
+### Optionale iCloud-Synchronisierung
 
-**Wofür:** Fortschritt zwischen Ihren Apple-Geräten synchronisieren.  
-**Datenarten:** iCloud-kontobezogene Kennung und über Apples iCloud-Dienste übermittelte Lernfortschritte/Einstellungen; Persie0 erhält Ihr Apple-Passwort nicht.  
-**Empfänger:** Apple.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a/b DSGVO; optional und über App-/iCloud-Einstellungen steuerbar.  
-**Aufbewahrung:** Bis zur Löschung der App-iCloud-Daten, Deaktivierung mit Löschung oder Schließung des Apple-Kontos; Apple-Sicherungszyklen können gelten.  
-[Datenschutzhinweise des Dienstes](https://www.apple.com/legal/privacy/)
+Die Synchronisierung des Lernfortschritts zwischen Ihren Apple-Geräten läuft über Ihre iCloud und ist über die App- und iCloud-Einstellungen steuerbar. [Datenschutzhinweise von Apple](https://www.apple.com/legal/privacy/)
 
-### Optional support email – Your email provider and Proton Mail used by Persie0
+### Support per E-Mail
 
-**Wofür:** Anfrage beantworten, Fehler untersuchen und Austausch dokumentieren.  
-**Datenarten:** Absenderadresse, Nachricht, Anhänge und technische E-Mail-Header, nur wenn Sie Support kontaktieren.  
-**Empfänger:** E-Mail-Transportanbieter und Proton.  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO; Art. 6 Abs. 1 lit. f für Supportqualität und Anspruchsabwehr.  
-**Aufbewahrung:** Für den Supportaustausch und bei Bedarf für Rechtsansprüche bis zu drei Jahre danach; länger nur bei gesetzlicher Pflicht.  
-[Datenschutzhinweise des Dienstes](https://proton.me/legal/privacy)
+Wenn Sie uns kontaktieren, ist auch Ihr eigener E-Mail-Anbieter an der Übermittlung beteiligt. Auf unserer Seite verwenden wir Proton Mail ([Datenschutzhinweise](https://proton.me/legal/privacy)).
 
-### Diagnosedienst – selbst betriebene GlitchTip-Installation
+### Fehlerberichte (GlitchTip, selbst betrieben)
 
-Zur Fehlerbehebung verwenden wir eine eigene GlitchTip-Installation auf Oracle Cloud Infrastructure in Frankfurt am Main (Deutschland, Region eu-frankfurt-1). Technische Fehlerberichte können Stacktraces, App-/Systemversionen und Verbindungsdaten enthalten. Die Fehlerereignisse werden 14 Tage gespeichert. Rotierte Webserver-Zugriffsprotokolle werden nach sieben Tagen und Wartungsprotokolle nach 30 Tagen bereinigt.
+Zur Behebung von Programmfehlern verwenden wir eine eigene GlitchTip-Installation auf der Oracle-Cloud-Infrastruktur in Frankfurt am Main (Deutschland, Region eu-frankfurt-1). Hierbei können die App- und Systemversion, Fehlermeldungen, Stacktraces sowie technische Verbindungsdaten verarbeitet werden. Fehlerereignisse werden 14 Tage gespeichert; rotierte Webserver-Zugriffsprotokolle werden nach sieben Tagen, technische Wartungsprotokolle nach 30 Tagen bereinigt.
 
-## 6. Weitergabe ins Ausland und Empfängerkategorien
+## 7. Speicherdauer und Löschung
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
+Lokale Datensätze bleiben bis zu Ihrer Löschung bestehen. Mit dem Zurücksetzen der App-Daten oder der Deinstallation werden die im Gerät gespeicherten Inhalte entfernt; selbst exportierte Kopien bleiben davon unberührt.
 
-## 7. Speicherung, Löschung und Wahlmöglichkeiten
+## 8. Übermittlung in Drittländer
 
-Lokale Datensätze bleiben in der Regel bis zur freiwilligen Entfernung oder Deinstallation. Für Netzwerkdienste richten sich Speicher- und Löschfristen nach dem in Abschnitt 3 beschriebenen Zweck und gegebenenfalls den eigenen Regelungen des betreffenden Empfängers. Die Deinstallation beendet kein über den Store bezogenes Abonnement und löscht nicht automatisch gesondert exportierte Dateien oder Backups. Wo eine Funktion mit Einwilligung eingerichtet wurde, ist ein Widerruf für die Zukunft möglich. Wir unterstützen die Ausübung von Betroffenenrechten für Daten in unserem Verantwortungsbereich unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Die selbst betriebene GlitchTip-Installation steht in Frankfurt am Main (Deutschland); für diese Fehlerdaten besteht keine Übermittlung in ein Drittland. RevenueCat, der Ländererkennungsdienst, Google und Apple können Daten auch außerhalb des EWR verarbeiten; die Cloud-Synchronisierungen laufen in das von Ihnen gewählte Google-Drive- beziehungsweise iCloud-Konto. Auch App-Stores und E-Mail-Dienste können Daten außerhalb des EWR speichern. Soweit die DSGVO anwendbar ist, beruhen solche Übermittlungen auf einer zulässigen Grundlage nach Art. 44 ff. DSGVO, etwa einem einschlägigen Angemessenheitsbeschluss oder geeigneten Vertragsgarantien.
 
-## 8. Ihre Rechte
+## 9. Ihre Rechte
 
-Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und gegebenenfalls Datenübertragbarkeit verlangen. Die Verarbeitung aufgrund Einwilligung kann durch deren Widerruf für die Zukunft beendet werden, ohne dass die Rechtmäßigkeit der bereits erfolgten Verarbeitung entfällt. Zuständige Beschwerdebehörde ist unter anderem die [Österreichische Datenschutzbehörde](https://www.dsb.gv.at/).
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com).
 
-## 9. Datensicherheit, Kinder und Aktualisierungen
+## 10. Kinder, Sicherheit und Aktualisierung
 
-Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Für Minderjährige gelten die einschlägigen Schutzvorschriften. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen.

@@ -1,45 +1,57 @@
-# Datenschutzerklärung – VPN & Proxy Detector
+# Datenschutzerklärung für VPN & Proxy Detector
 
-## 1. Für wen gilt diese Erklärung?
+**Stand:** 5. November 2026
 
-Die Erklärung gilt für **VPN & Proxy Detector**, eine Anwendung zum Prüfen von VPN- und Proxy-Verbindungen. Die Verarbeitung wird nach dem Zweck der jeweils ausgewählten Funktion unterschieden. Für externe Websites oder freiwillig verbundene Onlinekonten können ergänzend die eigenen Datenschutzhinweise dieser Betreiber gelten.
+## 1. Geltungsbereich
 
-## 2. Wer ist verantwortlich?
+Diese Datenschutzerklärung betrifft **VPN & Proxy Detector** und beschreibt die Verarbeitung im Zusammenhang mit der Prüfung von VPN- und Proxy-Verbindungen. Maßgeblich ist die tatsächlich veröffentlichte App-Version. Die genannten Daten dienen der von Ihnen ausgelösten Funktion.
 
-**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weiterführende [Anbieterkennzeichnung und Kontaktmöglichkeiten](https://persie0.github.io/translations_imprint/imprint-de.html).
+## 2. Verantwortlicher
 
-## 3. Verarbeitungszwecke und Datenübersicht
+**Marvin Perzi (Persie0)**, Angerdorf 6, 3822 Karlstein an der Thaya, Österreich. E-Mail: [persie0@protonmail.com](mailto:persie0@protonmail.com). Weitere Unternehmensangaben und Kontaktmöglichkeiten: [Impressum](https://persie0.github.io/translations_imprint/imprint-de.html).
 
-Wir unterscheiden Informationen, die ausschließlich im privaten Speicher Ihres Geräts verarbeitet werden, von Informationen, die bei Netzwerkdiensten anfallen. Die einzelnen Vorgänge sind nach Zweck, Datenart, Rechtsgrundlage und Löschkriterium aufgeführt. Eine Anmeldung in einem App-Store führt nicht automatisch dazu, dass Persie0 sämtliche von diesem Store gespeicherten Daten erhält.
+## 3. Kurzübersicht
 
-| Zweck | Datenarten | Rechtsgrundlage / Anlass | Speicherdauer oder Löschkriterium |
-| --- | --- | --- | --- |
-| Netzwerkprüfung | Netzwerkschnittstellen, VPN-/Proxy-Konfiguration und Prüfergebnisse | Bereitstellung der von Ihnen gestarteten Netzwerkprüfung | Im App-Speicher bis zur Löschung durch Sie, soweit Ergebnisse gespeichert werden |
+- Netzwerkmerkmale und Prüfergebnisse bleiben auf Ihrem Gerät; ein Nutzerkonto ist nicht erforderlich.
+- In der überprüften Version ist kein externer Werbe-, Analyse- oder Kaufdienst eingebunden.
+- Eine Prüfung garantiert keine anonyme, sichere oder verschlüsselte Verbindung.
 
-## 4. Daten auf dem Endgerät und Berechtigungen
+## 4. Datenverarbeitung nach Zwecken
 
-Für die von Ihnen gestarteten Vorgänge werden insbesondere die für eine gewählte Prüfung benötigten Netzwerkmerkmale und deren Ergebnis verarbeitet. Diese Informationen dienen der Appfunktion und stehen nicht automatisch sämtlichen externen Unternehmen zur Verfügung. Daten in der App lassen sich – je nach angebotener Löschfunktion – einzeln entfernen, durch Zurücksetzen der App-Daten löschen oder mit der Deinstallation entfernen. Eine selbst exportierte Datei bleibt im gewählten Zielverzeichnis erhalten.
+Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler Verarbeitung und Daten, die auf Servern oder bei unabhängigen Diensten anfallen, zu unterscheiden. Bei ausschließlich lokal ausgeführten Vorgängen erhält Persie0 nicht automatisch Zugriff auf deren Inhalte.
 
-Für eine Netzwerkprüfung können Funktionen des Betriebssystems sowie Netzwerkverbindungen verwendet werden. Gerätespezifische Berechtigungen und Datei-Dialoge können sich unterscheiden.
+**Netzwerkprüfung durchführen**
 
-Eine Systemberechtigung dient allein dem bezeichneten Gerätezugriff. Sie ersetzt keine weitere Einwilligung für ein anderes Verarbeitungsziel.
+- Daten: Netzwerkschnittstellen; VPN-/Proxy-Konfiguration; Prüfergebnisse.
+- Zweck: Bereitstellung der App-Funktion auf Ihrem Gerät.
+- Rechtsgrundlage: von Ihnen angeforderte Funktion; soweit personenbezogene Daten durch uns verarbeitet werden, Art. 6 Abs. 1 lit. b DSGVO.
+- Empfänger: keine; die Daten verbleiben auf Ihrem Gerät.
+- Speicherdauer/Löschung: bis Sie die lokalen Daten löschen, zurücksetzen oder die App deinstallieren.
 
-## 5. An wen werden Daten übermittelt?
+## 5. Verarbeitung auf dem Gerät und Berechtigungen
 
-Bei einer von Ihnen veranlassten Prüfung verarbeitet die App Netzwerkeinstellungen, soweit dies für die Anzeige des Prüfergebnisses erforderlich ist.
+Im Gerätespeicher werden für die angeforderten Funktionen insbesondere folgende Daten verwendet: die für eine gewählte Prüfung benötigten Netzwerkmerkmale und deren Ergebnis. Sie können gespeicherte Inhalte über die dafür angebotene App-Funktion entfernen beziehungsweise lokale App-Daten über das Betriebssystem zurücksetzen. Exportierte Kopien können außerhalb der App weiterbestehen.
 
-## 6. Weitergabe ins Ausland und Empfängerkategorien
+- Betriebssystem-Funktionen und Netzwerkverbindungen: die von Ihnen gestartete Prüfung durchführen.
 
-Manche Dienstleister können Informationen außerhalb des EWR speichern oder von dort abrufen. Dafür muss, soweit die DSGVO anwendbar ist, eine zulässige Übermittlungsgrundlage nach Art. 44 ff. DSGVO bestehen. Für die Übermittlung in Drittländer gelten die gesetzlichen Schutzvoraussetzungen. 
+Eine Systemberechtigung erlaubt nur den jeweiligen Gerätezugriff und stellt keine Zustimmung zu unabhängigen Werbe- oder Analysezwecken dar.
 
-## 7. Speicherung, Löschung und Wahlmöglichkeiten
+## 6. Externe Dienste und Empfänger
 
-Lokale Datensätze bleiben in der Regel bis zur freiwilligen Entfernung oder Deinstallation. Für Netzwerkdienste richten sich Speicher- und Löschfristen nach dem in Abschnitt 3 beschriebenen Zweck und gegebenenfalls den eigenen Regelungen des betreffenden Empfängers. Die Deinstallation beendet kein über den Store bezogenes Abonnement und löscht nicht automatisch gesondert exportierte Dateien oder Backups. Wo eine Funktion mit Einwilligung eingerichtet wurde, ist ein Widerruf für die Zukunft möglich. Wir unterstützen die Ausübung von Betroffenenrechten für Daten in unserem Verantwortungsbereich unter [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Bei einer von Ihnen veranlassten Prüfung verarbeitet die App Netzwerkeinstellungen, soweit dies für die Anzeige des Prüfergebnisses erforderlich ist. Weitere externe Dienste sind in der überprüften Version nicht eingebunden.
 
-## 8. Ihre Rechte
+## 7. Speicherdauer und Löschung
 
-Nach Maßgabe der DSGVO können Sie Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und gegebenenfalls Datenübertragbarkeit verlangen. Die Verarbeitung aufgrund Einwilligung kann durch deren Widerruf für die Zukunft beendet werden, ohne dass die Rechtmäßigkeit der bereits erfolgten Verarbeitung entfällt. Zuständige Beschwerdebehörde ist unter anderem die [Österreichische Datenschutzbehörde](https://www.dsb.gv.at/).
+Lokale Datensätze bleiben bis zu Ihrer Löschung bestehen. Mit dem Zurücksetzen der App-Daten oder der Deinstallation werden die im Gerät gespeicherten Inhalte entfernt; selbst exportierte Kopien bleiben davon unberührt.
 
-## 9. Datensicherheit, Kinder und Aktualisierungen
+## 8. Übermittlung in Drittländer
 
-Wir berücksichtigen Datensparsamkeit und angemessene Sicherheitsmaßnahmen. Keine technische Übertragung ist völlig risikolos. Soweit das Produkt an Minderjährige gerichtet wird, gelten zusätzliche Schutz- und Einwilligungsvorgaben. Über wesentliche Änderungen der Datenverarbeitung informieren wir in einer aktualisierten Erklärung; erforderliche neue Einwilligungen werden nicht durch bloßes Weiterbenutzen fingiert.
+In der überprüften Version übermittelt die App keine Daten an externe Dienste. Sollten künftig Dienste hinzukommen, gelten die Anforderungen der Art. 44 ff. DSGVO.
+
+## 9. Ihre Rechte
+
+Ihnen stehen nach Maßgabe der DSGVO die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, gegebenenfalls Datenübertragbarkeit und Widerspruch zu. Erteilte Einwilligungen können für die Zukunft widerrufen werden. Eine Beschwerde ist bei einer Datenschutzaufsichtsbehörde möglich, insbesondere der [österreichischen Datenschutzbehörde](https://dsb.gv.at/). Für an uns gerichtete Anliegen kontaktieren Sie [persie0@protonmail.com](mailto:persie0@protonmail.com).
+
+## 10. Kinder, Sicherheit und Aktualisierung
+
+Wir richten die Verarbeitung am jeweiligen Zweck aus und berücksichtigen angemessene Sicherheitsmaßnahmen. Für Minderjährige gelten die einschlägigen Schutzvorschriften. Bei wesentlichen Änderungen der Zwecke, Datenarten oder Empfänger werden wir diese Erklärung anpassen und erforderlichenfalls eine gesonderte Einwilligung einholen.
