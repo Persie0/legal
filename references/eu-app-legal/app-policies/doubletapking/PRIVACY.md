@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "DoubleTapKing - Clicking Game"
+package_id: "at.austriao.double_tap_king"
+title: "Privacy Policy – DoubleTapKing - Clicking Game (English)"
+permalink: /privacy/doubletapking/en/
+---
+
 # Privacy Policy for DoubleTapKing
 
 **Last updated:** 5 November 2026

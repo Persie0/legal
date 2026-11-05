@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "Fake Location Detector"
+package_id: "at.austriao.fake_gps_detector_app"
+title: "Datenschutzerklärung – Fake Location Detector"
+permalink: /privacy/fake-location-detector/
+---
+
 # Datenschutzerklärung für Fake Location Detector
 
 **Stand:** 5. November 2026

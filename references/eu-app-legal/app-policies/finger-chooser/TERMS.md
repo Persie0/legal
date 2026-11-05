@@ -29,4 +29,4 @@ Statutory claims regarding defective digital content or services, damages and ma
 
 ## Privacy and termination
 
-The [app-specific privacy policy](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/finger-chooser/PRIVACY.md) explains data categories, recipients and deletion. Deleting the app does not automatically remove files you exported yourself, optional external backups or running store subscriptions.
+The [app-specific privacy policy](https://persie0.github.io/legal/privacy/finger-chooser/en/) explains data categories, recipients and deletion. Deleting the app does not automatically remove files you exported yourself, optional external backups or running store subscriptions.

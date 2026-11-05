@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "Finger Chooser (+cheat mode)"
+package_id: "at.persie0.finger_chooser"
+title: "Datenschutzerklärung – Finger Chooser (+cheat mode)"
+permalink: /privacy/finger-chooser/
+---
+
 # Datenschutzerklärung für Finger Chooser (+cheat mode)
 
 **Stand:** 5. November 2026

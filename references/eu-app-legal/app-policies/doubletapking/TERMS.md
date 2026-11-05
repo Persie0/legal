@@ -31,4 +31,4 @@ We may provide compatible updates for bug fixing and security. Mandatory claims 
 
 ## 6. Privacy and support
 
-The [privacy policy](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/doubletapking/PRIVACY.md) explains the data processing. Please direct questions and support requests to [persie0@protonmail.com](mailto:persie0@protonmail.com).
+The [privacy policy](https://persie0.github.io/legal/privacy/doubletapking/en/) explains the data processing. Please direct questions and support requests to [persie0@protonmail.com](mailto:persie0@protonmail.com).

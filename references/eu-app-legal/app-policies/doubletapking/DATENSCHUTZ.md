@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy
+app_name: "DoubleTapKing - Clicking Game"
+package_id: "at.austriao.double_tap_king"
+title: "Datenschutzerklärung – DoubleTapKing - Clicking Game"
+permalink: /privacy/doubletapking/
+---
+
 # Datenschutzerklärung für DoubleTapKing
 
 **Stand:** 5. November 2026

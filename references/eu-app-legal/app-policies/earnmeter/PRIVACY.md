@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "EarnMeter: Work Motivator"
+package_id: "at.persie0.paymeter"
+title: "Privacy Policy – EarnMeter: Work Motivator (English)"
+permalink: /privacy/earnmeter/en/
+---
+
 # Privacy Policy for EarnMeter: Work Motivator
 
 **Last updated:** 5 November 2026

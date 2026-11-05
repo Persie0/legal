@@ -31,4 +31,4 @@ Wir können kompatible Aktualisierungen zur Fehlerbehebung und Sicherheit bereit
 
 ## 6. Datenschutz und Support
 
-Die [Datenschutzerklärung](https://github.com/Persie0/legal/blob/main/references/eu-app-legal/app-policies/doubletapking/DATENSCHUTZ.md) erläutert die Datenverarbeitung. Fragen und Supportanfragen richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com).
+Die [Datenschutzerklärung](https://persie0.github.io/legal/privacy/doubletapking/) erläutert die Datenverarbeitung. Fragen und Supportanfragen richten Sie an [persie0@protonmail.com](mailto:persie0@protonmail.com).
