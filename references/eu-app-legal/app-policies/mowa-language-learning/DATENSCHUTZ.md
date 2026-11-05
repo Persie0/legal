@@ -41,7 +41,7 @@ Die Verarbeitung ist nach Funktion gegliedert. Dabei ist zwischen rein lokaler V
 - Daten: App-/Systemversion, Fehlermeldung, Stacktrace und technische HTTP-/Gerätedaten.
 - Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO, Schutz vor Fehlern und Missbrauch.
 - Empfänger: Sentry.io (Functional Software, Inc.; siehe Abschnitt 6).
-- Speicherdauer: 14 Tage für Fehlerereignisse; für Aufbewahrung und mögliche Übermittlungen außerhalb des EWR gelten die mit Sentry vereinbarten Speicherregeln.
+- Speicherdauer: nach den mit Sentry vereinbarten Speicherregeln und den gesetzlichen Datenschutzanforderungen.
 
 ## 5. Verarbeitung auf dem Gerät und Berechtigungen
 
