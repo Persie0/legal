@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Secret Audio Messages"
+package_id: "at.austriao.secret_audio_message"
+title: "Privacy Policy – Secret Audio Messages (English)"
+permalink: /privacy/secret-audio-messages/en/
+---
+
 # Privacy Policy for Secret Audio Messages
 
 **Last updated:** 5 November 2026

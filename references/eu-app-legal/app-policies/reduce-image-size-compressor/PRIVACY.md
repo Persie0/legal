@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Reduce Image Size - Compressor"
+package_id: "at.persie0.image_compress"
+title: "Privacy Policy – Reduce Image Size - Compressor (English)"
+permalink: /privacy/reduce-image-size-compressor/en/
+---
+
 # Privacy Policy for Reduce Image Size – Compressor
 
 **Last updated:** 5 November 2026

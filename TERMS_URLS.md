@@ -2,7 +2,7 @@
 
 These are the intended GitHub Pages URLs for the existing German Terms of Service. **Enable Pages on `main` → `/ (root)` before using them in store dashboards.** Existing terms must be checked against the released app and legal obligations before submission. The URLs are not verified as live until Pages has deployed.
 
-**English versions:** each app also has an English terms draft (`TERMS.md`, `legal_kind: terms-en`) served at the German URL with `en/` appended, e.g. https://persie0.github.io/legal/terms/neon-snake/en/. The English privacy drafts (`PRIVACY.md`) are not Jekyll pages; they are served as plain files from https://persie0.github.io/legal/references/eu-app-legal/app-policies/<app-slug>/PRIVACY.md. Live website links for every app's documents (privacy and terms, German and English) are indexed in [APP_POLICY_LINKS.md](APP_POLICY_LINKS.md).
+**English versions:** each app also has an English terms draft (`TERMS.md`, `legal_kind: terms-en`) served at the German URL with `en/` appended, e.g. https://persie0.github.io/legal/terms/neon-snake/en/. The English privacy drafts (`PRIVACY.md`, `legal_kind: privacy-en`) are served at https://persie0.github.io/legal/privacy/<app-slug>/en/. Live website links for every app's documents (privacy and terms, German and English) are indexed in [APP_POLICY_LINKS.md](APP_POLICY_LINKS.md).
 
 | App | Package ID | Terms URL |
 | --- | --- | --- |
@@ -37,6 +37,6 @@ These are the intended GitHub Pages URLs for the existing German Terms of Servic
 | Vitamin D Tracker | `at.persie0.vitamindtracker` | https://persie0.github.io/legal/terms/vitamin-d-tracker/ |
 | VPN & Proxy Detector | `at.persie0.vpn_proxy_detector` | https://persie0.github.io/legal/terms/vpn-proxy-detector/ |
 | Yoyillo | `at.persie0.hanziHero` | https://persie0.github.io/legal/terms/yoyillo-learn-chinese-offline/ |
-| Video Upscaler Offline (macOS) | `—` | https://persie0.github.io/legal/terms/video-upscaler-offline-macos/ |
+| Video Upscaler Offline (macOS) | `null` | https://persie0.github.io/legal/terms/video-upscaler-offline-macos/ |
 
 **Source of truth:** `references/eu-app-legal/app-policies/<app-slug>/NUTZUNGSBEDINGUNGEN.md`. Do not edit generated site output; Jekyll uses the existing Markdown document. No app-specific terms were newly invented for this deployment.

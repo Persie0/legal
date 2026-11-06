@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Yoyillo: Learn Chinese Offline"
+package_id: "at.persie0.hanziHero"
+title: "Privacy Policy – Yoyillo: Learn Chinese Offline (English)"
+permalink: /privacy/yoyillo-learn-chinese-offline/en/
+---
+
 # Privacy Policy for Yoyillo: Learn Chinese Offline
 
 **Last updated:** 5 November 2026

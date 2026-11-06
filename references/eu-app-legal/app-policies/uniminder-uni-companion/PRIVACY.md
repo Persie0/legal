@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "UniMinder - Uni Companion"
+package_id: "at.persie0.uniminder"
+title: "Privacy Policy – UniMinder - Uni Companion (English)"
+permalink: /privacy/uniminder-uni-companion/en/
+---
+
 # Privacy Policy for UniMinder – Uni Companion
 
 **Last updated:** 5 November 2026

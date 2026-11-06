@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Root & Phone Mods Detection"
+package_id: "at.persie0.root_detection_app"
+title: "Privacy Policy – Root & Phone Mods Detection (English)"
+permalink: /privacy/root-phone-mods-detection/en/
+---
+
 # Privacy Policy for Root & Phone Mods Detection
 
 **Last updated:** 5 November 2026

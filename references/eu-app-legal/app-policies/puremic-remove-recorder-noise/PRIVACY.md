@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "PureMic: Remove Recorder Noise"
+package_id: "at.persie0.recordernoiseremover"
+title: "Privacy Policy – PureMic: Remove Recorder Noise (English)"
+permalink: /privacy/puremic-remove-recorder-noise/en/
+---
+
 # Privacy Policy for PureMic: Remove Recorder Noise
 
 **Last updated:** 5 November 2026

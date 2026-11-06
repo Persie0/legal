@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Resistor Color Code Scanner"
+package_id: "at.austriao.resistor_scanner"
+title: "Privacy Policy – Resistor Color Code Scanner (English)"
+permalink: /privacy/resistor-color-code-scanner/en/
+---
+
 # Privacy Policy for Resistor Color Code Scanner
 
 **Last updated:** 5 November 2026

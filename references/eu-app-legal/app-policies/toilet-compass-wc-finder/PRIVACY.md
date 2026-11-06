@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Toilet Compass: WC Finder"
+package_id: "at.persie0.toiletcompass"
+title: "Privacy Policy – Toilet Compass: WC Finder (English)"
+permalink: /privacy/toilet-compass-wc-finder/en/
+---
+
 # Privacy Policy for Toilet Compass: WC Finder
 
 **Last updated:** 5 November 2026

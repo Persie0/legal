@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Recipe Price Calculator"
+package_id: "at.austriao.food_portion_price_calulator"
+title: "Privacy Policy – Recipe Price Calculator (English)"
+permalink: /privacy/recipe-price-calculator/en/
+---
+
 # Privacy Policy for Recipe Price Calculator
 
 **Last updated:** 5 November 2026

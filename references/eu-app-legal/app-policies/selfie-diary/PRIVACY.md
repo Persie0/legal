@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Selfie Diary"
+package_id: "com.persie0.selfie_diary"
+title: "Privacy Policy – Selfie Diary (English)"
+permalink: /privacy/selfie-diary/en/
+---
+
 # Privacy Policy for Selfie Diary
 
 **Last updated:** 5 November 2026

@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "VPN & Proxy Detector"
+package_id: "at.persie0.vpn_proxy_detector"
+title: "Privacy Policy – VPN & Proxy Detector (English)"
+permalink: /privacy/vpn-proxy-detector/en/
+---
+
 # Privacy Policy for VPN & Proxy Detector
 
 **Last updated:** 5 November 2026

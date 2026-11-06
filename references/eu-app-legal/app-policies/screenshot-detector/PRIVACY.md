@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Screenshot Detector"
+package_id: "at.persie0.screenchecker"
+title: "Privacy Policy – Screenshot Detector (English)"
+permalink: /privacy/screenshot-detector/en/
+---
+
 # Privacy Policy for Screenshot Detector
 
 **Last updated:** 5 November 2026

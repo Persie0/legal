@@ -1,3 +1,11 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "Video Upscaler Offline (macOS)"
+title: "Privacy Policy – Video Upscaler Offline (macOS) (English)"
+permalink: /privacy/video-upscaler-offline-macos/en/
+---
+
 # Privacy Policy for Video Upscaler Offline (macOS)
 
 **Last updated:** 5 November 2026

@@ -1,3 +1,12 @@
+---
+layout: legal
+legal_kind: privacy-en
+app_name: "QR Code Tools (Offline)"
+package_id: "at.austrianapps.qr_code_scanner"
+title: "Privacy Policy – QR Code Tools (Offline) (English)"
+permalink: /privacy/qr-code-tools-offline/en/
+---
+
 # Privacy Policy for QR Code Tools (Offline)
 
 **Last updated:** 5 November 2026
